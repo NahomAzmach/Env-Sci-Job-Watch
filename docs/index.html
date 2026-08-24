@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Field Notes — Conservation Job Watch</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🌲</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,650&family=Work+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --sand:#efe9db; --card:#fbf8f1; --ink:#22372b; --fir:#1e4230; --moss:#4a7c59;
+  --river:#31708a; --bark:#7a6a55; --line:#ddd3bf; --new:#c96f2e; --shadow:rgba(46,62,45,.08);
+}
+@media (prefers-color-scheme: dark){
+  :root{
+    --sand:#141b16; --card:#1c2620; --ink:#e4e8dd; --fir:#a9c9ae; --moss:#7fb08a;
+    --river:#7db6cc; --bark:#a49682; --line:#2e3c31; --new:#e59b5c; --shadow:rgba(0,0,0,.3);
+  }
+}
+*{box-sizing:border-box;margin:0}
+body{background:var(--sand);color:var(--ink);font-family:"Work Sans",system-ui,sans-serif;line-height:1.5}
+a{color:var(--river)}
+
+/* ── header with contour-line signature ── */
+header{position:relative;overflow:hidden;background:var(--fir);color:#f2efe4;padding:34px 24px 30px}
+@media (prefers-color-scheme: dark){ header{background:#0f1712;color:#dde5d6} }
+header svg.contours{position:absolute;inset:0;width:100%;height:100%;opacity:.22;pointer-events:none}
+.h-inner{position:relative;max-width:1060px;margin:0 auto}
+.eyebrow{font-size:12px;letter-spacing:.22em;text-transform:uppercase;color:#b9cdb4;margin-bottom:6px}
+h1{font-family:"Fraunces",serif;font-weight:650;font-size:clamp(26px,4.5vw,40px);letter-spacing:.01em}
+.h-sub{margin-top:8px;font-size:14px;color:#c6d2be;max-width:60ch}
+.h-meta{margin-top:14px;font-size:13px;color:#9fb49a;display:flex;gap:18px;flex-wrap:wrap}
+.h-meta strong{color:#e8ecdc;font-weight:600}
+
+/* ── filter bar ── */
+.bar{position:sticky;top:0;z-index:5;background:var(--sand);border-bottom:1px solid var(--line);padding:12px 24px}
+.bar-inner{max-width:1060px;margin:0 auto;display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+.chip{border:1px solid var(--line);background:var(--card);color:var(--ink);border-radius:999px;
+  padding:6px 14px;font-size:13px;font-weight:500;cursor:pointer;transition:all .15s}
+.chip:hover{border-color:var(--moss)}
+.chip.on{background:var(--moss);border-color:var(--moss);color:#fff}
+.chip.on-new{background:var(--new);border-color:var(--new);color:#fff}
+.sep{width:1px;align-self:stretch;background:var(--line);margin:0 4px}
+#q{flex:1;min-width:160px;border:1px solid var(--line);background:var(--card);color:var(--ink);
+  border-radius:999px;padding:7px 16px;font:inherit;font-size:13px}
+#q:focus{outline:2px solid var(--moss);outline-offset:1px}
+select{border:1px solid var(--line);background:var(--card);color:var(--ink);border-radius:999px;
+  padding:6px 12px;font:inherit;font-size:13px;cursor:pointer}
+.count-line{max-width:1060px;margin:14px auto 0;padding:0 24px;font-size:13px;color:var(--bark)}
+
+/* ── job cards ── */
+.grid{max-width:1060px;margin:10px auto 60px;padding:0 24px;display:grid;
+  grid-template-columns:repeat(auto-fill,minmax(310px,1fr));gap:14px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:16px 18px;
+  display:flex;flex-direction:column;gap:6px;box-shadow:0 1px 3px var(--shadow);
+  transition:transform .12s, box-shadow .12s;position:relative}
+.card:hover{transform:translateY(-2px);box-shadow:0 4px 14px var(--shadow)}
+.card .src{font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--bark);
+  display:flex;justify-content:space-between;align-items:center;gap:8px}
+.badge-new{background:var(--new);color:#fff;font-size:11px;font-weight:600;letter-spacing:.05em;
+  border-radius:999px;padding:2px 9px;text-transform:none}
+.card h3{font-family:"Fraunces",serif;font-weight:500;font-size:17px;line-height:1.3}
+.card h3 a{color:var(--ink);text-decoration:none}
+.card h3 a:hover{color:var(--moss);text-decoration:underline}
+.card .org{font-size:13.5px;font-weight:600;color:var(--moss)}
+.card .meta{font-size:13px;color:var(--bark)}
+.card .foot{margin-top:auto;padding-top:8px;display:flex;justify-content:space-between;gap:8px;
+  font-size:12.5px;color:var(--bark);border-top:1px dashed var(--line)}
+.card .deadline{color:var(--new);font-weight:500}
+.state-tag{font-size:11px;font-weight:600;color:var(--river)}
+.empty{max-width:1060px;margin:60px auto;padding:0 24px;text-align:center;color:var(--bark)}
+.empty .big{font-size:40px}
+footer{padding:26px 24px 40px;text-align:center;font-size:12.5px;color:var(--bark)}
+@media (prefers-reduced-motion: reduce){ .card{transition:none} }
+</style>
+</head>
+<body>
+
+<header>
+  <svg class="contours" viewBox="0 0 1200 220" preserveAspectRatio="none" aria-hidden="true">
+    <g fill="none" stroke="#cfe3c8" stroke-width="1.1">
+      <path d="M-20,190 C180,130 260,210 470,160 S820,90 1230,150"/>
+      <path d="M-20,160 C160,100 300,180 500,130 S840,60 1230,120"/>
+      <path d="M-20,130 C150,75 330,150 530,100 S860,35 1230,92"/>
+      <path d="M-20,100 C140,50 350,120 560,72 S880,12 1230,64"/>
+      <path d="M-20,70 C130,28 370,90 590,46 S900,-10 1230,38"/>
+      <path d="M-20,215 C200,160 240,235 450,190 S800,120 1230,180"/>
+    </g>
+  </svg>
+  <div class="h-inner">
+    <div class="eyebrow">Conservation · Ecology · Wildlife · WA / OR / CA</div>
+    <h1>Field Notes: Job Watch</h1>
+    <p class="h-sub">Every opening from Conservation Job Board, the TAMU Natural Resources board, and Washington State government — gathered twice a day.</p>
+    <div class="h-meta">
+      <span>Tracking <strong id="m-total">–</strong> jobs</span>
+      <span><strong id="m-new">–</strong> new in the last 48 h</span>
+      <span>Last checked <strong id="m-updated">–</strong></span>
+    </div>
+  </div>
+</header>
+
+<div class="bar">
+  <div class="bar-inner" id="filters">
+    <button class="chip" data-f="new" aria-pressed="false">🌱 New</button>
+    <span class="sep"></span>
+    <button class="chip" data-f="state" data-v="WA">WA</button>
+    <button class="chip" data-f="state" data-v="OR">OR</button>
+    <button class="chip" data-f="state" data-v="CA">CA</button>
+    <span class="sep"></span>
+    <button class="chip" data-f="source" data-v="Conservation Job Board">Conservation JB</button>
+    <button class="chip" data-f="source" data-v="TAMU Job Board">TAMU</button>
+    <button class="chip" data-f="source" data-v="WA State Gov Jobs">WA Gov</button>
+    <span class="sep"></span>
+    <input id="q" type="search" placeholder="Search title, org, location…" aria-label="Search jobs">
+    <select id="sort" aria-label="Sort jobs">
+      <option value="new">Newest first</option>
+      <option value="title">Title A–Z</option>
+      <option value="org">Organization A–Z</option>
+    </select>
+  </div>
+</div>
+
+<div class="count-line" id="count"></div>
+<main class="grid" id="grid"></main>
+<div class="empty" id="empty" hidden>
+  <div class="big">🍂</div>
+  <p>No jobs match these filters. Clear a filter or two to widen the trail.</p>
+</div>
+
+<footer>Job Notifier · runs free on GitHub Actions · data refreshes twice daily</footer>
+
+<script>
+const NEW_WINDOW_H = 48;
+let jobs = [], updated = null;
+const active = { new:false, state:new Set(), source:new Set(), q:"", sort:"new" };
+
+const esc = s => (s||"").replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const isNew = j => (Date.now() - Date.parse(j.first_seen)) < NEW_WINDOW_H*3600e3;
+
+function render(){
+  let list = jobs.filter(j =>
+    (!active.new || isNew(j)) &&
+    (!active.state.size || active.state.has(j.state)) &&
+    (!active.source.size || active.source.has(j.source)) &&
+    (!active.q || (j.title+" "+j.org+" "+j.location).toLowerCase().includes(active.q))
+  );
+  if (active.sort === "title") list.sort((a,b)=>a.title.localeCompare(b.title));
+  else if (active.sort === "org") list.sort((a,b)=>a.org.localeCompare(b.org));
+  else list.sort((a,b)=>Date.parse(b.first_seen)-Date.parse(a.first_seen));
+
+  document.getElementById("count").textContent =
+    list.length === jobs.length ? `${list.length} jobs` : `${list.length} of ${jobs.length} jobs`;
+  document.getElementById("empty").hidden = list.length > 0;
+  document.getElementById("grid").innerHTML = list.map(j => `
+    <article class="card">
+      <div class="src"><span>${esc(j.source)}</span>${isNew(j) ? '<span class="badge-new">🌱 New</span>' : `<span class="state-tag">${esc(j.state)}</span>`}</div>
+      <h3><a href="${esc(j.url)}" target="_blank" rel="noopener">${esc(j.title)}</a></h3>
+      <div class="org">${esc(j.org)}</div>
+      <div class="meta">${esc([j.location, j.job_type].filter(Boolean).join(" · "))}</div>
+      ${j.salary ? `<div class="meta">${esc(j.salary)}</div>` : ""}
+      <div class="foot">
+        <span>${esc(j.posted || "")}</span>
+        ${j.deadline ? `<span class="deadline">${esc(/^close|^continuous/i.test(j.deadline) ? j.deadline : "Deadline: "+j.deadline)}</span>` : ""}
+      </div>
+    </article>`).join("");
+}
+
+document.getElementById("filters").addEventListener("click", e => {
+  const b = e.target.closest(".chip"); if (!b) return;
+  const f = b.dataset.f, v = b.dataset.v;
+  if (f === "new") {
+    active.new = !active.new;
+    b.classList.toggle("on-new", active.new);
+    b.setAttribute("aria-pressed", active.new);
+  } else {
+    active[f].has(v) ? active[f].delete(v) : active[f].add(v);
+    b.classList.toggle("on", active[f].has(v));
+  }
+  render();
+});
+document.getElementById("q").addEventListener("input", e => { active.q = e.target.value.trim().toLowerCase(); render(); });
+document.getElementById("sort").addEventListener("change", e => { active.sort = e.target.value; render(); });
+
+fetch("data/jobs.json").then(r => r.json()).then(d => {
+  jobs = Object.values(d.jobs);
+  updated = d.updated;
+  document.getElementById("m-total").textContent = jobs.length;
+  document.getElementById("m-new").textContent = jobs.filter(isNew).length;
+  document.getElementById("m-updated").textContent = updated
+    ? new Date(updated).toLocaleString(undefined,{month:"short",day:"numeric",hour:"numeric",minute:"2-digit"}) : "–";
+  render();
+}).catch(() => {
+  document.getElementById("count").textContent = "Could not load job data (data/jobs.json).";
+});
+</script>
+</body>
+</html>
