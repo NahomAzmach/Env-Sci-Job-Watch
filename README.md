@@ -8,6 +8,8 @@ A free, always-on watcher for conservation / natural-resources jobs. Twice a day
 
 New jobs are emailed as a digest, and every tracked job appears on a filterable dashboard.
 
+https://nahomazmach.github.io/Env-sci-job-watch/
+
 ## How it works
 
 - `scraper/main.py` scrapes all sources, diffs against `docs/data/jobs.json`, emails anything new, and saves the updated data.
