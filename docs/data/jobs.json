@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T02:01:03Z",
+ "updated": "2026-10-22T18:22:52Z",
  "jobs": {
   "6739d3ac62d82ba8": {
    "id": "6739d3ac62d82ba8",
@@ -14,22 +14,22 @@
    "job_type": "",
    "url": "https://www.worldcampus.psu.edu/penn-state-online-geospatial-programs",
    "first_seen": "2026-08-24T21:07:17Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "574f3d66c128a7c7": {
    "id": "574f3d66c128a7c7",
    "source": "Conservation Job Board",
-   "title": "Master of Environmental Management – Online Degree",
+   "title": "Environmental Management – Online Masters & Certificate Programs",
    "org": "University of Connecticut",
    "location": "100% Online Study",
-   "state": "WA",
+   "state": "CA",
    "salary": "",
    "deadline": "",
    "posted": "",
    "job_type": "",
    "url": "https://meem.uconn.edu/",
    "first_seen": "2026-08-24T21:07:17Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "1e80132c54a367f9": {
    "id": "1e80132c54a367f9",
@@ -59,7 +59,7 @@
    "job_type": "",
    "url": "https://cligs.vt.edu/virginia-tech-master-of-natural-resources.html",
    "first_seen": "2026-08-24T21:07:17Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "4c705901407f007c": {
    "id": "4c705901407f007c",
@@ -74,7 +74,7 @@
    "job_type": "",
    "url": "https://at.antioch.edu/cjb-mses",
    "first_seen": "2026-08-24T21:07:17Z",
-   "last_seen": "2026-10-21T02:07:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "7b6f76217de230c9": {
    "id": "7b6f76217de230c9",
@@ -89,7 +89,7 @@
    "job_type": "",
    "url": "https://at.antioch.edu/cjb-cbmp",
    "first_seen": "2026-08-24T21:07:17Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "c3cdb6e385096216": {
    "id": "c3cdb6e385096216",
@@ -160,11 +160,11 @@
    "state": "CA",
    "salary": "Total Compensation Package from  $1030-$1075 a week",
    "deadline": "",
-   "posted": "28 days ago",
+   "posted": "29 days ago",
    "job_type": "Temporary",
    "url": "https://www.conservationjobboard.com/job-listing-outdoor-education-instructor-running-springs-california/3776022738",
    "first_seen": "2026-08-24T21:07:17Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "9229a48dc8002d95": {
    "id": "9229a48dc8002d95",
@@ -179,7 +179,7 @@
    "job_type": "",
    "url": "https://www.worldcampus.psu.edu/penn-state-online-energy-and-sustainability-studies-portfolio",
    "first_seen": "2026-08-24T21:07:17Z",
-   "last_seen": "2026-10-21T02:07:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "015d418ca42d7ca4": {
    "id": "015d418ca42d7ca4",
@@ -194,7 +194,7 @@
    "job_type": "",
    "url": "https://at.antioch.edu/cjb-msescb",
    "first_seen": "2026-08-24T21:07:17Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "fb7a2c0984b819cc": {
    "id": "fb7a2c0984b819cc",
@@ -217,14 +217,14 @@
    "title": "Quantitative Ecology Courses for Students and Professionals",
    "org": "Center for Wildlife Studies",
    "location": "Online",
-   "state": "CA",
+   "state": "OR",
    "salary": "",
    "deadline": "",
    "posted": "",
    "job_type": "",
    "url": "https://www.centerforwildlifestudies.org/courses/applied-quantitative-ecology",
    "first_seen": "2026-08-24T21:07:17Z",
-   "last_seen": "2026-10-20T18:22:45Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "526da773910257c0": {
    "id": "526da773910257c0",
@@ -269,7 +269,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=97282",
    "first_seen": "2026-08-24T21:07:17Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "1f1be17e1c5ff015": {
    "id": "1f1be17e1c5ff015",
@@ -374,7 +374,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=117620",
    "first_seen": "2026-08-24T21:07:17Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "29015ea52d8981f4": {
    "id": "29015ea52d8981f4",
@@ -404,7 +404,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=118115",
    "first_seen": "2026-08-24T21:07:17Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "e3d395af7200ca49": {
    "id": "e3d395af7200ca49",
@@ -419,7 +419,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=118096",
    "first_seen": "2026-08-24T21:07:17Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "50fad2e156b7d9df": {
    "id": "50fad2e156b7d9df",
@@ -449,7 +449,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=118052",
    "first_seen": "2026-08-24T21:07:17Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "7aa38e73539e1747": {
    "id": "7aa38e73539e1747",
@@ -524,7 +524,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=114976",
    "first_seen": "2026-08-24T21:07:17Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "2668142413a25d6e": {
    "id": "2668142413a25d6e",
@@ -554,7 +554,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=117652",
    "first_seen": "2026-08-24T21:07:17Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "cf402c474dd4f9de": {
    "id": "cf402c474dd4f9de",
@@ -569,7 +569,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=117555",
    "first_seen": "2026-08-24T21:07:17Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "7816189c44b9b46d": {
    "id": "7816189c44b9b46d",
@@ -584,7 +584,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=115598",
    "first_seen": "2026-08-24T21:07:17Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "21f3ad48c2870573": {
    "id": "21f3ad48c2870573",
@@ -614,7 +614,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=115890",
    "first_seen": "2026-08-24T21:07:17Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "ecab0719de1daa6d": {
    "id": "ecab0719de1daa6d",
@@ -629,7 +629,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=115795",
    "first_seen": "2026-08-24T21:07:17Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "2412f12e8c16f10d": {
    "id": "2412f12e8c16f10d",
@@ -644,7 +644,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=115515",
    "first_seen": "2026-08-24T21:07:17Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "8bcb3505c2622514": {
    "id": "8bcb3505c2622514",
@@ -659,7 +659,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=103099",
    "first_seen": "2026-08-24T21:07:17Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "dbc684f2ca708fa5": {
    "id": "dbc684f2ca708fa5",
@@ -689,7 +689,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=114833",
    "first_seen": "2026-08-24T21:07:17Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "32558a67a3d88b83": {
    "id": "32558a67a3d88b83",
@@ -899,7 +899,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=117666",
    "first_seen": "2026-08-24T21:07:17Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "367d778f4cda484f": {
    "id": "367d778f4cda484f",
@@ -989,7 +989,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=113281",
    "first_seen": "2026-08-24T21:07:17Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "832703e876aac032": {
    "id": "832703e876aac032",
@@ -1034,7 +1034,7 @@
    "job_type": "Remote: Flexible/Hybrid",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5323463/air-and-waste-management-engineer-environmental-engineer-3",
    "first_seen": "2026-08-24T21:07:17Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "a445bc2e66d0e79e": {
    "id": "a445bc2e66d0e79e",
@@ -1049,7 +1049,7 @@
    "job_type": "Full Time - Permanent",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5452995/cashier-fiscal-analyst-fiscal-analyst-2",
    "first_seen": "2026-08-24T21:07:17Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "e809461a75126b90": {
    "id": "e809461a75126b90",
@@ -1064,7 +1064,7 @@
    "job_type": "Remote: Flexible/Hybrid",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5443274/cashiering-and-fees-manager-wms-band-1",
    "first_seen": "2026-08-24T21:07:17Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "dbfa98b33139eb86": {
    "id": "dbfa98b33139eb86",
@@ -1154,7 +1154,7 @@
    "job_type": "Full Time - Permanent",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5161661/division-land-surveyor-land-surveyor-3-ls3",
    "first_seen": "2026-08-24T21:07:17Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "a3a7d228c084f286": {
    "id": "a3a7d228c084f286",
@@ -1169,7 +1169,7 @@
    "job_type": "Remote: Flexible/Hybrid",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5441432/enterprise-portfolio-manager-it-project-management-senior-specialist",
    "first_seen": "2026-08-24T21:07:17Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "4de3db9a202e44e0": {
    "id": "4de3db9a202e44e0",
@@ -1199,7 +1199,7 @@
    "job_type": "Remote: Flexible/Hybrid",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5439098/environmental-laboratory-auditor-inorganic-chemistry-chemist-3-2-positions",
    "first_seen": "2026-08-24T21:07:17Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "32b1cd674847c16d": {
    "id": "32b1cd674847c16d",
@@ -1229,7 +1229,7 @@
    "job_type": "Full Time - Permanent",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5240079/fish-and-wildlife-enforcement-officer-2026-01421",
    "first_seen": "2026-08-24T21:07:17Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "0374d24cc22b0162": {
    "id": "0374d24cc22b0162",
@@ -1274,7 +1274,7 @@
    "job_type": "Full Time - Permanent",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5434893/heavy-equipment-operator-maintenance-mechanic-3-permanent-two-openings-20",
    "first_seen": "2026-08-24T21:07:17Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "682cc15a0932eaf9": {
    "id": "682cc15a0932eaf9",
@@ -1299,12 +1299,12 @@
    "location": "Multiple Locations - Eastern Washington, WA",
    "state": "WA",
    "salary": "$25.32 - $34.07 Hourly",
-   "deadline": "Closes in 3 weeks",
+   "deadline": "Closes in 2 weeks",
    "posted": "Posted 1 week ago",
    "job_type": "Full Time - Non-Permanent",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5452898/highway-maintenance-worker-2-spokane-colfax-davenport-colville-areas",
    "first_seen": "2026-08-24T21:07:17Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "1efd7dbc1893f607": {
    "id": "1efd7dbc1893f607",
@@ -1319,7 +1319,7 @@
    "job_type": "Remote: Flexible/Hybrid",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5400812/hydrogeologist-4",
    "first_seen": "2026-08-24T21:07:17Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "41e45709adb399d2": {
    "id": "41e45709adb399d2",
@@ -1364,7 +1364,7 @@
    "job_type": "Full Time - Permanent",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5161392/professional-land-surveyor-land-surveyor-3-ls3",
    "first_seen": "2026-08-24T21:07:17Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "8764ad7922c5e308": {
    "id": "8764ad7922c5e308",
@@ -1409,7 +1409,7 @@
    "job_type": "Remote: Flexible/Hybrid",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5341912/science-and-engineering-unit-supervisor-environmental-engineer-5",
    "first_seen": "2026-08-24T21:07:17Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "afa72ac03174999f": {
    "id": "afa72ac03174999f",
@@ -1424,7 +1424,7 @@
    "job_type": "Remote: Flexible/Hybrid",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5338242/senior-industrial-permits-engineer-and-stormwater-technical-expert-environmental",
    "first_seen": "2026-08-24T21:07:17Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "74aadae2f4e46812": {
    "id": "74aadae2f4e46812",
@@ -1469,7 +1469,7 @@
    "job_type": "Remote: Flexible/Hybrid",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5413997/spill-responder-environmental-specialist-3-in-training",
    "first_seen": "2026-08-24T21:07:17Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "cae9f482049c1b4f": {
    "id": "cae9f482049c1b4f",
@@ -1561,21 +1561,6 @@
    "first_seen": "2026-08-24T21:07:17Z",
    "last_seen": "2026-09-29T19:10:46Z"
   },
-  "10c83bf62482b530": {
-   "id": "10c83bf62482b530",
-   "source": "WA State Gov Jobs",
-   "title": "WCC Administrative Operations Manager (Natural Resource Specialist 5)",
-   "org": "Dept. of Ecology",
-   "location": "Multiple Locations Statewide, WA",
-   "state": "WA",
-   "salary": "$71,136.00 - $95,676.00 Annually",
-   "deadline": "Continuous",
-   "posted": "Posted more than 30 days ago",
-   "job_type": "Remote: Flexible/Hybrid",
-   "url": "https://www.governmentjobs.com/careers/washington/jobs/5446736/wcc-administrative-operations-manager-natural-resource-specialist-5",
-   "first_seen": "2026-08-24T21:07:17Z",
-   "last_seen": "2026-09-22T17:59:26Z"
-  },
   "4a32012c1910a091": {
    "id": "4a32012c1910a091",
    "source": "WA State Gov Jobs",
@@ -1649,7 +1634,7 @@
    "job_type": "Volunteer",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5324395/wdfw-volunteer-opportunities-2026-03627",
    "first_seen": "2026-08-24T21:07:17Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "01200e010e337c5c": {
    "id": "01200e010e337c5c",
@@ -1674,12 +1659,12 @@
    "location": "Multiple Locations - Central Washington, WA",
    "state": "WA",
    "salary": "$27.97 - $34.07 Hourly",
-   "deadline": "Closes in 4 hours",
-   "posted": "Posted more than 30 days ago",
+   "deadline": "Closes in 1 month",
+   "posted": "Posted 1 day ago",
    "job_type": "Full Time - Non-Permanent",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5451520/winter-highway-maintenance-worker-2-connell-pasco-prosser",
    "first_seen": "2026-08-24T21:07:17Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "d2283f25c7faed28": {
    "id": "d2283f25c7faed28",
@@ -1709,7 +1694,7 @@
    "job_type": "",
    "url": "https://www.centerforwildlifestudies.org/courses/geographic-information-science",
    "first_seen": "2026-08-25T00:26:44Z",
-   "last_seen": "2026-10-20T18:22:45Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "950ce94371ff76b1": {
    "id": "950ce94371ff76b1",
@@ -1719,12 +1704,12 @@
    "location": "Kittitas County – Other, WA",
    "state": "WA",
    "salary": "$20.49 - $27.28 Hourly",
-   "deadline": "Closes in 1 week",
+   "deadline": "Closes in 6 days",
    "posted": "Posted 3 weeks ago",
    "job_type": "Full Time - Non-Permanent",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5459295/winter-traffic-safety-systems-operator-1",
    "first_seen": "2026-08-25T00:26:44Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "e1eeb8aacfabf286": {
    "id": "e1eeb8aacfabf286",
@@ -1754,12 +1739,12 @@
    "job_type": "",
    "url": "https://www.centerforwildlifestudies.org/courses/research-conservation- management-methods",
    "first_seen": "2026-08-25T14:48:08Z",
-   "last_seen": "2026-10-20T02:13:18Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "e1dc6a345a8e67f3": {
    "id": "e1dc6a345a8e67f3",
    "source": "Conservation Job Board",
-   "title": "Biodiversity Conservation and Management - Online",
+   "title": "Foundations of Biodiversity Conservation and Management - Online",
    "org": "University of Wisconsin-Green Bay",
    "location": "100% Online",
    "state": "CA",
@@ -1769,7 +1754,7 @@
    "job_type": "",
    "url": "https://uwex.wisconsin.edu/biodiversity-conservation-and-management/request-info/get-bcm-guide/",
    "first_seen": "2026-08-26T00:27:58Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "35b1ee6c9a2836c3": {
    "id": "35b1ee6c9a2836c3",
@@ -1891,21 +1876,6 @@
    "first_seen": "2026-08-27T23:39:10Z",
    "last_seen": "2026-09-27T01:58:29Z"
   },
-  "116e429f6fd9e6bf": {
-   "id": "116e429f6fd9e6bf",
-   "source": "Conservation Job Board",
-   "title": "District Forester (Sonora Forestry District)",
-   "org": "Sierra Pacific Industries",
-   "location": "Sonora, CA",
-   "state": "CA",
-   "salary": "$70,000 - $110,000 per year",
-   "deadline": "",
-   "posted": "26 days ago",
-   "job_type": "Permanent",
-   "url": "https://www.conservationjobboard.com/job-listing-district-forester-sonora-forestry-district-sonora-california/9287443486",
-   "first_seen": "2026-08-27T23:39:10Z",
-   "last_seen": "2026-09-22T17:59:26Z"
-  },
   "d495c3cf81c34c63": {
    "id": "d495c3cf81c34c63",
    "source": "TAMU Job Board",
@@ -1934,7 +1904,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=117941",
    "first_seen": "2026-08-27T23:39:10Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "10f2bef88d7b9886": {
    "id": "10f2bef88d7b9886",
@@ -2024,7 +1994,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=118500",
    "first_seen": "2026-08-28T23:27:42Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "f14da4019c590080": {
    "id": "f14da4019c590080",
@@ -2069,7 +2039,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=88949",
    "first_seen": "2026-09-01T02:08:30Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "70d4b8018d27ad3b": {
    "id": "70d4b8018d27ad3b",
@@ -2124,12 +2094,12 @@
    "location": "Pacific County – Naselle, WA",
    "state": "WA",
    "salary": "$4,633.00 - $6,229.00 Monthly",
-   "deadline": "Closes in 4 days",
+   "deadline": "Closes in 3 days",
    "posted": "Posted 3 weeks ago",
    "job_type": "Full Time - Permanent",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5467177/fish-hatchery-specialist-3-naselle-river-hatchery-permanent-2026-07274",
    "first_seen": "2026-09-01T17:40:33Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "615eb8c732b355ec": {
    "id": "615eb8c732b355ec",
@@ -2159,7 +2129,7 @@
    "job_type": "Remote: Flexible/Hybrid",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5462374/resource-conservation-and-recovery-act-closure-specialist-environmental-speciali",
    "first_seen": "2026-09-01T17:40:33Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "200d8e860f612856": {
    "id": "200d8e860f612856",
@@ -2219,7 +2189,7 @@
    "job_type": "Remote: Flexible/Hybrid",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5467250/regional-shoreline-compliance-enforcement-specialist-environmental-specialist-4",
    "first_seen": "2026-09-02T01:31:37Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "05f47d395ee962e5": {
    "id": "05f47d395ee962e5",
@@ -2309,7 +2279,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=118598",
    "first_seen": "2026-09-03T01:35:23Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "a8cfb65769b3137e": {
    "id": "a8cfb65769b3137e",
@@ -2324,7 +2294,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=118592",
    "first_seen": "2026-09-03T01:35:23Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "0204301365859085": {
    "id": "0204301365859085",
@@ -2354,7 +2324,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=118594",
    "first_seen": "2026-09-03T01:35:23Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "0927033696bf61cb": {
    "id": "0927033696bf61cb",
@@ -2384,7 +2354,7 @@
    "job_type": "Remote: Flexible/Hybrid",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5470978/staff-hydrogeologist-hydrogeologist-3-in-training",
    "first_seen": "2026-09-03T01:35:23Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "6d46bd24b2d93f59": {
    "id": "6d46bd24b2d93f59",
@@ -2429,7 +2399,7 @@
    "job_type": "Remote: Flexible/Hybrid",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5446884/cleanup-site-manager-environmental-engineer-5",
    "first_seen": "2026-09-03T17:36:45Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "b36ae24f4edb6173": {
    "id": "b36ae24f4edb6173",
@@ -2669,7 +2639,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=118647",
    "first_seen": "2026-09-08T17:48:32Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "4a447c4a454973fe": {
    "id": "4a447c4a454973fe",
@@ -2924,7 +2894,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=118684",
    "first_seen": "2026-09-09T17:39:49Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "b6ae9f4d1f18317f": {
    "id": "b6ae9f4d1f18317f",
@@ -2954,7 +2924,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=118703",
    "first_seen": "2026-09-10T01:34:53Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "889a74676b825c6a": {
    "id": "889a74676b825c6a",
@@ -2969,7 +2939,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=114037",
    "first_seen": "2026-09-10T01:34:53Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "7cbd780f4d61ccbe": {
    "id": "7cbd780f4d61ccbe",
@@ -2984,22 +2954,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=118701",
    "first_seen": "2026-09-10T01:34:53Z",
-   "last_seen": "2026-10-22T02:01:03Z"
-  },
-  "00210390000bd9be": {
-   "id": "00210390000bd9be",
-   "source": "WA State Gov Jobs",
-   "title": "Enrollment Support Specialist (Administrative Assistant 2)",
-   "org": "Dept. of Ecology",
-   "location": "Thurston County – Lacey, WA",
-   "state": "WA",
-   "salary": "$44,856.00 - $59,760.00 Annually",
-   "deadline": "Continuous",
-   "posted": "Posted 1 week ago",
-   "job_type": "Remote: Flexible/Hybrid",
-   "url": "https://www.governmentjobs.com/careers/washington/jobs/5477206/enrollment-support-specialist-administrative-assistant-2",
-   "first_seen": "2026-09-10T01:34:53Z",
-   "last_seen": "2026-09-22T17:59:26Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "251d53513757ab52": {
    "id": "251d53513757ab52",
@@ -3269,7 +3224,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=118712",
    "first_seen": "2026-09-11T01:34:02Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "04e88ee127cc5369": {
    "id": "04e88ee127cc5369",
@@ -3354,12 +3309,12 @@
    "location": "Thurston County – Olympia, WA",
    "state": "WA",
    "salary": "$7,044.00 - $9,478.00 Monthly",
-   "deadline": "Closes in 1 day",
+   "deadline": "Closes in 12 hours",
    "posted": "Posted more than 30 days ago",
    "job_type": "Full Time - Permanent",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5478849/electrical-construction-project-lead-construction-project-coordinator-3-perma",
    "first_seen": "2026-09-11T01:34:02Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "e8b8ec8ec7fe19bb": {
    "id": "e8b8ec8ec7fe19bb",
@@ -3569,7 +3524,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=118746",
    "first_seen": "2026-09-12T01:40:26Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "7b7ad5a7f3877b46": {
    "id": "7b7ad5a7f3877b46",
@@ -4124,7 +4079,7 @@
    "job_type": "Remote: Flexible/Hybrid",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5482429/cle-elum-hand-crew-squad-boss-wildland-fire-management-lead-wfml",
    "first_seen": "2026-09-15T17:59:55Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "1ffe5a72d6fa051d": {
    "id": "1ffe5a72d6fa051d",
@@ -4270,11 +4225,11 @@
    "state": "WA",
    "salary": "$27.97 - $34.07 Hourly",
    "deadline": "Closes in 1 week",
-   "posted": "Posted 1 day ago",
+   "posted": "Posted 2 days ago",
    "job_type": "Full Time - Non-Permanent",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5483866/winter-highway-maintenance-worker-2-bingen-goldendale",
    "first_seen": "2026-09-16T01:49:14Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "ee630ad8ead3508e": {
    "id": "ee630ad8ead3508e",
@@ -4544,7 +4499,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=118835",
    "first_seen": "2026-09-16T17:59:53Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "895c3722c67a1072": {
    "id": "895c3722c67a1072",
@@ -4559,7 +4514,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=118826",
    "first_seen": "2026-09-16T17:59:53Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "7b227d37108e6660": {
    "id": "7b227d37108e6660",
@@ -4664,7 +4619,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=118854",
    "first_seen": "2026-09-17T01:53:01Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "7bafd40461c43694": {
    "id": "7bafd40461c43694",
@@ -4679,7 +4634,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=118850",
    "first_seen": "2026-09-17T01:53:01Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "182984846febd020": {
    "id": "182984846febd020",
@@ -4709,7 +4664,7 @@
    "job_type": "Remote: Flexible/Hybrid",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5485017/dallesport-hand-crew-squad-boss-wildland-fire-management-lead-wfml",
    "first_seen": "2026-09-17T01:53:01Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "f758d7174694497f": {
    "id": "f758d7174694497f",
@@ -4934,7 +4889,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=118856",
    "first_seen": "2026-09-17T17:59:32Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "7857e795ab5499e1": {
    "id": "7857e795ab5499e1",
@@ -5234,7 +5189,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=118881",
    "first_seen": "2026-09-18T17:34:18Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "cb1f8cda0d926dd0": {
    "id": "cb1f8cda0d926dd0",
@@ -5339,7 +5294,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=118905",
    "first_seen": "2026-09-19T01:44:58Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "546c23a607c591fd": {
    "id": "546c23a607c591fd",
@@ -5714,7 +5669,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=118902",
    "first_seen": "2026-09-22T01:58:11Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "17bb418fab7acaf6": {
    "id": "17bb418fab7acaf6",
@@ -5920,11 +5875,11 @@
    "state": "WA",
    "salary": "$50,000 per year",
    "deadline": "",
-   "posted": "29 days ago",
+   "posted": "30 days ago",
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-private-lands-conservationist-ii-clarkston-washington/7856963301",
    "first_seen": "2026-09-22T17:59:26Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "cff42a744f077525": {
    "id": "cff42a744f077525",
@@ -6085,11 +6040,11 @@
    "state": "CA",
    "salary": "$70,000 - $110,000 per year",
    "deadline": "",
-   "posted": "29 days ago",
+   "posted": "30 days ago",
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-district-forester-lassen-forestry-district-anderson-california/8500404001",
    "first_seen": "2026-09-22T17:59:26Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "fa9d6f146bc9001c": {
    "id": "fa9d6f146bc9001c",
@@ -6119,7 +6074,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=118945",
    "first_seen": "2026-09-22T17:59:26Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "46eb96c39286ed1e": {
    "id": "46eb96c39286ed1e",
@@ -6145,11 +6100,11 @@
    "state": "WA",
    "salary": "$54,204.00 - $72,900.00 Annually",
    "deadline": "Closes in 2 weeks",
-   "posted": "Posted 4 weeks ago",
+   "posted": "Posted more than 30 days ago",
    "job_type": "Full Time - Permanent",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5490056/assistant-fire-management-officer-afmo-wildland-fire-management-specialist-wf",
    "first_seen": "2026-09-22T17:59:26Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "9708f28a00fb24a4": {
    "id": "9708f28a00fb24a4",
@@ -6209,7 +6164,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=118970",
    "first_seen": "2026-09-23T01:54:42Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "33e1eb3934a2da8e": {
    "id": "33e1eb3934a2da8e",
@@ -6224,7 +6179,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=118971",
    "first_seen": "2026-09-23T01:54:42Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "a1ad79a2fa110225": {
    "id": "a1ad79a2fa110225",
@@ -6370,11 +6325,11 @@
    "state": "WA",
    "salary": "$69,348.00 - $93,288.00 Annually",
    "deadline": "Continuous",
-   "posted": "Posted 4 weeks ago",
+   "posted": "Posted more than 30 days ago",
    "job_type": "Remote: Flexible/Hybrid",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5485612/product-stewardship-specialist-environmental-specialist-4",
    "first_seen": "2026-09-23T01:54:42Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "1205ec347dd8bd7f": {
    "id": "1205ec347dd8bd7f",
@@ -6400,11 +6355,11 @@
    "state": "WA",
    "salary": "$50,000 - $60,000 per year",
    "deadline": "",
-   "posted": "28 days ago",
+   "posted": "29 days ago",
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-inside-grass-seed-salesperson-spokane-washington/9943208901",
    "first_seen": "2026-09-23T18:17:52Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "13a903acc7d863c9": {
    "id": "13a903acc7d863c9",
@@ -6524,7 +6479,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119002",
    "first_seen": "2026-09-23T18:17:52Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "9ab237deb4b523cb": {
    "id": "9ab237deb4b523cb",
@@ -6614,7 +6569,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=118984",
    "first_seen": "2026-09-23T18:17:52Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "37512d9b64449b21": {
    "id": "37512d9b64449b21",
@@ -6644,7 +6599,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=118986",
    "first_seen": "2026-09-23T18:17:52Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "6c5c4f95c6ea02f1": {
    "id": "6c5c4f95c6ea02f1",
@@ -6719,7 +6674,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119008",
    "first_seen": "2026-09-24T01:43:59Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "d0dd2745cdfd440e": {
    "id": "d0dd2745cdfd440e",
@@ -6989,7 +6944,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119026",
    "first_seen": "2026-09-24T18:17:47Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "b901cf6a9aa21c77": {
    "id": "b901cf6a9aa21c77",
@@ -7019,7 +6974,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119016",
    "first_seen": "2026-09-24T18:17:47Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "fd37b03656ee313f": {
    "id": "fd37b03656ee313f",
@@ -7034,7 +6989,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119024",
    "first_seen": "2026-09-24T18:17:47Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "5f74c8393e9c4033": {
    "id": "5f74c8393e9c4033",
@@ -7150,11 +7105,11 @@
    "state": "WA",
    "salary": "$98,064.00 - $131,868.00 Annually",
    "deadline": "Continuous",
-   "posted": "Posted 3 weeks ago",
+   "posted": "Posted 4 weeks ago",
    "job_type": "Remote: Flexible/Hybrid",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5494558/lead-water-quality-engineer-environmental-engineer-5",
    "first_seen": "2026-09-25T02:00:56Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "5388f3ec4cfa6a6e": {
    "id": "5388f3ec4cfa6a6e",
@@ -7165,11 +7120,11 @@
    "state": "WA",
    "salary": "$102,888.00 - $119,976.00 Annually",
    "deadline": "Closes in 1 week",
-   "posted": "Posted 3 weeks ago",
+   "posted": "Posted 4 weeks ago",
    "job_type": "Full Time - Permanent",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5474382/payroll-manager-wms2",
    "first_seen": "2026-09-25T02:00:56Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "6774dba7fa9c29d6": {
    "id": "6774dba7fa9c29d6",
@@ -7180,11 +7135,11 @@
    "state": "WA",
    "salary": "$59,760.00 - $80,496.00 Annually",
    "deadline": "Continuous",
-   "posted": "Posted 3 weeks ago",
+   "posted": "Posted 4 weeks ago",
    "job_type": "Remote: Flexible/Hybrid",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5490169/permit-writer-environmental-specialist-3",
    "first_seen": "2026-09-25T02:00:56Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "4e444f5d9d34c27c": {
    "id": "4e444f5d9d34c27c",
@@ -7270,11 +7225,11 @@
    "state": "CA",
    "salary": "$35 - $50 per hour",
    "deadline": "",
-   "posted": "26 days ago",
+   "posted": "27 days ago",
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-soil-scientist-visalia-california/8179741430",
    "first_seen": "2026-09-25T18:17:52Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "e1bf8a5e6b06af6a": {
    "id": "e1bf8a5e6b06af6a",
@@ -7424,7 +7379,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119061",
    "first_seen": "2026-09-26T02:06:39Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "99e6b9f88a99a8a1": {
    "id": "99e6b9f88a99a8a1",
@@ -7439,7 +7394,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119072",
    "first_seen": "2026-09-26T02:06:39Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "abe3e7b3dd0e362e": {
    "id": "abe3e7b3dd0e362e",
@@ -7454,7 +7409,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119064",
    "first_seen": "2026-09-26T02:06:39Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "2f7be7a426cad252": {
    "id": "2f7be7a426cad252",
@@ -7484,7 +7439,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119080",
    "first_seen": "2026-09-26T02:06:39Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "8a5655178b7c4b4d": {
    "id": "8a5655178b7c4b4d",
@@ -7499,7 +7454,7 @@
    "job_type": "Full Time - Permanent",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5486554/padilla-bay-aquarist-program-specialist-2",
    "first_seen": "2026-09-26T02:06:39Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "37023401eb93fac1": {
    "id": "37023401eb93fac1",
@@ -7514,7 +7469,7 @@
    "job_type": "Remote: Flexible/Hybrid",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5490658/regional-compliance-inspector-refrigerant-management-program-environmental-spe",
    "first_seen": "2026-09-26T02:06:39Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "e3031192bc7c77d3": {
    "id": "e3031192bc7c77d3",
@@ -7529,7 +7484,7 @@
    "job_type": "Remote: Flexible/Hybrid",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5491860/staff-hydrogeologist-hydrogeologist-2-in-training-internal-only",
    "first_seen": "2026-09-26T02:06:39Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "f1613acc20f61bac": {
    "id": "f1613acc20f61bac",
@@ -7585,11 +7540,11 @@
    "state": "CA",
    "salary": "$140,000 - $160,000 per year",
    "deadline": "",
-   "posted": "23 days ago",
+   "posted": "24 days ago",
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-executive-director-salinas-california/9127744304",
    "first_seen": "2026-09-28T20:24:44Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "467519896ed160d7": {
    "id": "467519896ed160d7",
@@ -7649,7 +7604,7 @@
    "job_type": "Remote: Flexible/Hybrid",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5490104/agency-rulemaking-lead-and-governmental-policy-analyst-environmental-planner-5",
    "first_seen": "2026-09-28T20:24:44Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "f686e672e75b89fd": {
    "id": "f686e672e75b89fd",
@@ -7664,7 +7619,7 @@
    "job_type": "Remote: Flexible/Hybrid",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5496093/ahtanum-hand-crew-squad-boss-wildland-fire-management-lead-wfml",
    "first_seen": "2026-09-28T20:24:44Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "f6e9a3a846d52f49": {
    "id": "f6e9a3a846d52f49",
@@ -7689,12 +7644,12 @@
    "location": "Spokane County – Other, WA",
    "state": "WA",
    "salary": "$50,412.00 - $67,704.00 Annually",
-   "deadline": "Closes in 1 week",
+   "deadline": "Closes in 6 days",
    "posted": "Posted 3 weeks ago",
    "job_type": "Seasonal",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5494641/forest-health-engine-captain-wildland-fire-management-supervisor-wfmsup",
    "first_seen": "2026-09-28T20:24:44Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "e317c81312ef85cd": {
    "id": "e317c81312ef85cd",
@@ -7704,12 +7659,12 @@
    "location": "Spokane County – Other, WA",
    "state": "WA",
    "salary": "$45,924.00 - $61,332.00 Annually",
-   "deadline": "Closes in 1 week",
+   "deadline": "Closes in 6 days",
    "posted": "Posted 3 weeks ago",
    "job_type": "Seasonal",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5494959/fuels-crew-lead-wildland-fire-management-lead-wfml",
    "first_seen": "2026-09-28T20:24:44Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "7a600056b36e1c23": {
    "id": "7a600056b36e1c23",
@@ -7719,12 +7674,12 @@
    "location": "Spokane County – Other, WA",
    "state": "WA",
    "salary": "$42,780.00 - $56,952.00 Annually",
-   "deadline": "Closes in 1 week",
+   "deadline": "Closes in 6 days",
    "posted": "Posted 3 weeks ago",
    "job_type": "Seasonal",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5495530/fuels-crew-member-wildland-fire-management-technician-wfmt",
    "first_seen": "2026-09-28T20:24:44Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "db91920a86c54720": {
    "id": "db91920a86c54720",
@@ -7825,11 +7780,11 @@
    "state": "CA",
    "salary": "$30 - $32 per hour",
    "deadline": "",
-   "posted": "22 days ago",
+   "posted": "23 days ago",
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-animal-care-specialist-herps-san-francisco-california/4907508641",
    "first_seen": "2026-09-29T19:10:46Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "d5ee418ab32e83f4": {
    "id": "d5ee418ab32e83f4",
@@ -7840,11 +7795,11 @@
    "state": "CA",
    "salary": "$52,000 per year",
    "deadline": "",
-   "posted": "22 days ago",
+   "posted": "23 days ago",
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-operations-manager-el-portal-california/1357171720",
    "first_seen": "2026-09-29T19:10:46Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "09766df322b9bc6b": {
    "id": "09766df322b9bc6b",
@@ -7949,7 +7904,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119089",
    "first_seen": "2026-09-29T19:10:46Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "2dea27402dfd1bda": {
    "id": "2dea27402dfd1bda",
@@ -7964,7 +7919,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119094",
    "first_seen": "2026-09-29T19:10:46Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "616032807f0f6712": {
    "id": "616032807f0f6712",
@@ -7979,7 +7934,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119110",
    "first_seen": "2026-09-29T19:10:46Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "f43c22a16f8358f7": {
    "id": "f43c22a16f8358f7",
@@ -7994,7 +7949,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119097",
    "first_seen": "2026-09-29T19:10:46Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "284aa892c8341b2c": {
    "id": "284aa892c8341b2c",
@@ -8024,7 +7979,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119095",
    "first_seen": "2026-09-29T19:10:46Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "5f7b3ea252251a23": {
    "id": "5f7b3ea252251a23",
@@ -8039,7 +7994,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119096",
    "first_seen": "2026-09-29T19:10:46Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "2ac98778b1f43e88": {
    "id": "2ac98778b1f43e88",
@@ -8069,7 +8024,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119122",
    "first_seen": "2026-09-29T19:10:46Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "9aa5de7bd8d66f9e": {
    "id": "9aa5de7bd8d66f9e",
@@ -8124,12 +8079,12 @@
    "location": "Thurston County – Olympia, WA",
    "state": "WA",
    "salary": "$69,348.00 - $93,288.00 Annually",
-   "deadline": "Closes in 4 days",
+   "deadline": "Closes in 3 days",
    "posted": "Posted 3 weeks ago",
    "job_type": "Remote: Flexible/Hybrid",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5497410/english-as-a-second-language-esl-engagement-coordinator-environmental-planner",
    "first_seen": "2026-09-29T19:10:46Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "d56d586c0d059ac5": {
    "id": "d56d586c0d059ac5",
@@ -8144,7 +8099,7 @@
    "job_type": "Remote: Flexible/Hybrid",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5494981/permit-writer-environmental-specialist-4",
    "first_seen": "2026-09-30T02:31:45Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "27044c17ddce50fa": {
    "id": "27044c17ddce50fa",
@@ -8290,11 +8245,11 @@
    "state": "CA",
    "salary": "$115,167.28 - $139,983.14 per year",
    "deadline": "",
-   "posted": "21 days ago",
+   "posted": "22 days ago",
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-water-agency-senior-environmental-specialist---tribal-liaison-santa-rosa-california/5669874213",
    "first_seen": "2026-09-30T18:52:11Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "1a472e01e12bfe3c": {
    "id": "1a472e01e12bfe3c",
@@ -8305,11 +8260,11 @@
    "state": "CA",
    "salary": "$72,500 - $80,000 per year",
    "deadline": "",
-   "posted": "21 days ago",
+   "posted": "22 days ago",
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-celp-program-director-two-harbors-california/4469608111",
    "first_seen": "2026-09-30T18:52:11Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "75555dad8848b45e": {
    "id": "75555dad8848b45e",
@@ -8335,11 +8290,11 @@
    "state": "CA",
    "salary": "$72,500 - $80,000 per year",
    "deadline": "",
-   "posted": "21 days ago",
+   "posted": "22 days ago",
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-maintenance-supervisor-two-harbors-california/9219422074",
    "first_seen": "2026-09-30T18:52:11Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "b78d27cd0e837c9d": {
    "id": "b78d27cd0e837c9d",
@@ -8444,7 +8399,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119152",
    "first_seen": "2026-09-30T18:52:11Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "32b550cfa74f6aef": {
    "id": "32b550cfa74f6aef",
@@ -8474,7 +8429,7 @@
    "job_type": "Full Time - Permanent",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5498533/north-unit-assistant-fire-management-officer-afmo-wildland-fire-management-s",
    "first_seen": "2026-09-30T18:52:11Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "24c5976fc26094cd": {
    "id": "24c5976fc26094cd",
@@ -8489,7 +8444,7 @@
    "job_type": "Remote: Flexible/Hybrid",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5495089/sepa-and-environmental-regulation-specialist-environmental-specialist-3",
    "first_seen": "2026-09-30T18:52:11Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "2b8129517771f8e6": {
    "id": "2b8129517771f8e6",
@@ -8534,7 +8489,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119169",
    "first_seen": "2026-10-01T02:33:49Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "b09becd3452ba7d4": {
    "id": "b09becd3452ba7d4",
@@ -8680,11 +8635,11 @@
    "state": "CA",
    "salary": "$75,000 per year",
    "deadline": "",
-   "posted": "20 days ago",
+   "posted": "21 days ago",
    "job_type": "Temporary",
    "url": "https://www.conservationjobboard.com/job-listing-southern-california-project-coordinator-los-angeles-california/8898703238",
    "first_seen": "2026-10-01T19:19:09Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "af609550e0e46101": {
    "id": "af609550e0e46101",
@@ -8969,7 +8924,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119214",
    "first_seen": "2026-10-02T02:39:41Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "b8a6857ff2c8d6f6": {
    "id": "b8a6857ff2c8d6f6",
@@ -8999,7 +8954,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119224",
    "first_seen": "2026-10-02T02:39:41Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "9b6b794f52ddfeed": {
    "id": "9b6b794f52ddfeed",
@@ -9044,7 +8999,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119188",
    "first_seen": "2026-10-02T02:39:41Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "de47e5c522048c4e": {
    "id": "de47e5c522048c4e",
@@ -9059,7 +9014,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119189",
    "first_seen": "2026-10-02T02:39:41Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "07c3a5ef1c580835": {
    "id": "07c3a5ef1c580835",
@@ -9070,11 +9025,11 @@
    "state": "WA",
    "salary": "$149,805.00 - $161,952.00 Annually",
    "deadline": "Continuous",
-   "posted": "Posted 2 weeks ago",
+   "posted": "Posted 3 weeks ago",
    "job_type": "Remote: Flexible/Hybrid",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5494835/administrative-services-director-ems-band-4",
    "first_seen": "2026-10-02T02:39:41Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "1d625ee70f364b25": {
    "id": "1d625ee70f364b25",
@@ -9084,12 +9039,12 @@
    "location": "Spokane County – Spokane, WA",
    "state": "WA",
    "salary": "$122,400.00 - $149,724.00 Annually",
-   "deadline": "Closes in 4 days",
-   "posted": "Posted 2 weeks ago",
+   "deadline": "Closes in 3 days",
+   "posted": "Posted 3 weeks ago",
    "job_type": "Remote: Flexible/Hybrid",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5502751/engineering-manager-construction-wms3",
    "first_seen": "2026-10-02T02:39:41Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "9df044be680d8c2f": {
    "id": "9df044be680d8c2f",
@@ -9145,11 +9100,11 @@
    "state": "WA",
    "salary": "$3,600 per month",
    "deadline": "",
-   "posted": "19 days ago",
+   "posted": "20 days ago",
    "job_type": "AmeriCorps",
    "url": "https://www.conservationjobboard.com/job-listing-crewleader-seattle-washington/5124424131",
    "first_seen": "2026-10-02T19:02:22Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "b9d21a12cbe97b83": {
    "id": "b9d21a12cbe97b83",
@@ -9160,11 +9115,11 @@
    "state": "WA",
    "salary": "$3,300 per month",
    "deadline": "",
-   "posted": "19 days ago",
+   "posted": "20 days ago",
    "job_type": "AmeriCorps",
    "url": "https://www.conservationjobboard.com/job-listing-crewmember-seattle-washington/7842695974",
    "first_seen": "2026-10-02T19:02:22Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "83bc46fc192be735": {
    "id": "83bc46fc192be735",
@@ -9175,11 +9130,11 @@
    "state": "WA",
    "salary": "$3,600 per month",
    "deadline": "",
-   "posted": "19 days ago",
+   "posted": "20 days ago",
    "job_type": "AmeriCorps",
    "url": "https://www.conservationjobboard.com/job-listing-community-specialist-seattle-washington/5126685856",
    "first_seen": "2026-10-02T19:02:22Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "7eaabbde44193056": {
    "id": "7eaabbde44193056",
@@ -9235,11 +9190,11 @@
    "state": "WA",
    "salary": "$720 per week",
    "deadline": "",
-   "posted": "19 days ago",
+   "posted": "20 days ago",
    "job_type": "AmeriCorps",
    "url": "https://www.conservationjobboard.com/job-listing-nps-historic-preservation-training-center--traditional-trades-advancement-program-and-youth-empowerment-stewardsolympic-national-park-americorps-port-angeles-washington/6536716965",
    "first_seen": "2026-10-02T19:02:22Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "c8737c20c36d2a12": {
    "id": "c8737c20c36d2a12",
@@ -9250,11 +9205,11 @@
    "state": "OR",
    "salary": "$80,000 - $92,000 per year",
    "deadline": "",
-   "posted": "19 days ago",
+   "posted": "20 days ago",
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-senior-manager-corporate-partnerships--communications-portland-oregon/9489108077",
    "first_seen": "2026-10-02T19:02:22Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "7205a8d9621b4d60": {
    "id": "7205a8d9621b4d60",
@@ -9265,11 +9220,11 @@
    "state": "CA",
    "salary": "$160,000 - $190,000 per year",
    "deadline": "",
-   "posted": "19 days ago",
+   "posted": "20 days ago",
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-executive-vice-president-san-francisco-california/9809165614",
    "first_seen": "2026-10-02T19:02:22Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "577f95a7d1a2d63a": {
    "id": "577f95a7d1a2d63a",
@@ -9280,11 +9235,11 @@
    "state": "CA",
    "salary": "$23.15 per hour",
    "deadline": "",
-   "posted": "19 days ago",
+   "posted": "20 days ago",
    "job_type": "Temporary",
    "url": "https://www.conservationjobboard.com/job-listing-western-snowy-plover-conservation-technician-monterey-california/1886315675",
    "first_seen": "2026-10-02T19:02:22Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "d497708473e10758": {
    "id": "d497708473e10758",
@@ -9295,11 +9250,11 @@
    "state": "CA",
    "salary": "$275,000 - $325,000 per year",
    "deadline": "",
-   "posted": "19 days ago",
+   "posted": "20 days ago",
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-chief-executive-officer-remote-california/8999591004",
    "first_seen": "2026-10-02T19:02:22Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "5bca18480605da21": {
    "id": "5bca18480605da21",
@@ -9389,7 +9344,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119256",
    "first_seen": "2026-10-03T02:26:18Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "da456932aa15ce5d": {
    "id": "da456932aa15ce5d",
@@ -9404,7 +9359,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119249",
    "first_seen": "2026-10-03T02:26:18Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "1a6f3e9ce0984076": {
    "id": "1a6f3e9ce0984076",
@@ -9419,7 +9374,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119261",
    "first_seen": "2026-10-03T02:26:18Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "0a63b22120d46a87": {
    "id": "0a63b22120d46a87",
@@ -9434,7 +9389,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119245",
    "first_seen": "2026-10-03T02:26:18Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "fbb5ae60481ca68c": {
    "id": "fbb5ae60481ca68c",
@@ -9449,7 +9404,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119244",
    "first_seen": "2026-10-03T02:26:18Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "8056a9fa5c792583": {
    "id": "8056a9fa5c792583",
@@ -9464,7 +9419,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119241",
    "first_seen": "2026-10-03T02:26:18Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "453638f0ab7448be": {
    "id": "453638f0ab7448be",
@@ -9475,11 +9430,11 @@
    "state": "WA",
    "salary": "$54,204.00 - $72,900.00 Annually",
    "deadline": "Continuous",
-   "posted": "Posted 2 weeks ago",
+   "posted": "Posted 3 weeks ago",
    "job_type": "Remote: Flexible/Hybrid",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5499829/climate-change-outreach-specialist-community-outreach-environmental-education",
    "first_seen": "2026-10-03T02:26:18Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "821df4bb0edc2cf3": {
    "id": "821df4bb0edc2cf3",
@@ -9565,11 +9520,11 @@
    "state": "CA",
    "salary": "$96,007.52 - $116,711.75 per year",
    "deadline": "",
-   "posted": "16 days ago",
+   "posted": "17 days ago",
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-water-agency-environmental-specialist-santa-rosa-california/3917628633",
    "first_seen": "2026-10-05T21:23:46Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "14a4177ca35b3470": {
    "id": "14a4177ca35b3470",
@@ -9580,11 +9535,11 @@
    "state": "CA",
    "salary": "$75,000 - $130,000 per year",
    "deadline": "",
-   "posted": "16 days ago",
+   "posted": "17 days ago",
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-associate-or-senior-biologistregulatory-specialist-folsom-california/3844177446",
    "first_seen": "2026-10-05T21:23:46Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "095f8b55a0b17d17": {
    "id": "095f8b55a0b17d17",
@@ -9655,11 +9610,11 @@
    "state": "CA",
    "salary": "$36.97 per hour",
    "deadline": "",
-   "posted": "16 days ago",
+   "posted": "17 days ago",
    "job_type": "Temporary",
    "url": "https://www.conservationjobboard.com/job-listing-cultural-resources-emergency-management-techniciannps-rori-richmond-california/6193696006",
    "first_seen": "2026-10-05T21:23:46Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "d8e7d2c9a10d0a81": {
    "id": "d8e7d2c9a10d0a81",
@@ -9685,11 +9640,11 @@
    "state": "CA",
    "salary": "The target annual compensation for someone with 2-5 years of relevant experience is $41,750-$46,000.",
    "deadline": "",
-   "posted": "16 days ago",
+   "posted": "17 days ago",
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-clean-energy-advocate-oakland-california/7291104692",
    "first_seen": "2026-10-05T21:23:46Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "9eec1e7f8c81ccb8": {
    "id": "9eec1e7f8c81ccb8",
@@ -9749,7 +9704,7 @@
    "job_type": "Remote: Flexible/Hybrid",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5503467/financial-systems-business-unit-senior-advisor-management-analyst-5-internal-o",
    "first_seen": "2026-10-05T21:23:46Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "66ec26527ec81792": {
    "id": "66ec26527ec81792",
@@ -9779,7 +9734,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119185",
    "first_seen": "2026-10-06T03:24:19Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "ef00aa8a5c6c36f3": {
    "id": "ef00aa8a5c6c36f3",
@@ -9794,7 +9749,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119232",
    "first_seen": "2026-10-06T03:24:19Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "bcd90aadac503de0": {
    "id": "bcd90aadac503de0",
@@ -9865,11 +9820,11 @@
    "state": "CA",
    "salary": "$118.32 - $123.32 per day",
    "deadline": "",
-   "posted": "15 days ago",
+   "posted": "16 days ago",
    "job_type": "Temporary",
    "url": "https://www.conservationjobboard.com/job-listing-outdoor-program-instructor-portola-california/6651825507",
    "first_seen": "2026-10-06T19:20:06Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "100772de196e4034": {
    "id": "100772de196e4034",
@@ -9880,11 +9835,11 @@
    "state": "CA",
    "salary": "$80,000 - $90,000 per year",
    "deadline": "",
-   "posted": "15 days ago",
+   "posted": "16 days ago",
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-land-use-planner-truckee-california/9041601700",
    "first_seen": "2026-10-06T19:20:06Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "09d8804592a1f8ef": {
    "id": "09d8804592a1f8ef",
@@ -9929,7 +9884,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119196",
    "first_seen": "2026-10-06T19:20:06Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "2e2845691e36dffe": {
    "id": "2e2845691e36dffe",
@@ -9959,7 +9914,7 @@
    "job_type": "Full Time - Permanent",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5504462/hand-crew-squad-boss-wildland-fire-management-lead-wfml",
    "first_seen": "2026-10-06T19:20:06Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "472ba9d937bd37ad": {
    "id": "472ba9d937bd37ad",
@@ -9969,12 +9924,12 @@
    "location": "Clark County – Vancouver, WA",
    "state": "WA",
    "salary": "$88,788.00 - $119,460.00 Annually",
-   "deadline": "Closes in 5 days",
+   "deadline": "Closes in 4 days",
    "posted": "Posted 2 weeks ago",
    "job_type": "Remote: Flexible/Hybrid",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5506011/principal-landscape-architect-environmental-mitigation-program-supervisor-tps5",
    "first_seen": "2026-10-06T19:20:06Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "245e03185287158e": {
    "id": "245e03185287158e",
@@ -9999,12 +9954,12 @@
    "location": "Thurston County – Lacey, WA",
    "state": "WA",
    "salary": "$98,064.00 - $131,868.00 Annually",
-   "deadline": "Closes in 5 days",
+   "deadline": "Closes in 4 days",
    "posted": "Posted 2 weeks ago",
    "job_type": "Remote: Flexible/Hybrid",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5506167/transportation-technical-engineer",
    "first_seen": "2026-10-06T19:20:06Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "e8436018146e4c99": {
    "id": "e8436018146e4c99",
@@ -10049,7 +10004,7 @@
    "job_type": "Remote: Flexible/Hybrid",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5505212/stormwater-compliance-unit-supervisor-wms1",
    "first_seen": "2026-10-07T02:47:52Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "83c4a7fee2961a52": {
    "id": "83c4a7fee2961a52",
@@ -10064,7 +10019,7 @@
    "job_type": "Remote: Flexible/Hybrid",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5501657/watershed-implementation-lead-environmental-specialist-4-two-positions",
    "first_seen": "2026-10-07T02:47:52Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "ea4c49d2f92c9ad1": {
    "id": "ea4c49d2f92c9ad1",
@@ -10090,11 +10045,11 @@
    "state": "OR",
    "salary": "$80,000 - $120,000 per year",
    "deadline": "",
-   "posted": "14 days ago",
+   "posted": "15 days ago",
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-executive-director-bend-oregon/6911990021",
    "first_seen": "2026-10-07T19:46:57Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "cb812b6cfc07eae4": {
    "id": "cb812b6cfc07eae4",
@@ -10120,11 +10075,11 @@
    "state": "CA",
    "salary": "$34.50 - $39.50 per hour",
    "deadline": "",
-   "posted": "14 days ago",
+   "posted": "15 days ago",
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-resource-development-project-coordinator-monterey-california/3134152414",
    "first_seen": "2026-10-07T19:46:57Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "3354e5b11bf47458": {
    "id": "3354e5b11bf47458",
@@ -10135,11 +10090,11 @@
    "state": "CA",
    "salary": "$26 - $31 per hour",
    "deadline": "",
-   "posted": "14 days ago",
+   "posted": "15 days ago",
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-sempervirens-outdoor-educator-scotts-valley-california/8643446875",
    "first_seen": "2026-10-07T19:46:57Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "040a0d7534cc6f34": {
    "id": "040a0d7534cc6f34",
@@ -10150,11 +10105,11 @@
    "state": "CA",
    "salary": "$210,000 - $240,000 per year",
    "deadline": "",
-   "posted": "14 days ago",
+   "posted": "15 days ago",
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-chief-operating-officer-san-francisco-california/9421986638",
    "first_seen": "2026-10-07T19:46:57Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "5a175e6f23e49141": {
    "id": "5a175e6f23e49141",
@@ -10165,11 +10120,11 @@
    "state": "CA",
    "salary": "$26 - $31 per hour",
    "deadline": "",
-   "posted": "14 days ago",
+   "posted": "15 days ago",
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-pigeon-point-outdoor-educaotr-pescadero-california/3425452358",
    "first_seen": "2026-10-07T19:46:57Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "791ac3d2f761f4b3": {
    "id": "791ac3d2f761f4b3",
@@ -10180,11 +10135,11 @@
    "state": "CA",
    "salary": "$57,500 - $61,000 per year",
    "deadline": "",
-   "posted": "14 days ago",
+   "posted": "15 days ago",
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-nursery-manager---sequoia-and-kings-canyon-national-parks-taylorsville-california/1115413400",
    "first_seen": "2026-10-07T19:46:57Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "45460259208de1fa": {
    "id": "45460259208de1fa",
@@ -10244,7 +10199,7 @@
    "job_type": "Remote: Flexible/Hybrid",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5507124/transportation-engineer-2-in-training-multiple-positions",
    "first_seen": "2026-10-07T19:46:57Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "a07e46e79cf9c6bc": {
    "id": "a07e46e79cf9c6bc",
@@ -10259,7 +10214,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119322",
    "first_seen": "2026-10-08T03:05:38Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "799a5babee4fb8c8": {
    "id": "799a5babee4fb8c8",
@@ -10274,7 +10229,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119353",
    "first_seen": "2026-10-08T03:05:38Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "102f174d4f2a8cdc": {
    "id": "102f174d4f2a8cdc",
@@ -10289,7 +10244,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119339",
    "first_seen": "2026-10-08T03:05:38Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "f1f693efd7f440a8": {
    "id": "f1f693efd7f440a8",
@@ -10334,7 +10289,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119326",
    "first_seen": "2026-10-08T03:05:38Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "07f287bc6d318174": {
    "id": "07f287bc6d318174",
@@ -10364,7 +10319,7 @@
    "job_type": "Remote: Flexible/Hybrid",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5504365/facility-engineer-environmental-engineer-3",
    "first_seen": "2026-10-08T03:05:38Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "ed2bcfec97217ad1": {
    "id": "ed2bcfec97217ad1",
@@ -10390,11 +10345,11 @@
    "state": "WA",
    "salary": "$69,348 - $93,288 per year",
    "deadline": "",
-   "posted": "13 days ago",
+   "posted": "14 days ago",
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-watershed-implementation-lead-environmental-specialist-4-two-positions-spokane-washington/6946785102",
    "first_seen": "2026-10-08T19:42:22Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "8eaf51228d6f5449": {
    "id": "8eaf51228d6f5449",
@@ -10405,11 +10360,11 @@
    "state": "WA",
    "salary": "$45,924 - $61,332 per year",
    "deadline": "",
-   "posted": "13 days ago",
+   "posted": "14 days ago",
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-hand-crew-squad-boss-wildland-fire-management-lead-battle-ground-or-chehalis-washington/1095224319",
    "first_seen": "2026-10-08T19:42:22Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "c4dd630200eee606": {
    "id": "c4dd630200eee606",
@@ -10420,11 +10375,11 @@
    "state": "OR",
    "salary": "$23 - $28 per hour",
    "deadline": "",
-   "posted": "13 days ago",
+   "posted": "14 days ago",
    "job_type": "Temporary",
    "url": "https://www.conservationjobboard.com/job-listing-sawyer--wood-products-development-timber-oregon/5090473750",
    "first_seen": "2026-10-08T19:42:22Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "d77ca9b9befb323f": {
    "id": "d77ca9b9befb323f",
@@ -10450,11 +10405,11 @@
    "state": "CA",
    "salary": "$90,000 - $100,000 per year",
    "deadline": "",
-   "posted": "13 days ago",
+   "posted": "14 days ago",
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-community-engagement-director-ventura-california/3718625168",
    "first_seen": "2026-10-08T19:42:22Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "b946a82b92d887fa": {
    "id": "b946a82b92d887fa",
@@ -10480,11 +10435,11 @@
    "state": "CA",
    "salary": "$89,930 - $121,188 per year",
    "deadline": "",
-   "posted": "13 days ago",
+   "posted": "14 days ago",
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-regional-park-superintendent-ii-puenta-hills-california/8942013968",
    "first_seen": "2026-10-08T19:42:22Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "8fb8ed91646c3386": {
    "id": "8fb8ed91646c3386",
@@ -10495,11 +10450,11 @@
    "state": "CA",
    "salary": "$70,304 per year",
    "deadline": "",
-   "posted": "13 days ago",
+   "posted": "14 days ago",
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-natural-resources-safety--training-coordinator-bilingual-san-rafael-california/6723906402",
    "first_seen": "2026-10-08T19:42:22Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "b3e51475f4913a26": {
    "id": "b3e51475f4913a26",
@@ -10510,11 +10465,11 @@
    "state": "CA",
    "salary": "$104,006 - $140,161 per year",
    "deadline": "",
-   "posted": "13 days ago",
+   "posted": "14 days ago",
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-regional-park-superintendent-iii-puenta-hills-california/1797813630",
    "first_seen": "2026-10-08T19:42:22Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "6d29ca7fc397751a": {
    "id": "6d29ca7fc397751a",
@@ -10529,7 +10484,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119288",
    "first_seen": "2026-10-08T19:42:22Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "1e41a1bc4236a09b": {
    "id": "1e41a1bc4236a09b",
@@ -10555,11 +10510,11 @@
    "state": "WA",
    "salary": "$59,760.00 - $80,496.00 Annually",
    "deadline": "Continuous",
-   "posted": "Posted 1 week ago",
+   "posted": "Posted 2 weeks ago",
    "job_type": "Remote: Flexible/Hybrid",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5507777/industrial-permit-data-and-compliance-professional-environmental-specialist-3",
    "first_seen": "2026-10-08T19:42:22Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "002a7b06949ba260": {
    "id": "002a7b06949ba260",
@@ -10570,11 +10525,11 @@
    "state": "WA",
    "salary": "$99,300.00 - $133,608.00 Annually",
    "deadline": "Continuous",
-   "posted": "Posted 1 week ago",
+   "posted": "Posted 2 weeks ago",
    "job_type": "Remote: Flexible/Hybrid",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5507906/it-app-development-senior-specialist",
    "first_seen": "2026-10-08T19:42:22Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "72ede1073a5eaa5b": {
    "id": "72ede1073a5eaa5b",
@@ -10585,11 +10540,11 @@
    "state": "WA",
    "salary": "$59,760.00 - $80,496.00 Annually",
    "deadline": "Continuous",
-   "posted": "Posted 1 week ago",
+   "posted": "Posted 2 weeks ago",
    "job_type": "Remote: Flexible/Hybrid",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5504009/permit-developer-and-facility-manager-environmental-specialist-3",
    "first_seen": "2026-10-08T19:42:22Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "5d8cbc7b9d104f14": {
    "id": "5d8cbc7b9d104f14",
@@ -10599,12 +10554,12 @@
    "location": "Spokane County – Other, WA",
    "state": "WA",
    "salary": "$54,204.00 - $72,900.00 Annually",
-   "deadline": "Closes in 1 day",
-   "posted": "Posted 1 week ago",
+   "deadline": "Closes in 12 hours",
+   "posted": "Posted 2 weeks ago",
    "job_type": "Full Time - Non-Permanent",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5506786/service-forester-natural-resource-specialist-2-nrs2",
    "first_seen": "2026-10-08T19:42:22Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "56d0ac2d07e3c1f3": {
    "id": "56d0ac2d07e3c1f3",
@@ -10634,7 +10589,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119368",
    "first_seen": "2026-10-09T03:11:54Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "ab315010cf5376da": {
    "id": "ab315010cf5376da",
@@ -10659,12 +10614,12 @@
    "location": "Clark County – Vancouver, WA",
    "state": "WA",
    "salary": "$66,072.00 - $108,228.00 Annually",
-   "deadline": "Closes in 4 days",
-   "posted": "Posted 1 week ago",
+   "deadline": "Closes in 3 days",
+   "posted": "Posted 2 weeks ago",
    "job_type": "Remote: Flexible/Hybrid",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5510418/assistant-corridor-operations-engineer-te3-in-training",
    "first_seen": "2026-10-09T03:11:54Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "15a46e56194a6636": {
    "id": "15a46e56194a6636",
@@ -10675,11 +10630,11 @@
    "state": "WA",
    "salary": "$47,004.00 - $62,880.00 Annually",
    "deadline": "Continuous",
-   "posted": "Posted 1 week ago",
+   "posted": "Posted 2 weeks ago",
    "job_type": "Remote: Flexible/Hybrid",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5504537/climate-policy-session-aide-legislative-policy-specialist-environmental-pla",
    "first_seen": "2026-10-09T03:11:54Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "5fd6f20c2ae717d7": {
    "id": "5fd6f20c2ae717d7",
@@ -10720,11 +10675,11 @@
    "state": "WA",
    "salary": "$69,348.00 - $93,288.00 Annually",
    "deadline": "Continuous",
-   "posted": "Posted 1 week ago",
+   "posted": "Posted 2 weeks ago",
    "job_type": "Remote: Flexible/Hybrid",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5507088/oil-spill-drill-specialist-environmental-planner-3",
    "first_seen": "2026-10-09T03:11:54Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "8bc10b06466aef48": {
    "id": "8bc10b06466aef48",
@@ -10734,12 +10689,12 @@
    "location": "Thurston County – Olympia, WA",
    "state": "WA",
    "salary": "$84,528.00 - $113,736.00 Annually",
-   "deadline": "Closes in 4 days",
-   "posted": "Posted 1 week ago",
+   "deadline": "Closes in 3 days",
+   "posted": "Posted 2 weeks ago",
    "job_type": "Remote: Flexible/Hybrid",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5510016/policy-lead-habitat-strategic-initiative-lead-hsil-environmental-planner-5-pe",
    "first_seen": "2026-10-09T03:11:54Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "454d4008406a3dcf": {
    "id": "454d4008406a3dcf",
@@ -10750,11 +10705,11 @@
    "state": "WA",
    "salary": "$59,760.00 - $80,496.00 Annually",
    "deadline": "Continuous",
-   "posted": "Posted 1 week ago",
+   "posted": "Posted 2 weeks ago",
    "job_type": "Remote: Flexible/Hybrid",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5508211/puget-sound-nutrients-project-and-financial-specialist-environmental-specialist",
    "first_seen": "2026-10-09T03:11:54Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "0d320ae4d5c32f3e": {
    "id": "0d320ae4d5c32f3e",
@@ -10769,7 +10724,7 @@
    "job_type": "Remote: Flexible/Hybrid",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5506968/puget-sound-nutrients-reduction-project-specialist-environmental-specialist-4",
    "first_seen": "2026-10-09T03:11:54Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "a0c892e0c6018dcf": {
    "id": "a0c892e0c6018dcf",
@@ -10794,12 +10749,12 @@
    "location": "Spokane County – Spokane, WA",
    "state": "WA",
    "salary": "$72,900.00 - $96,064.00 Annually",
-   "deadline": "Closes in 2 days",
-   "posted": "Posted 1 week ago",
+   "deadline": "Closes in 1 day",
+   "posted": "Posted 2 weeks ago",
    "job_type": "Full Time - Permanent",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5511122/transportation-engineer-2",
    "first_seen": "2026-10-09T03:11:54Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "dfb79beaf876b2cb": {
    "id": "dfb79beaf876b2cb",
@@ -10810,11 +10765,11 @@
    "state": "WA",
    "salary": "$50,412.00 - $67,704.00 Annually",
    "deadline": "Continuous",
-   "posted": "Posted 1 week ago",
+   "posted": "Posted 2 weeks ago",
    "job_type": "Project (limited duration)",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5509499/wcc-crew-supervisor-1-central-puget-sound",
    "first_seen": "2026-10-09T03:11:54Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "cd37d06544ec08ee": {
    "id": "cd37d06544ec08ee",
@@ -10825,11 +10780,11 @@
    "state": "WA",
    "salary": "$50,412.00 - $67,704.00 Annually",
    "deadline": "Continuous",
-   "posted": "Posted 1 week ago",
+   "posted": "Posted 2 weeks ago",
    "job_type": "Project (limited duration)",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5509501/wcc-crew-supervisor-1-eastern-washington",
    "first_seen": "2026-10-09T03:11:54Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "417381794fefbd34": {
    "id": "417381794fefbd34",
@@ -10840,11 +10795,11 @@
    "state": "WA",
    "salary": "$50,412.00 - $67,704.00 Annually",
    "deadline": "Continuous",
-   "posted": "Posted 1 week ago",
+   "posted": "Posted 2 weeks ago",
    "job_type": "Project (limited duration)",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5507977/wcc-crew-supervisor-1-northwest-washington",
    "first_seen": "2026-10-09T03:11:54Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "57328549739363c9": {
    "id": "57328549739363c9",
@@ -10855,11 +10810,11 @@
    "state": "WA",
    "salary": "$50,412.00 - $67,704.00 Annually",
    "deadline": "Continuous",
-   "posted": "Posted 1 week ago",
+   "posted": "Posted 2 weeks ago",
    "job_type": "Project (limited duration)",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5511161/wcc-crew-supervisor-1-peninsula",
    "first_seen": "2026-10-09T03:11:54Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "df81ecc9b7433405": {
    "id": "df81ecc9b7433405",
@@ -10870,11 +10825,11 @@
    "state": "WA",
    "salary": "$50,412.00 - $67,704.00 Annually",
    "deadline": "Continuous",
-   "posted": "Posted 1 week ago",
+   "posted": "Posted 2 weeks ago",
    "job_type": "Project (limited duration)",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5511167/wcc-crew-supervisor-1-southwest-washington",
    "first_seen": "2026-10-09T03:11:54Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "7a9d29a421aa3b29": {
    "id": "7a9d29a421aa3b29",
@@ -10900,11 +10855,11 @@
    "state": "WA",
    "salary": "$4,517 - $6,075 per month",
    "deadline": "",
-   "posted": "12 days ago",
+   "posted": "13 days ago",
    "job_type": "Temporary",
    "url": "https://www.conservationjobboard.com/job-listing-service-forester-deer-park-washington/6082919198",
    "first_seen": "2026-10-09T19:19:00Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "8bc1d4e2e958c7fe": {
    "id": "8bc1d4e2e958c7fe",
@@ -10979,7 +10934,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119386",
    "first_seen": "2026-10-10T02:51:12Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "06ed56ba77585345": {
    "id": "06ed56ba77585345",
@@ -10994,7 +10949,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119404",
    "first_seen": "2026-10-10T02:51:12Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "21ab5b17295d06b5": {
    "id": "21ab5b17295d06b5",
@@ -11009,7 +10964,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=118098",
    "first_seen": "2026-10-10T02:51:12Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "e7382ae9f8d6e518": {
    "id": "e7382ae9f8d6e518",
@@ -11039,7 +10994,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119394",
    "first_seen": "2026-10-10T02:51:12Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "57370fd55165e713": {
    "id": "57370fd55165e713",
@@ -11054,7 +11009,7 @@
    "job_type": "Full Time - Permanent",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5499331/cle-elum-hand-crew-foreman-wildland-fire-management-supervisor-wfmsup",
    "first_seen": "2026-10-10T02:51:12Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "495c43aa97377d31": {
    "id": "495c43aa97377d31",
@@ -11064,12 +11019,12 @@
    "location": "Multiple Locations Statewide, WA",
    "state": "WA",
    "salary": "$5,928.00 - $7,973.00 Monthly",
-   "deadline": "Closes in 1 day",
+   "deadline": "Closes in 12 hours",
    "posted": "Posted 1 week ago",
    "job_type": "Remote: Flexible/Hybrid",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5512012/hydropower-mitigation-specialist-fish-wildlife-biologist-4-2-positions-pe",
    "first_seen": "2026-10-10T02:51:12Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "8aed694483874cab": {
    "id": "8aed694483874cab",
@@ -11095,11 +11050,11 @@
    "state": "WA",
    "salary": "$4,563 - $6,136 per month",
    "deadline": "",
-   "posted": "9 days ago",
+   "posted": "10 days ago",
    "job_type": "Temporary",
    "url": "https://www.conservationjobboard.com/job-listing-community-outreach--environmental-educational-specialist-3-walla-walla-washington/4166613284",
    "first_seen": "2026-10-12T21:59:39Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "8e4508efcc2bbab4": {
    "id": "8e4508efcc2bbab4",
@@ -11110,11 +11065,11 @@
    "state": "OR",
    "salary": "The starting compensation range for someone with 2-5 years of relevant professional experience is $41,750-$46,000.",
    "deadline": "",
-   "posted": "9 days ago",
+   "posted": "10 days ago",
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-end-food-waste-advocate-portland-oregon/3791991185",
    "first_seen": "2026-10-12T21:59:39Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "0df121ace68b9822": {
    "id": "0df121ace68b9822",
@@ -11125,11 +11080,11 @@
    "state": "CA",
    "salary": "$19.58 - $28.38 per hour",
    "deadline": "",
-   "posted": "9 days ago",
+   "posted": "10 days ago",
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-data-management-specialist-1--video-reader-red-california/2506034876",
    "first_seen": "2026-10-12T21:59:39Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "af4b1b703ac622f4": {
    "id": "af4b1b703ac622f4",
@@ -11140,11 +11095,11 @@
    "state": "CA",
    "salary": "For positions starting in August 2027, the target annual compensation is $41,000 (but compensation may range between $41,000 and $44,450 depending on location).",
    "deadline": "",
-   "posted": "9 days ago",
+   "posted": "10 days ago",
    "job_type": "Temporary",
    "url": "https://www.conservationjobboard.com/job-listing-environmental-campaign-organizer-los-angeles-california/7341854456",
    "first_seen": "2026-10-12T21:59:39Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "b4edf1135376aac5": {
    "id": "b4edf1135376aac5",
@@ -11155,11 +11110,11 @@
    "state": "CA",
    "salary": "Stipend $5,000.00 – $6,000.00 Monthly",
    "deadline": "",
-   "posted": "9 days ago",
+   "posted": "10 days ago",
    "job_type": "Paid Internship",
    "url": "https://www.conservationjobboard.com/job-listing-usda-ars-plant-molecular-biology-albany-california/6311967173",
    "first_seen": "2026-10-12T21:59:39Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "bc015b515884b006": {
    "id": "bc015b515884b006",
@@ -11170,11 +11125,11 @@
    "state": "CA",
    "salary": "$22 per hour",
    "deadline": "",
-   "posted": "9 days ago",
+   "posted": "10 days ago",
    "job_type": "Temporary",
    "url": "https://www.conservationjobboard.com/job-listing-crest-runner-southern-california/2617238896",
    "first_seen": "2026-10-12T21:59:39Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "112859908122a2d4": {
    "id": "112859908122a2d4",
@@ -11185,11 +11140,11 @@
    "state": "CA",
    "salary": "$18.26 - $21.67 per hour",
    "deadline": "",
-   "posted": "9 days ago",
+   "posted": "10 days ago",
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-scientific-aid-redding-california/2821836829",
    "first_seen": "2026-10-12T21:59:39Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "af90fac082d7f0e2": {
    "id": "af90fac082d7f0e2",
@@ -11219,7 +11174,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119411",
    "first_seen": "2026-10-12T21:59:39Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "1a46995c7b00bfb1": {
    "id": "1a46995c7b00bfb1",
@@ -11234,7 +11189,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119415",
    "first_seen": "2026-10-12T21:59:39Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "91ffd5ae13a8bbc4": {
    "id": "91ffd5ae13a8bbc4",
@@ -11249,7 +11204,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119408",
    "first_seen": "2026-10-12T21:59:39Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "2d0d37112fe96d24": {
    "id": "2d0d37112fe96d24",
@@ -11264,7 +11219,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119384",
    "first_seen": "2026-10-12T21:59:39Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "385220fe5acb7114": {
    "id": "385220fe5acb7114",
@@ -11279,7 +11234,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=86878",
    "first_seen": "2026-10-12T21:59:39Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "72d03f473947692c": {
    "id": "72d03f473947692c",
@@ -11309,7 +11264,7 @@
    "job_type": "Remote: Flexible/Hybrid",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5506425/network-administrator-it-network-telecoms-journey",
    "first_seen": "2026-10-12T21:59:39Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "a98fed9a37749dd8": {
    "id": "a98fed9a37749dd8",
@@ -11319,12 +11274,12 @@
    "location": "Chelan County – Wenatchee, WA",
    "state": "WA",
    "salary": "$67,704.00 - $91,104.00 Annually",
-   "deadline": "Closes in 5 days",
+   "deadline": "Closes in 4 days",
    "posted": "Posted 1 week ago",
    "job_type": "Remote: Flexible/Hybrid",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5513091/property-acquisition-specialist-3-title-research",
    "first_seen": "2026-10-12T21:59:39Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "547ec06768e01c38": {
    "id": "547ec06768e01c38",
@@ -11354,7 +11309,7 @@
    "job_type": "Remote: Flexible/Hybrid",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5513917/range-ecologist-fish-and-wildlife-biologist-4-permanent-2026-08558",
    "first_seen": "2026-10-13T04:01:26Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "5d614142c6fecee4": {
    "id": "5d614142c6fecee4",
@@ -11364,12 +11319,12 @@
    "location": "Thurston County – Tumwater, WA",
    "state": "WA",
    "salary": "$72,900.00 - $98,064.00 Annually",
-   "deadline": "Closes in 5 days",
+   "deadline": "Closes in 4 days",
    "posted": "Posted 1 week ago",
    "job_type": "Full Time - Permanent",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5513955/restoration-crew-supervisor-tps3",
    "first_seen": "2026-10-13T04:01:26Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "79e8718bdbc39a7a": {
    "id": "79e8718bdbc39a7a",
@@ -11380,11 +11335,11 @@
    "state": "OR",
    "salary": "$37.25 - $47.56 per hour",
    "deadline": "",
-   "posted": "8 days ago",
+   "posted": "9 days ago",
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-botanic-specialist-i---natural-resources-youth--community-programs-stewardship-coordinator-portland-oregon/6348827598",
    "first_seen": "2026-10-13T20:07:24Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "26c07137b9c18aee": {
    "id": "26c07137b9c18aee",
@@ -11395,11 +11350,11 @@
    "state": "OR",
    "salary": "$70,000 - $79,000 per year",
    "deadline": "",
-   "posted": "8 days ago",
+   "posted": "9 days ago",
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-development-manager-corvallis-oregon/2529628249",
    "first_seen": "2026-10-13T20:07:24Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "1eb9503890d2a7de": {
    "id": "1eb9503890d2a7de",
@@ -11410,11 +11365,11 @@
    "state": "OR",
    "salary": "For positions starting in August 2027, the target annual compensation is $41,000 (but compensation may range between $41,000 and $44,450 depending on location).",
    "deadline": "",
-   "posted": "8 days ago",
+   "posted": "9 days ago",
    "job_type": "Temporary",
    "url": "https://www.conservationjobboard.com/job-listing-environmental-campaign-organizer-portland-oregon/9024325155",
    "first_seen": "2026-10-13T20:07:24Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "ae48a041490b4308": {
    "id": "ae48a041490b4308",
@@ -11425,11 +11380,11 @@
    "state": "CA",
    "salary": "The target annual compensation range for this position is $40,000 - $44,450 and depends on location, education and experience.",
    "deadline": "",
-   "posted": "8 days ago",
+   "posted": "9 days ago",
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-campus-organizer-los-angeles-california/3051412299",
    "first_seen": "2026-10-13T20:07:24Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "f82f2a80836f56c3": {
    "id": "f82f2a80836f56c3",
@@ -11440,11 +11395,11 @@
    "state": "CA",
    "salary": "$20 per hour",
    "deadline": "",
-   "posted": "8 days ago",
+   "posted": "9 days ago",
    "job_type": "Temporary",
    "url": "https://www.conservationjobboard.com/job-listing-school-year-program-instructor-20262027-san-gregorio-california/6708616720",
    "first_seen": "2026-10-13T20:07:24Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "412c52ccebe1322a": {
    "id": "412c52ccebe1322a",
@@ -11455,11 +11410,11 @@
    "state": "CA",
    "salary": "The target annual compensation range for this position is $40,000 - $44,450 and depends on location, education and experience.",
    "deadline": "",
-   "posted": "8 days ago",
+   "posted": "9 days ago",
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-campus-organizer-berkeley-california/6496251803",
    "first_seen": "2026-10-13T20:07:24Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "ac130247effd060b": {
    "id": "ac130247effd060b",
@@ -11470,11 +11425,11 @@
    "state": "CA",
    "salary": "The target annual compensation for this entry-level position is $40,000 in the first year.",
    "deadline": "",
-   "posted": "8 days ago",
+   "posted": "9 days ago",
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-california-conservation-campaign-associate-oakland-california/1420732792",
    "first_seen": "2026-10-13T20:07:24Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "d9fcd0591504fdd0": {
    "id": "d9fcd0591504fdd0",
@@ -11489,7 +11444,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119448",
    "first_seen": "2026-10-13T20:07:24Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "84c75e04a922ad2c": {
    "id": "84c75e04a922ad2c",
@@ -11504,7 +11459,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119444",
    "first_seen": "2026-10-13T20:07:24Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "b8c0e5b0ab545f8b": {
    "id": "b8c0e5b0ab545f8b",
@@ -11514,12 +11469,12 @@
    "location": "King County - Shoreline, WA",
    "state": "WA",
    "salary": "$84,520.00 - $113,639.00 Annually",
-   "deadline": "Closes in 6 days",
+   "deadline": "Closes in 5 days",
    "posted": "Posted 1 week ago",
    "job_type": "Remote: Flexible/Hybrid",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5513186/contracts-engineer-te3",
    "first_seen": "2026-10-13T20:07:24Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "3c4d0d1a2346175f": {
    "id": "3c4d0d1a2346175f",
@@ -11529,12 +11484,12 @@
    "location": "Kittitas County - Cle Elum, WA",
    "state": "WA",
    "salary": "$52,872.00 - $64,512.00 Annually",
-   "deadline": "Closes in 5 days",
+   "deadline": "Closes in 4 days",
    "posted": "Posted 1 week ago",
    "job_type": "Full Time - Permanent",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5514132/highway-maintenance-worker-1",
    "first_seen": "2026-10-13T20:07:24Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "eb4c8aeacb939252": {
    "id": "eb4c8aeacb939252",
@@ -11544,12 +11499,12 @@
    "location": "Walla Walla County - Walla Walla, WA",
    "state": "WA",
    "salary": "$62,880.00 - $76,608.00 Annually",
-   "deadline": "Closes in 6 days",
+   "deadline": "Closes in 5 days",
    "posted": "Posted 1 week ago",
    "job_type": "Full Time - Permanent",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5514497/highway-maintenance-worker-3-walla-walla",
    "first_seen": "2026-10-13T20:07:24Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "ba80da9ab05cbb1b": {
    "id": "ba80da9ab05cbb1b",
@@ -11564,7 +11519,7 @@
    "job_type": "Remote: Flexible/Hybrid",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5510546/municipal-stormwater-permit-planner-environmental-planner-3",
    "first_seen": "2026-10-13T20:07:24Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "e0f8eff68968df7e": {
    "id": "e0f8eff68968df7e",
@@ -11579,7 +11534,7 @@
    "job_type": "Full Time - Permanent",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5514508/otolith-laboratory-biologist-fish-wildlife-biologist-3-permanent-2026-085",
    "first_seen": "2026-10-13T20:07:24Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "f876fe6e1f16ef24": {
    "id": "f876fe6e1f16ef24",
@@ -11589,12 +11544,12 @@
    "location": "Yakima County - Union Gap, WA",
    "state": "WA",
    "salary": "$72,900.00 - $98,064.00 Annually",
-   "deadline": "Closes in 6 days",
+   "deadline": "Closes in 5 days",
    "posted": "Posted 1 week ago",
    "job_type": "Remote: Flexible/Hybrid",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5514535/transportation-engineer-2-union-gap",
    "first_seen": "2026-10-13T20:07:24Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "b11f671a3d8e8c9a": {
    "id": "b11f671a3d8e8c9a",
@@ -11609,7 +11564,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119453",
    "first_seen": "2026-10-14T02:15:45Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "b242b4d1905e3ee3": {
    "id": "b242b4d1905e3ee3",
@@ -11619,12 +11574,12 @@
    "location": "Thurston County – Olympia, WA",
    "state": "WA",
    "salary": "$5,642.00 - $7,592.00 Monthly",
-   "deadline": "Closes in 2 days",
+   "deadline": "Closes in 1 day",
    "posted": "Posted 1 week ago",
    "job_type": "Remote: Flexible/Hybrid",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5514979/hatchery-evaluation-and-assessment-biologist-fish-wildlife-biologist-3-perm",
    "first_seen": "2026-10-14T02:15:45Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "cf8ac64be10c0b28": {
    "id": "cf8ac64be10c0b28",
@@ -11634,12 +11589,12 @@
    "location": "Adams County – Ritzville, WA",
    "state": "WA",
    "salary": "$62,880.00 - $76,608.00 Annually",
-   "deadline": "Closes in 4 days",
+   "deadline": "Closes in 3 days",
    "posted": "Posted 1 week ago",
    "job_type": "Full Time - Permanent",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5515089/highway-maintenance-worker-3-ritzville",
    "first_seen": "2026-10-14T02:15:45Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "40ba52fd402c36c9": {
    "id": "40ba52fd402c36c9",
@@ -11650,11 +11605,11 @@
    "state": "WA",
    "salary": "$5,642 - $7,592 per month",
    "deadline": "",
-   "posted": "7 days ago",
+   "posted": "8 days ago",
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-otolith-laboratory-biologist---fish--wildlife-biologist-3---permanent---2026-08568-olympia-washington/5952151835",
    "first_seen": "2026-10-14T18:22:29Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "0d69fea66dbf4f6b": {
    "id": "0d69fea66dbf4f6b",
@@ -11665,11 +11620,11 @@
    "state": "WA",
    "salary": "$6,542 - $8,801 per month",
    "deadline": "",
-   "posted": "7 days ago",
+   "posted": "8 days ago",
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-senior-appraiser-property-and-acquisition-specialist-olympia-washington/7397807574",
    "first_seen": "2026-10-14T18:22:29Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "214ade30ed78b882": {
    "id": "214ade30ed78b882",
@@ -11680,11 +11635,11 @@
    "state": "OR",
    "salary": "$28.85 - $38.46 per hour",
    "deadline": "",
-   "posted": "7 days ago",
+   "posted": "8 days ago",
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-executive-director-cave-junction-oregon/9096854027",
    "first_seen": "2026-10-14T18:22:29Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "26ceb85862351dd0": {
    "id": "26ceb85862351dd0",
@@ -11695,11 +11650,11 @@
    "state": "CA",
    "salary": "$17.14 per hour",
    "deadline": "",
-   "posted": "7 days ago",
+   "posted": "8 days ago",
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-environmental-science-educator-sausalito-california/1448174268",
    "first_seen": "2026-10-14T18:22:29Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "560d8d32d613334e": {
    "id": "560d8d32d613334e",
@@ -11710,11 +11665,11 @@
    "state": "CA",
    "salary": "$40.15 - $45.19 per hour",
    "deadline": "",
-   "posted": "7 days ago",
+   "posted": "8 days ago",
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-grants--finance-specialist-soquel-california/3173852846",
    "first_seen": "2026-10-14T18:22:29Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "4f716d2711503a60": {
    "id": "4f716d2711503a60",
@@ -11725,11 +11680,11 @@
    "state": "CA",
    "salary": "$17.14 per hour",
    "deadline": "",
-   "posted": "7 days ago",
+   "posted": "8 days ago",
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-environmental-science-educator-el-portal-california/4426815061",
    "first_seen": "2026-10-14T18:22:29Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "17324ee15dd8bf39": {
    "id": "17324ee15dd8bf39",
@@ -11740,11 +11695,11 @@
    "state": "CA",
    "salary": "$600 per week",
    "deadline": "",
-   "posted": "7 days ago",
+   "posted": "8 days ago",
    "job_type": "AmeriCorps",
    "url": "https://www.conservationjobboard.com/job-listing-community-assistance-fellow--americorps-westlake-village-california/4884246627",
    "first_seen": "2026-10-14T18:22:29Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "fbee2051a754617e": {
    "id": "fbee2051a754617e",
@@ -11755,11 +11710,11 @@
    "state": "CA",
    "salary": "$22.50 per hour",
    "deadline": "",
-   "posted": "7 days ago",
+   "posted": "8 days ago",
    "job_type": "Temporary",
    "url": "https://www.conservationjobboard.com/job-listing-wildlife-technician-nps-mojave-national-preserve-essex-california/2229790015",
    "first_seen": "2026-10-14T18:22:29Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "0d251f10eba987a0": {
    "id": "0d251f10eba987a0",
@@ -11769,12 +11724,12 @@
    "location": "Thurston County – Tumwater, WA",
    "state": "WA",
    "salary": "$80,496.00 - $108,228.00 Annually",
-   "deadline": "Closes in 1 week",
+   "deadline": "Closes in 6 days",
    "posted": "Posted 1 week ago",
    "job_type": "Remote: Flexible/Hybrid",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5516388/local-roads-intersections-gis-data-steward-tps4",
    "first_seen": "2026-10-14T18:22:29Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "54bf1be12873ac04": {
    "id": "54bf1be12873ac04",
@@ -11784,12 +11739,12 @@
    "location": "King County - Seattle – Belltown, WA",
    "state": "WA",
    "salary": "$93,227.00 - $125,433.00 Annually",
-   "deadline": "Closes in 1 week",
+   "deadline": "Closes in 6 days",
    "posted": "Posted 1 week ago",
    "job_type": "Remote: Flexible/Hybrid",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5515614/project-controller-washington-state-ferries",
    "first_seen": "2026-10-14T18:22:29Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "ffeae09d86f2913c": {
    "id": "ffeae09d86f2913c",
@@ -11804,7 +11759,7 @@
    "job_type": "Full Time - Permanent",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5514764/regulation-and-prevention-technician-wildland-fire-mgmt-supervisor-wfmsup-wfm",
    "first_seen": "2026-10-14T18:22:29Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "c10d97766259c519": {
    "id": "c10d97766259c519",
@@ -11829,12 +11784,12 @@
    "location": "Chelan County – Wenatchee, WA",
    "state": "WA",
    "salary": "$80,496.00 - $108,228.00 Annually",
-   "deadline": "Closes in 1 week",
+   "deadline": "Closes in 6 days",
    "posted": "Posted 1 week ago",
    "job_type": "Full Time - Permanent",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5515533/transportation-engineer-3",
    "first_seen": "2026-10-14T18:22:29Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "65415d1ecc16ecc0": {
    "id": "65415d1ecc16ecc0",
@@ -11844,12 +11799,12 @@
    "location": "Chelan County – Wenatchee, WA",
    "state": "WA",
    "salary": "$88,788.00 - $119,460.00 Annually",
-   "deadline": "Closes in 2 weeks",
+   "deadline": "Closes in 1 week",
    "posted": "Posted 1 week ago",
    "job_type": "Full Time - Permanent",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5516449/transportation-engineer-4",
    "first_seen": "2026-10-14T18:22:29Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "85f65e939384c873": {
    "id": "85f65e939384c873",
@@ -11864,7 +11819,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119486",
    "first_seen": "2026-10-15T01:57:12Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "94ac39cf99a8c65c": {
    "id": "94ac39cf99a8c65c",
@@ -11894,7 +11849,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119494",
    "first_seen": "2026-10-15T01:57:12Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "1420450ab12c9194": {
    "id": "1420450ab12c9194",
@@ -11909,7 +11864,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119470",
    "first_seen": "2026-10-15T01:57:12Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "3c0b5d10c9909628": {
    "id": "3c0b5d10c9909628",
@@ -11924,7 +11879,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119493",
    "first_seen": "2026-10-15T01:57:12Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "542a1f66dd1a6635": {
    "id": "542a1f66dd1a6635",
@@ -11939,7 +11894,7 @@
    "job_type": "Remote: Flexible/Hybrid",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5517205/assistant-region-administrator-maintenance-operations",
    "first_seen": "2026-10-15T01:57:12Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "418e2bad7d2aea90": {
    "id": "418e2bad7d2aea90",
@@ -11979,12 +11934,12 @@
    "location": "Thurston County – Tumwater, WA",
    "state": "WA",
    "salary": "$80,496.00 - $108,228.00 Annually",
-   "deadline": "Closes in 1 week",
+   "deadline": "Closes in 6 days",
    "posted": "Posted 1 week ago",
    "job_type": "Remote: Flexible/Hybrid",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5517240/field-exploration-supervisor-te3",
    "first_seen": "2026-10-15T01:57:12Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "aa1f4c45bf65ca5b": {
    "id": "aa1f4c45bf65ca5b",
@@ -11994,12 +11949,12 @@
    "location": "Thurston County – Lacey, WA",
    "state": "WA",
    "salary": "$49,296.00 - $66,072.00 Annually",
-   "deadline": "Closes in 2 days",
+   "deadline": "Closes in 1 day",
    "posted": "Posted 1 week ago",
    "job_type": "Remote: Flexible/Hybrid",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5516739/fiscal-analyst-1-payments-and-receipts-two-positions",
    "first_seen": "2026-10-15T01:57:12Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "349ecfb0969e2578": {
    "id": "349ecfb0969e2578",
@@ -12009,12 +11964,12 @@
    "location": "King County - Seattle – Belltown, WA",
    "state": "WA",
    "salary": "$90,090.00 - $121,186.00 Annually",
-   "deadline": "Closes in 5 days",
+   "deadline": "Closes in 4 days",
    "posted": "Posted 1 week ago",
    "job_type": "Remote: Flexible/Hybrid",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5516869/it-network-telecommunications-journey-project",
    "first_seen": "2026-10-15T01:57:12Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "5ac96d2d8d15d406": {
    "id": "5ac96d2d8d15d406",
@@ -12024,12 +11979,12 @@
    "location": "Thurston County – Lacey, WA",
    "state": "WA",
    "salary": "$122,400.00 - $149,724.00 Annually",
-   "deadline": "Closes in 3 weeks",
+   "deadline": "Closes in 2 weeks",
    "posted": "Posted 1 week ago",
    "job_type": "Remote: Flexible/Hybrid",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5517230/passenger-rail-program-manager-wms3",
    "first_seen": "2026-10-15T01:57:12Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "f82686eb504e36e5": {
    "id": "f82686eb504e36e5",
@@ -12044,7 +11999,7 @@
    "job_type": "Full Time - Permanent",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5516025/salish-unit-crew-superintendent-wildland-fire-management-specialist-wfmspec",
    "first_seen": "2026-10-15T01:57:12Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "21cc4dd4a76a43ee": {
    "id": "21cc4dd4a76a43ee",
@@ -12054,12 +12009,12 @@
    "location": "Thurston County – Lacey, WA",
    "state": "WA",
    "salary": "$80,496.00 - $108,228.00 Annually",
-   "deadline": "Closes in 1 week",
+   "deadline": "Closes in 6 days",
    "posted": "Posted 1 week ago",
    "job_type": "Remote: Flexible/Hybrid",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5516997/transportation-engineer-3",
    "first_seen": "2026-10-15T01:57:12Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "16ad458dc2cb4c3d": {
    "id": "16ad458dc2cb4c3d",
@@ -12069,12 +12024,12 @@
    "location": "Thurston County – Lacey, WA",
    "state": "WA",
    "salary": "$80,496.00 - $108,228.00 Annually",
-   "deadline": "Closes in 2 weeks",
+   "deadline": "Closes in 1 week",
    "posted": "Posted 1 week ago",
    "job_type": "Remote: Flexible/Hybrid",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5517216/transportation-engineer-3-pse-support-specialist",
    "first_seen": "2026-10-15T01:57:12Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "397db312a1938560": {
    "id": "397db312a1938560",
@@ -12084,12 +12039,12 @@
    "location": "Snohomish County – Everett, WA",
    "state": "WA",
    "salary": "$48,048.00 - $88,788.00 Annually",
-   "deadline": "Closes in 5 days",
+   "deadline": "Closes in 4 days",
    "posted": "Posted 1 week ago",
    "job_type": "Remote: Flexible/Hybrid",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5517179/transportation-technician-3-material-tester-in-training-multiple-positions",
    "first_seen": "2026-10-15T01:57:12Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "c147c5cc91e9c523": {
    "id": "c147c5cc91e9c523",
@@ -12100,11 +12055,11 @@
    "state": "WA",
    "salary": "$90,150 - $166,263 per year",
    "deadline": "",
-   "posted": "6 days ago",
+   "posted": "7 days ago",
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-environmental-scientist-41579-richland-washington/1322093203",
    "first_seen": "2026-10-15T18:04:49Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "4a1322b2f0b50676": {
    "id": "4a1322b2f0b50676",
@@ -12115,11 +12070,11 @@
    "state": "OR",
    "salary": "$19 - $25 per hour",
    "deadline": "",
-   "posted": "6 days ago",
+   "posted": "7 days ago",
    "job_type": "Temporary",
    "url": "https://www.conservationjobboard.com/job-listing-fisheries-technician-hood-river-oregon/1054796890",
    "first_seen": "2026-10-15T18:04:49Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "ca790bb0099ada37": {
    "id": "ca790bb0099ada37",
@@ -12130,11 +12085,11 @@
    "state": "CA",
    "salary": "$30 - $40 per hour",
    "deadline": "",
-   "posted": "6 days ago",
+   "posted": "7 days ago",
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-project-coordinator-lakeport-california/1955820997",
    "first_seen": "2026-10-15T18:04:49Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "9d49a28ea0476129": {
    "id": "9d49a28ea0476129",
@@ -12145,11 +12100,11 @@
    "state": "CA",
    "salary": "$27.94 per hour",
    "deadline": "",
-   "posted": "6 days ago",
+   "posted": "7 days ago",
    "job_type": "Paid Internship",
    "url": "https://www.conservationjobboard.com/job-listing-public-affairs-intern-los-altos-ca-california/1497131136",
    "first_seen": "2026-10-15T18:04:49Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "9bec4d794a3ef5d2": {
    "id": "9bec4d794a3ef5d2",
@@ -12160,11 +12115,11 @@
    "state": "CA",
    "salary": "$22.29 per hour",
    "deadline": "",
-   "posted": "6 days ago",
+   "posted": "7 days ago",
    "job_type": "Temporary",
    "url": "https://www.conservationjobboard.com/job-listing-santa-rosa-island-seasonal-invasive-plant-technician-ventura-california/8617426321",
    "first_seen": "2026-10-15T18:04:49Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "c5d4af0b44e9f23c": {
    "id": "c5d4af0b44e9f23c",
@@ -12175,11 +12130,11 @@
    "state": "CA",
    "salary": "$22.29 per hour",
    "deadline": "",
-   "posted": "6 days ago",
+   "posted": "7 days ago",
    "job_type": "Temporary",
    "url": "https://www.conservationjobboard.com/job-listing-santa-cruz-island-restoration-technician-ventura-california/7446792320",
    "first_seen": "2026-10-15T18:04:49Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "8dc2fcf041926361": {
    "id": "8dc2fcf041926361",
@@ -12190,11 +12145,11 @@
    "state": "WA",
    "salary": "$69,375.00 - $102,967.00 Annually",
    "deadline": "Closes in 1 week",
-   "posted": "Posted 6 days ago",
+   "posted": "Posted 1 week ago",
    "job_type": "Full Time - Permanent",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5517492/construction-compliance-inspector-te2-in-training-multiple",
    "first_seen": "2026-10-15T18:04:49Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "1d8f8d5216695639": {
    "id": "1d8f8d5216695639",
@@ -12204,12 +12159,12 @@
    "location": "Thurston County – Olympia, WA",
    "state": "WA",
    "salary": "$44,856.00 - $59,760.00 Annually",
-   "deadline": "Closes in 1 day",
-   "posted": "Posted 6 days ago",
+   "deadline": "Closes in 12 hours",
+   "posted": "Posted 1 week ago",
    "job_type": "Full Time - Permanent",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5517193/forest-nursery-technician",
    "first_seen": "2026-10-15T18:04:49Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "a041c6f998b958bd": {
    "id": "a041c6f998b958bd",
@@ -12220,11 +12175,11 @@
    "state": "WA",
    "salary": "$45,924.00 - $61,332.00 Annually",
    "deadline": "Closes in 1 month",
-   "posted": "Posted 6 days ago",
+   "posted": "Posted 1 week ago",
    "job_type": "Remote: Flexible/Hybrid",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5517245/kulshan-squad-boss-wildland-fire-management-lead-wfml",
    "first_seen": "2026-10-15T18:04:49Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "34a1b1730a63b739": {
    "id": "34a1b1730a63b739",
@@ -12234,12 +12189,12 @@
    "location": "Thurston County – Olympia, WA",
    "state": "WA",
    "salary": "$43,836.00 - $50,412.00 Annually",
-   "deadline": "Closes in 1 day",
-   "posted": "Posted 6 days ago",
+   "deadline": "Closes in 12 hours",
+   "posted": "Posted 1 week ago",
    "job_type": "Full Time - Non-Permanent",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5516574/warehouse-operator-1",
    "first_seen": "2026-10-15T18:04:49Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "166299d88d4a9b78": {
    "id": "166299d88d4a9b78",
@@ -12249,12 +12204,12 @@
    "location": "Thurston County – Olympia, WA",
    "state": "WA",
    "salary": "$45,924.00 - $52,872.00 Annually",
-   "deadline": "Closes in 1 day",
-   "posted": "Posted 6 days ago",
+   "deadline": "Closes in 12 hours",
+   "posted": "Posted 1 week ago",
    "job_type": "Seasonal",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5517060/warehouse-operator-2",
    "first_seen": "2026-10-15T18:04:49Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "984876641bf7ba21": {
    "id": "984876641bf7ba21",
@@ -12269,7 +12224,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119508",
    "first_seen": "2026-10-16T01:46:55Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "639863c43794873d": {
    "id": "639863c43794873d",
@@ -12284,7 +12239,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119504",
    "first_seen": "2026-10-16T01:46:55Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "ac67a095a04f6b2c": {
    "id": "ac67a095a04f6b2c",
@@ -12299,7 +12254,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119518",
    "first_seen": "2026-10-16T01:46:55Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "30c95a404e8014e2": {
    "id": "30c95a404e8014e2",
@@ -12314,7 +12269,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119519",
    "first_seen": "2026-10-16T01:46:55Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "00276fcb6a26964c": {
    "id": "00276fcb6a26964c",
@@ -12329,7 +12284,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119505",
    "first_seen": "2026-10-16T01:46:55Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "7d0cdcdd19c16b03": {
    "id": "7d0cdcdd19c16b03",
@@ -12344,7 +12299,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119506",
    "first_seen": "2026-10-16T01:46:55Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "e47350083409b38b": {
    "id": "e47350083409b38b",
@@ -12359,7 +12314,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119514",
    "first_seen": "2026-10-16T01:46:55Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "5c43192c2d94006b": {
    "id": "5c43192c2d94006b",
@@ -12374,7 +12329,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119522",
    "first_seen": "2026-10-16T01:46:55Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "797ca20882c43dd8": {
    "id": "797ca20882c43dd8",
@@ -12384,12 +12339,12 @@
    "location": "Columbia County – Other, WA",
    "state": "WA",
    "salary": "$3,653.00 - $4,866.00 Monthly",
-   "deadline": "Closes in 4 days",
-   "posted": "Posted 6 days ago",
+   "deadline": "Closes in 3 days",
+   "posted": "Posted 1 week ago",
    "job_type": "Seasonal",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5518142/creel-surveyor-scientific-technician-2-career-seasonal-2026-08692",
    "first_seen": "2026-10-16T01:46:55Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "9c6cb5cb8561e041": {
    "id": "9c6cb5cb8561e041",
@@ -12399,12 +12354,12 @@
    "location": "Thurston County – Olympia, WA",
    "state": "WA",
    "salary": "$8,692.00 - $11,689.00 Monthly",
-   "deadline": "Closes in 1 day",
-   "posted": "Posted 6 days ago",
+   "deadline": "Closes in 12 hours",
+   "posted": "Posted 1 week ago",
    "job_type": "Full Time - Permanent",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5518505/network-architecture-lead-it-architecture-senior-specialist-permanent-2026",
    "first_seen": "2026-10-16T01:46:55Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "be9dbf0aef76a5cd": {
    "id": "be9dbf0aef76a5cd",
@@ -12414,12 +12369,12 @@
    "location": "Clark County – Ridgefield, WA",
    "state": "WA",
    "salary": "$5,111.00 - $6,870.00 Monthly",
-   "deadline": "Closes in 4 days",
-   "posted": "Posted 6 days ago",
+   "deadline": "Closes in 3 days",
+   "posted": "Posted 1 week ago",
    "job_type": "Remote: Flexible/Hybrid",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5518876/regional-operations-manager-administrative-assistant-5-permanent-2026-08717",
    "first_seen": "2026-10-16T01:46:55Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "be7ba04129739433": {
    "id": "be7ba04129739433",
@@ -12430,11 +12385,11 @@
    "state": "WA",
    "salary": "$0.00 Annually",
    "deadline": "Closes in 1 week",
-   "posted": "Posted 1 week ago",
+   "posted": "Posted 2 weeks ago",
    "job_type": "Remote: Flexible/Hybrid",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5509399/senior-appraiser-property-and-acquisition-specailist-5-pas5",
    "first_seen": "2026-10-16T01:46:55Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "661c8b9320fd7aa7": {
    "id": "661c8b9320fd7aa7",
@@ -12445,11 +12400,11 @@
    "state": "WA",
    "salary": "$65,000 - $90,000 per year",
    "deadline": "",
-   "posted": "5 days ago",
+   "posted": "6 days ago",
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-recovery-coordinator-yakima-washington/6962897060",
    "first_seen": "2026-10-16T17:50:40Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "917cac44d1abda52": {
    "id": "917cac44d1abda52",
@@ -12460,11 +12415,11 @@
    "state": "WA",
    "salary": "$50,412 - $67,704 per year",
    "deadline": "",
-   "posted": "5 days ago",
+   "posted": "6 days ago",
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-wildland-fire-hand-crew-foreman-cle-elum-washington/8856441487",
    "first_seen": "2026-10-16T17:50:40Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "0cd99ea0f30aaeb4": {
    "id": "0cd99ea0f30aaeb4",
@@ -12475,11 +12430,11 @@
    "state": "WA",
    "salary": "$45,924 - $67,704 per year",
    "deadline": "",
-   "posted": "5 days ago",
+   "posted": "6 days ago",
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-wildland-fire-regulation-and-prevention-technician-colville-washington/9638140632",
    "first_seen": "2026-10-16T17:50:40Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "529728cd0d1da1c5": {
    "id": "529728cd0d1da1c5",
@@ -12490,11 +12445,11 @@
    "state": "WA",
    "salary": "$54,204 - $72,900 per year",
    "deadline": "",
-   "posted": "5 days ago",
+   "posted": "6 days ago",
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-wildland-fire-crew-superintendent-stanwood-wa-washington/8614142530",
    "first_seen": "2026-10-16T17:50:40Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "cbf97fa6e2053936": {
    "id": "cbf97fa6e2053936",
@@ -12505,11 +12460,11 @@
    "state": "WA",
    "salary": "$45,924 - $61,332 per year",
    "deadline": "",
-   "posted": "5 days ago",
+   "posted": "6 days ago",
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-wildland-fire-squad-boss-bellingham-washington/1303252002",
    "first_seen": "2026-10-16T17:50:40Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "ed274d0afe147143": {
    "id": "ed274d0afe147143",
@@ -12520,11 +12475,11 @@
    "state": "WA",
    "salary": "$69,348 - $93,288 per year",
    "deadline": "",
-   "posted": "5 days ago",
+   "posted": "6 days ago",
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-permit-writer-environmental-specialist-4-lacey-washington/7753538999",
    "first_seen": "2026-10-16T17:50:40Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "b9bac8d82e7e2454": {
    "id": "b9bac8d82e7e2454",
@@ -12535,11 +12490,11 @@
    "state": "WA",
    "salary": "$44,856 - $59,760 per year",
    "deadline": "",
-   "posted": "5 days ago",
+   "posted": "6 days ago",
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-forest-nursery-technician-olympia-washington/3223799387",
    "first_seen": "2026-10-16T17:50:40Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "c73fc8dd141fdea9": {
    "id": "c73fc8dd141fdea9",
@@ -12580,11 +12535,11 @@
    "state": "CA",
    "salary": "$82,000 - $105,000 per year",
    "deadline": "",
-   "posted": "5 days ago",
+   "posted": "6 days ago",
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-regional-construction-supervisor-ojai-california/1229465706",
    "first_seen": "2026-10-16T17:50:40Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "12327d7599350723": {
    "id": "12327d7599350723",
@@ -12595,11 +12550,11 @@
    "state": "CA",
    "salary": "$110,000 - $145,000 per year",
    "deadline": "",
-   "posted": "5 days ago",
+   "posted": "6 days ago",
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-licensed-landscape-architect-mendocinosonoma-based-california/1602821360",
    "first_seen": "2026-10-16T17:50:40Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "85109bec8c4d0b71": {
    "id": "85109bec8c4d0b71",
@@ -12610,11 +12565,11 @@
    "state": "CA",
    "salary": "$73,000 - $85,000 per year",
    "deadline": "",
-   "posted": "5 days ago",
+   "posted": "6 days ago",
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-regional-landscape-construction-foreperson-groveland-california/1283330949",
    "first_seen": "2026-10-16T17:50:40Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "3ac66b62e69295ca": {
    "id": "3ac66b62e69295ca",
@@ -12625,11 +12580,11 @@
    "state": "CA",
    "salary": "$73,500 - $90,000 per year",
    "deadline": "",
-   "posted": "5 days ago",
+   "posted": "6 days ago",
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-landscape-designer-sonoma-california/6001452466",
    "first_seen": "2026-10-16T17:50:40Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "5bb1cc6a0a6ae3a1": {
    "id": "5bb1cc6a0a6ae3a1",
@@ -12640,11 +12595,11 @@
    "state": "CA",
    "salary": "$25 - $35 per hour",
    "deadline": "",
-   "posted": "5 days ago",
+   "posted": "6 days ago",
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-water-resource-field-specialist-iii-groveland-california/1853417950",
    "first_seen": "2026-10-16T17:50:40Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "eeb8e27374c47d03": {
    "id": "eeb8e27374c47d03",
@@ -12655,11 +12610,11 @@
    "state": "CA",
    "salary": "$23 - $26 per hour",
    "deadline": "",
-   "posted": "5 days ago",
+   "posted": "6 days ago",
    "job_type": "Temporary",
    "url": "https://www.conservationjobboard.com/job-listing-public-lands-defense-fellow-bishop-california/3728468789",
    "first_seen": "2026-10-16T17:50:40Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "cdd9ecaad8b350c3": {
    "id": "cdd9ecaad8b350c3",
@@ -12670,11 +12625,11 @@
    "state": "CA",
    "salary": "$186,000 - $208,000 per year",
    "deadline": "",
-   "posted": "5 days ago",
+   "posted": "6 days ago",
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-senior-director-leadership-giving-oakland-california/2661615461",
    "first_seen": "2026-10-16T17:50:40Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "029f3195019dc5f0": {
    "id": "029f3195019dc5f0",
@@ -12685,11 +12640,11 @@
    "state": "CA",
    "salary": "$104,411 - $143,735 per year",
    "deadline": "",
-   "posted": "5 days ago",
+   "posted": "6 days ago",
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-property-management-specialist-iii-los-altos-ca-california/8219995988",
    "first_seen": "2026-10-16T17:50:40Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "ae96fa85dae8c473": {
    "id": "ae96fa85dae8c473",
@@ -12700,11 +12655,11 @@
    "state": "CA",
    "salary": "$25 per hour",
    "deadline": "",
-   "posted": "5 days ago",
+   "posted": "6 days ago",
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-outreach-coordinator-laguna-beach-california/6332566202",
    "first_seen": "2026-10-16T17:50:40Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "15d11697cc1e0e93": {
    "id": "15d11697cc1e0e93",
@@ -12719,7 +12674,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119533",
    "first_seen": "2026-10-16T17:50:40Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "ab385e6522861f5f": {
    "id": "ab385e6522861f5f",
@@ -12730,11 +12685,11 @@
    "state": "WA",
    "salary": "$5,779.00 - $7,774.00 Monthly",
    "deadline": "Closes in 1 week",
-   "posted": "Posted 5 days ago",
+   "posted": "Posted 6 days ago",
    "job_type": "Full Time - Permanent",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5519718/construction-project-coordinator-construction-project-coord-2-perm-2-openin",
    "first_seen": "2026-10-17T01:41:33Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "012ad56706dc8de5": {
    "id": "012ad56706dc8de5",
@@ -12745,11 +12700,11 @@
    "state": "WA",
    "salary": "$62,880.00 - $76,608.00 Annually",
    "deadline": "Closes in 1 week",
-   "posted": "Posted 5 days ago",
+   "posted": "Posted 6 days ago",
    "job_type": "Full Time - Permanent",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5520230/highway-maintenance-worker-3",
    "first_seen": "2026-10-17T01:41:33Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "c14964b2188ee4de": {
    "id": "c14964b2188ee4de",
@@ -12760,11 +12715,11 @@
    "state": "WA",
    "salary": "The target annual compensation for this position is $40,000-$53,750, depending on position and location",
    "deadline": "",
-   "posted": "2 days ago",
+   "posted": "3 days ago",
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-canvass-director-seattle-washington/3237113329",
    "first_seen": "2026-10-19T19:41:50Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "b0be3dc6ca6f5fe8": {
    "id": "b0be3dc6ca6f5fe8",
@@ -12775,11 +12730,11 @@
    "state": "WA",
    "salary": "$3,653 - $4,406 per month",
    "deadline": "",
-   "posted": "2 days ago",
+   "posted": "3 days ago",
    "job_type": "Temporary",
    "url": "https://www.conservationjobboard.com/job-listing-warehouse-operator-1-or-2-olympia-washington/5612663567",
    "first_seen": "2026-10-19T19:41:50Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "e44a0c85f65b9299": {
    "id": "e44a0c85f65b9299",
@@ -12790,11 +12745,11 @@
    "state": "OR",
    "salary": "$60,300 - $71,900 per year",
    "deadline": "",
-   "posted": "2 days ago",
+   "posted": "3 days ago",
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-development-coordinator-garibaldi-oregon/3647388500",
    "first_seen": "2026-10-19T19:41:50Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "901cae6273900168": {
    "id": "901cae6273900168",
@@ -12805,11 +12760,11 @@
    "state": "CA",
    "salary": "The target annual compensation for this position is $40,000-$53,750, depending on position and location.",
    "deadline": "",
-   "posted": "2 days ago",
+   "posted": "3 days ago",
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-canvass-director-oakland-california/5215538271",
    "first_seen": "2026-10-19T19:41:50Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "e09f7aca5e97e704": {
    "id": "e09f7aca5e97e704",
@@ -12820,11 +12775,11 @@
    "state": "CA",
    "salary": "$25 - $30 per hour",
    "deadline": "",
-   "posted": "2 days ago",
+   "posted": "3 days ago",
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-sierra-nevada-yellow-legged-frog-project-manager-quincy-california/7452067962",
    "first_seen": "2026-10-19T19:41:50Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "8748ed93d40fe079": {
    "id": "8748ed93d40fe079",
@@ -12835,11 +12790,11 @@
    "state": "CA",
    "salary": "$21 - $22 per hour",
    "deadline": "",
-   "posted": "2 days ago",
+   "posted": "3 days ago",
    "job_type": "Temporary",
    "url": "https://www.conservationjobboard.com/job-listing-trails-technician-laguna-beach-california/7577254832",
    "first_seen": "2026-10-19T19:41:50Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "f15c84691fd05f0d": {
    "id": "f15c84691fd05f0d",
@@ -12850,11 +12805,11 @@
    "state": "CA",
    "salary": "$17.45 - $21.87 per hour",
    "deadline": "",
-   "posted": "2 days ago",
+   "posted": "3 days ago",
    "job_type": "Temporary",
    "url": "https://www.conservationjobboard.com/job-listing-biological-science-technician-aquaticsfisheries-three-rivers-california/6229692300",
    "first_seen": "2026-10-19T19:41:50Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "1c6521350096547c": {
    "id": "1c6521350096547c",
@@ -12865,11 +12820,11 @@
    "state": "CA",
    "salary": "The target annual compensation for this position is $40,000-$53,750, depending on position and location.",
    "deadline": "",
-   "posted": "2 days ago",
+   "posted": "3 days ago",
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-canvass-director-santa-cruz-california/7617719196",
    "first_seen": "2026-10-19T19:41:50Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "5f7b68b102d91abd": {
    "id": "5f7b68b102d91abd",
@@ -12880,11 +12835,11 @@
    "state": "WA",
    "salary": "$103,320.00 - $126,504.00 Annually",
    "deadline": "Closes in 2 weeks",
-   "posted": "Posted 2 days ago",
+   "posted": "Posted 3 days ago",
    "job_type": "Remote: Flexible/Hybrid",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5520914/assistant-area-engineer-wms-band-2-multiple-positions",
    "first_seen": "2026-10-19T19:41:50Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "709b3e7896c1da83": {
    "id": "709b3e7896c1da83",
@@ -12894,12 +12849,12 @@
    "location": "King County - Seattle – Belltown, WA",
    "state": "WA",
    "salary": "$114,987.00 - $154,627.00 Annually",
-   "deadline": "Closes in 1 week",
-   "posted": "Posted 2 days ago",
+   "deadline": "Closes in 6 days",
+   "posted": "Posted 3 days ago",
    "job_type": "Remote: Flexible/Hybrid",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5520992/cybersecurity-officer-it-security-manager",
    "first_seen": "2026-10-19T19:41:50Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "7fcadf9ecad9098a": {
    "id": "7fcadf9ecad9098a",
@@ -12910,11 +12865,11 @@
    "state": "WA",
    "salary": "$100,459.00 - $135,122.00 Annually",
    "deadline": "Closes in 1 week",
-   "posted": "Posted 2 days ago",
+   "posted": "Posted 3 days ago",
    "job_type": "Remote: Flexible/Hybrid",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5521370/electrical-engineer-4-washington-state-ferries",
    "first_seen": "2026-10-19T19:41:50Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "761630c5f6784489": {
    "id": "761630c5f6784489",
@@ -12925,11 +12880,11 @@
    "state": "WA",
    "salary": "$59,760.00 - $80,496.00 Annually",
    "deadline": "Closes in 2 weeks",
-   "posted": "Posted 2 days ago",
+   "posted": "Posted 3 days ago",
    "job_type": "Remote: Flexible/Hybrid",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5517498/forest-practices-rule-board-coordinator-environmental-specialist-3-es3",
    "first_seen": "2026-10-19T19:41:50Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "0630dada5dab9571": {
    "id": "0630dada5dab9571",
@@ -12939,12 +12894,12 @@
    "location": "King County - Seattle – Belltown, WA",
    "state": "WA",
    "salary": "$67,460.00 - $90,757.00 Annually",
-   "deadline": "Closes in 5 days",
-   "posted": "Posted 2 days ago",
+   "deadline": "Closes in 4 days",
+   "posted": "Posted 3 days ago",
    "job_type": "Project (limited duration)",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5521346/it-customer-support-entry-project",
    "first_seen": "2026-10-19T19:41:50Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "266976caff3c3241": {
    "id": "266976caff3c3241",
@@ -12954,12 +12909,12 @@
    "location": "Thurston County – Lacey, WA",
    "state": "WA",
    "salary": "$90,096.00 - $121,173.00 Annually",
-   "deadline": "Closes in 5 days",
-   "posted": "Posted 2 days ago",
+   "deadline": "Closes in 4 days",
+   "posted": "Posted 3 days ago",
    "job_type": "Remote: Flexible/Hybrid",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5521100/it-project-manager-journey",
    "first_seen": "2026-10-19T19:41:50Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "2bfbdc067f0e0189": {
    "id": "2bfbdc067f0e0189",
@@ -12970,11 +12925,11 @@
    "state": "WA",
    "salary": "$109,519.00 - $147,281.00 Annually",
    "deadline": "Closes in 1 week",
-   "posted": "Posted 2 days ago",
+   "posted": "Posted 3 days ago",
    "job_type": "Remote: Flexible/Hybrid",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5520853/it-solutions-architect-senior-specialist-vessel-electrification",
    "first_seen": "2026-10-19T19:41:50Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "165e7c702104d932": {
    "id": "165e7c702104d932",
@@ -12985,11 +12940,11 @@
    "state": "WA",
    "salary": "$96,417.00 - $123,199.00 Annually",
    "deadline": "Continuous",
-   "posted": "Posted 2 days ago",
+   "posted": "Posted 3 days ago",
    "job_type": "Remote: Flexible/Hybrid",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5512669/program-budget-manager-wms-band-2",
    "first_seen": "2026-10-19T19:41:50Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "0f60adc74ea8d1ac": {
    "id": "0f60adc74ea8d1ac",
@@ -13000,11 +12955,11 @@
    "state": "WA",
    "salary": "$84,520.00 - $113,639.00 Annually",
    "deadline": "Closes in 1 week",
-   "posted": "Posted 2 days ago",
+   "posted": "Posted 3 days ago",
    "job_type": "Remote: Flexible/Hybrid",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5520843/transportation-planning-specialist-4-washington-state-ferries",
    "first_seen": "2026-10-19T19:41:50Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "41311a098a9be4bb": {
    "id": "41311a098a9be4bb",
@@ -13015,11 +12970,11 @@
    "state": "WA",
    "salary": "$76,608.00 - $102,996.00 Annually",
    "deadline": "Continuous",
-   "posted": "Posted 2 days ago",
+   "posted": "Posted 3 days ago",
    "job_type": "Remote: Flexible/Hybrid",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5518966/hazardous-waste-compliance-team-lead-environmental-specialist-5",
    "first_seen": "2026-10-20T02:13:18Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "81e6e7313f88a926": {
    "id": "81e6e7313f88a926",
@@ -13030,11 +12985,11 @@
    "state": "WA",
    "salary": "$74,748.00 - $95,676.00 Annually",
    "deadline": "Closes in 1 week",
-   "posted": "Posted 2 days ago",
+   "posted": "Posted 3 days ago",
    "job_type": "Full Time - Permanent",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5521878/heavy-equipment-mechanic-2-in-training",
    "first_seen": "2026-10-20T02:13:18Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "b2d6389ca4a28224": {
    "id": "b2d6389ca4a28224",
@@ -13044,12 +12999,12 @@
    "location": "King County - Shoreline, WA",
    "state": "WA",
    "salary": "$99,351.00 - $133,608.00 Annually",
-   "deadline": "Closes in 2 weeks",
-   "posted": "Posted 2 days ago",
+   "deadline": "Closes in 1 week",
+   "posted": "Posted 3 days ago",
    "job_type": "Full Time - Permanent",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5521752/it-system-administrator-senior-specialist",
    "first_seen": "2026-10-20T02:13:18Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "489000c5416b03fd": {
    "id": "489000c5416b03fd",
@@ -13060,11 +13015,11 @@
    "state": "WA",
    "salary": "$76,545.00 - $102,967.00 Annually",
    "deadline": "Closes in 1 week",
-   "posted": "Posted 2 days ago",
+   "posted": "Posted 3 days ago",
    "job_type": "Remote: Flexible/Hybrid",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5521818/program-monitoring-engineer-te2-multiple-positions",
    "first_seen": "2026-10-20T02:13:18Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "7759c746d75adcd0": {
    "id": "7759c746d75adcd0",
@@ -13075,11 +13030,11 @@
    "state": "WA",
    "salary": "$76,545.00 - $102,967.00 Annually",
    "deadline": "Closes in 1 week",
-   "posted": "Posted 2 days ago",
+   "posted": "Posted 3 days ago",
    "job_type": "Remote: Flexible/Hybrid",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5521538/property-acquisition-specialist-4",
    "first_seen": "2026-10-20T02:13:18Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "aaa622dac6ae1798": {
    "id": "aaa622dac6ae1798",
@@ -13090,11 +13045,11 @@
    "state": "WA",
    "salary": "$76,545.00 - $102,967.00 Annually",
    "deadline": "Closes in 1 week",
-   "posted": "Posted 2 days ago",
+   "posted": "Posted 3 days ago",
    "job_type": "Remote: Flexible/Hybrid",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5521892/transportation-engineer-2-washington-state-ferries",
    "first_seen": "2026-10-20T02:13:18Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "dbe58fad4c33b592": {
    "id": "dbe58fad4c33b592",
@@ -13105,11 +13060,11 @@
    "state": "OR",
    "salary": "$19.52 - $24.18 per hour",
    "deadline": "",
-   "posted": "Yesterday",
+   "posted": "2 days ago",
    "job_type": "Temporary",
    "url": "https://www.conservationjobboard.com/job-listing-vegetation-monitoring-seasonal-positions-gs-5-7-ashland-oregon/9139770063",
    "first_seen": "2026-10-20T18:22:45Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "e17bc319cc7335e4": {
    "id": "e17bc319cc7335e4",
@@ -13120,11 +13075,11 @@
    "state": "OR",
    "salary": "$120,000 per year",
    "deadline": "",
-   "posted": "Yesterday",
+   "posted": "2 days ago",
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-agricultural-and-natural-resource-outreach-specialist-burns-oregon/3758336834",
    "first_seen": "2026-10-20T18:22:45Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "6daf4aec891a6fa7": {
    "id": "6daf4aec891a6fa7",
@@ -13135,11 +13090,11 @@
    "state": "OR",
    "salary": "The target annual compensation for this position is $40,000-$53,750, depending on position and location.",
    "deadline": "",
-   "posted": "Yesterday",
+   "posted": "2 days ago",
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-canvass-director-portland-oregon/1638575699",
    "first_seen": "2026-10-20T18:22:45Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "4d863a46496c5e26": {
    "id": "4d863a46496c5e26",
@@ -13150,11 +13105,11 @@
    "state": "CA",
    "salary": "$26.09 - $29.65 per hour",
    "deadline": "",
-   "posted": "Yesterday",
+   "posted": "2 days ago",
    "job_type": "Temporary",
    "url": "https://www.conservationjobboard.com/job-listing-environmental-program-educator-dixon-california/3501777555",
    "first_seen": "2026-10-20T18:22:45Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "b8ffa765480c8e09": {
    "id": "b8ffa765480c8e09",
@@ -13165,11 +13120,11 @@
    "state": "CA",
    "salary": "$33.65 - $40 per hour",
    "deadline": "",
-   "posted": "Yesterday",
+   "posted": "2 days ago",
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-executive-assistant-santa-barbara-california/7860620851",
    "first_seen": "2026-10-20T18:22:45Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "3ccdd654d118f563": {
    "id": "3ccdd654d118f563",
@@ -13180,11 +13135,11 @@
    "state": "CA",
    "salary": "$25 - $27 per hour",
    "deadline": "",
-   "posted": "Yesterday",
+   "posted": "2 days ago",
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-restoration-field-technician-ojai-california/4499710671",
    "first_seen": "2026-10-20T18:22:45Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "b36a4c0cc4f87851": {
    "id": "b36a4c0cc4f87851",
@@ -13195,11 +13150,11 @@
    "state": "CA",
    "salary": "$71,491 - $85,736 per year",
    "deadline": "",
-   "posted": "Yesterday",
+   "posted": "2 days ago",
    "job_type": "Faculty / Postdoc",
    "url": "https://www.conservationjobboard.com/job-listing-postdoctoral-researcher-in-wildlife-ecology-at-the-wildland-urban-interface-santa-barbara-california/8428936013",
    "first_seen": "2026-10-20T18:22:45Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "20cdd8eddcd0be2d": {
    "id": "20cdd8eddcd0be2d",
@@ -13210,11 +13165,11 @@
    "state": "CA",
    "salary": "The target annual compensation for this entry-level position is $40,000 in the first year.",
    "deadline": "",
-   "posted": "Yesterday",
+   "posted": "2 days ago",
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-zero-waste-associate-los-angeles-california/9928324247",
    "first_seen": "2026-10-20T18:22:45Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "6b632a405f0075fb": {
    "id": "6b632a405f0075fb",
@@ -13224,12 +13179,12 @@
    "location": "Kittitas County - Cle Elum, WA",
    "state": "WA",
    "salary": "$43,836.00 - $58,392.00 Annually",
-   "deadline": "Closes in 6 days",
-   "posted": "Posted 1 day ago",
+   "deadline": "Closes in 5 days",
+   "posted": "Posted 2 days ago",
    "job_type": "Remote: Flexible/Hybrid",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5522282/fiscal-specialist-1",
    "first_seen": "2026-10-20T18:22:45Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "d3da34de6ff1d864": {
    "id": "d3da34de6ff1d864",
@@ -13239,12 +13194,12 @@
    "location": "Pierce County – Puyallup, WA",
    "state": "WA",
    "salary": "$4,633.00 - $6,229.00 Monthly",
-   "deadline": "Closes in 6 days",
-   "posted": "Posted 1 day ago",
+   "deadline": "Closes in 5 days",
+   "posted": "Posted 2 days ago",
    "job_type": "Full Time - Permanent",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5522341/fish-hatchery-specialist-3-puyallup-hatchery-permanent-2026-08807",
    "first_seen": "2026-10-20T18:22:45Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "bc53891c12b04ffb": {
    "id": "bc53891c12b04ffb",
@@ -13255,11 +13210,11 @@
    "state": "WA",
    "salary": "$3,653.00 - $4,866.00 Monthly",
    "deadline": "Closes in 1 week",
-   "posted": "Posted 1 day ago",
+   "posted": "Posted 2 days ago",
    "job_type": "Full Time - Permanent",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5522345/fish-traps-and-spawning-ground-surveyor-scientific-technician-2-permanent-2",
    "first_seen": "2026-10-20T18:22:45Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "54a272107cc6e1c2": {
    "id": "54a272107cc6e1c2",
@@ -13269,12 +13224,12 @@
    "location": "King County - Shoreline, WA",
    "state": "WA",
    "salary": "$69,375.00 - $113,639.00 Annually",
-   "deadline": "Closes in 2 weeks",
-   "posted": "Posted 1 day ago",
+   "deadline": "Closes in 1 week",
+   "posted": "Posted 2 days ago",
    "job_type": "Full Time - Permanent",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5521956/system-integration-engineer-te3-in-training",
    "first_seen": "2026-10-20T18:22:45Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "9aaad5bd6aca4db0": {
    "id": "9aaad5bd6aca4db0",
@@ -13285,11 +13240,11 @@
    "state": "OR",
    "salary": "$64,881 - $72,760 per year",
    "deadline": "",
-   "posted": "Yesterday",
+   "posted": "2 days ago",
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-regenerative-ranching-manager-eastern-oregon/5122752309",
    "first_seen": "2026-10-21T02:07:03Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "942e6fe2d6a941e7": {
    "id": "942e6fe2d6a941e7",
@@ -13304,7 +13259,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119552",
    "first_seen": "2026-10-21T02:07:03Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "c6d8357b3c68062b": {
    "id": "c6d8357b3c68062b",
@@ -13319,7 +13274,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119548",
    "first_seen": "2026-10-21T02:07:03Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "5dfb9dda597ff2d4": {
    "id": "5dfb9dda597ff2d4",
@@ -13334,7 +13289,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119603",
    "first_seen": "2026-10-21T02:07:03Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "67982cbfc48ef6ff": {
    "id": "67982cbfc48ef6ff",
@@ -13349,7 +13304,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119604",
    "first_seen": "2026-10-21T02:07:03Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "86a7c2643cd4e47b": {
    "id": "86a7c2643cd4e47b",
@@ -13364,7 +13319,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119615",
    "first_seen": "2026-10-21T02:07:03Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "6d9336a8fdd2b205": {
    "id": "6d9336a8fdd2b205",
@@ -13379,7 +13334,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119616",
    "first_seen": "2026-10-21T02:07:03Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "5623ad35b30c34ac": {
    "id": "5623ad35b30c34ac",
@@ -13394,7 +13349,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119590",
    "first_seen": "2026-10-21T02:07:03Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "66cf51a54b3219af": {
    "id": "66cf51a54b3219af",
@@ -13409,7 +13364,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119559",
    "first_seen": "2026-10-21T02:07:03Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "39fa103c411c5d38": {
    "id": "39fa103c411c5d38",
@@ -13424,7 +13379,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119558",
    "first_seen": "2026-10-21T02:07:03Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "78d8886fe44b1faa": {
    "id": "78d8886fe44b1faa",
@@ -13439,7 +13394,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119553",
    "first_seen": "2026-10-21T02:07:03Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "8854a3aacadff5ce": {
    "id": "8854a3aacadff5ce",
@@ -13454,7 +13409,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119607",
    "first_seen": "2026-10-21T02:07:03Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "806aab5432a0e54c": {
    "id": "806aab5432a0e54c",
@@ -13469,7 +13424,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119608",
    "first_seen": "2026-10-21T02:07:03Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "d2e5a3ee23493ec9": {
    "id": "d2e5a3ee23493ec9",
@@ -13479,12 +13434,12 @@
    "location": "Pierce County – Puyallup, WA",
    "state": "WA",
    "salary": "$3,653.00 - $5,376.00 Monthly",
-   "deadline": "Closes in 6 days",
-   "posted": "Posted 1 day ago",
+   "deadline": "Closes in 5 days",
+   "posted": "Posted 2 days ago",
    "job_type": "Full Time - Permanent",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5523186/fish-hatchery-specialist-2-in-training-puyallup-hatchery-permanent-2026-0",
    "first_seen": "2026-10-21T02:07:03Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "5f4d70c74cd3d2bb": {
    "id": "5f4d70c74cd3d2bb",
@@ -13495,11 +13450,11 @@
    "state": "WA",
    "salary": "$5,506.00 - $6,384.00 Monthly",
    "deadline": "Closes in 1 week",
-   "posted": "Posted 1 day ago",
+   "posted": "Posted 2 days ago",
    "job_type": "Full Time - Permanent",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5522752/pump-specialist-maintenance-mechanic-3-2-positions-permanent-2026-08821",
    "first_seen": "2026-10-21T02:07:03Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "7e9187143b7717e7": {
    "id": "7e9187143b7717e7",
@@ -13510,11 +13465,11 @@
    "state": "WA",
    "salary": "$115 - $300 per day",
    "deadline": "",
-   "posted": "Today",
+   "posted": "Yesterday",
    "job_type": "Temporary",
    "url": "https://www.conservationjobboard.com/job-listing-naturalist-sea-kayak-guide-friday-harbor-washington/8966042021",
    "first_seen": "2026-10-21T18:28:04Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "db7cfdc60542407a": {
    "id": "db7cfdc60542407a",
@@ -13525,11 +13480,11 @@
    "state": "WA",
    "salary": "$40,736 - $65,599 per year",
    "deadline": "",
-   "posted": "Today",
+   "posted": "Yesterday",
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-0404-biological-science-technician-pullman-washington/9800669918",
    "first_seen": "2026-10-21T18:28:04Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "64bf3e11e6558626": {
    "id": "64bf3e11e6558626",
@@ -13540,11 +13495,11 @@
    "state": "WA",
    "salary": "$59,760 - $80,496 per year",
    "deadline": "",
-   "posted": "Today",
+   "posted": "Yesterday",
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-forest-practices-rule--board-coordinator-olympia-washington/5837125925",
    "first_seen": "2026-10-21T18:28:04Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "40cdb28b6a314383": {
    "id": "40cdb28b6a314383",
@@ -13555,11 +13510,11 @@
    "state": "OR",
    "salary": "$11,429 - $17,704 per month",
    "deadline": "",
-   "posted": "Today",
+   "posted": "Yesterday",
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-deputy-director-deputychief-6-portland-oregon/4606947667",
    "first_seen": "2026-10-21T18:28:04Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "47e8a50a2127f523": {
    "id": "47e8a50a2127f523",
@@ -13570,11 +13525,11 @@
    "state": "OR",
    "salary": "$960 per week",
    "deadline": "",
-   "posted": "Today",
+   "posted": "Yesterday",
    "job_type": "Paid Internship",
    "url": "https://www.conservationjobboard.com/job-listing-botany-crew-member---sca-junction-city-oregon/4561394239",
    "first_seen": "2026-10-21T18:28:04Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "423c94c9fdee0b4b": {
    "id": "423c94c9fdee0b4b",
@@ -13585,11 +13540,11 @@
    "state": "CA",
    "salary": "$140,000 - $160,000 per year",
    "deadline": "",
-   "posted": "Today",
+   "posted": "Yesterday",
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-technical-services-manager-remote-california/7746166476",
    "first_seen": "2026-10-21T18:28:04Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "4857777cfc269d4c": {
    "id": "4857777cfc269d4c",
@@ -13600,11 +13555,11 @@
    "state": "CA",
    "salary": "$22.50 - $23.50 per hour",
    "deadline": "",
-   "posted": "Today",
+   "posted": "Yesterday",
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-plant-conservation-specialist-i-joshua-tree-california/9241764157",
    "first_seen": "2026-10-21T18:28:04Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "9024d900cef811b6": {
    "id": "9024d900cef811b6",
@@ -13615,11 +13570,11 @@
    "state": "CA",
    "salary": "$65,701.68 - $85,364.28 per year",
    "deadline": "",
-   "posted": "Today",
+   "posted": "Yesterday",
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-research-assistant-water-department-independence-california/5291068346",
    "first_seen": "2026-10-21T18:28:04Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "93ecdae4ee0f34f3": {
    "id": "93ecdae4ee0f34f3",
@@ -13630,11 +13585,11 @@
    "state": "CA",
    "salary": "$28 - $33 per hour",
    "deadline": "",
-   "posted": "Today",
+   "posted": "Yesterday",
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-field-organizer-truckee-california/6006382743",
    "first_seen": "2026-10-21T18:28:04Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "f3ca1a5b7f5cdd7e": {
    "id": "f3ca1a5b7f5cdd7e",
@@ -13645,11 +13600,11 @@
    "state": "CA",
    "salary": "$19.52 - $31.43 per hour",
    "deadline": "",
-   "posted": "Today",
+   "posted": "Yesterday",
    "job_type": "Temporary",
    "url": "https://www.conservationjobboard.com/job-listing-park-ranger-interpretation-mammoth-lakes-california/3219148074",
    "first_seen": "2026-10-21T18:28:04Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "ce4ece705c1788f9": {
    "id": "ce4ece705c1788f9",
@@ -13660,11 +13615,11 @@
    "state": "CA",
    "salary": "$19.52 - $31.43 per hour",
    "deadline": "",
-   "posted": "Today",
+   "posted": "Yesterday",
    "job_type": "Temporary",
    "url": "https://www.conservationjobboard.com/job-listing-park-ranger-general-mammoth-lakes-california/2862814885",
    "first_seen": "2026-10-21T18:28:04Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "73e955ed7fea4b1c": {
    "id": "73e955ed7fea4b1c",
@@ -13675,11 +13630,11 @@
    "state": "CA",
    "salary": "$19.46 - $32.61 per hour",
    "deadline": "",
-   "posted": "Today",
+   "posted": "Yesterday",
    "job_type": "Temporary",
    "url": "https://www.conservationjobboard.com/job-listing-laborer-mammoth-lakes-california/1323851762",
    "first_seen": "2026-10-21T18:28:04Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "1e783356c7f5b2ce": {
    "id": "1e783356c7f5b2ce",
@@ -13690,11 +13645,11 @@
    "state": "CA",
    "salary": "$10,349 - $17,769 per month",
    "deadline": "",
-   "posted": "Today",
+   "posted": "Yesterday",
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-deputy-director-for-zero-emission-vehicle-strategy-planning-and-market-development-sacramento-ca-usa-california/8566576180",
    "first_seen": "2026-10-21T18:28:04Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "e052156185baa105": {
    "id": "e052156185baa105",
@@ -13705,11 +13660,11 @@
    "state": "CA",
    "salary": "$21.18 - $39 per hour",
    "deadline": "",
-   "posted": "Today",
+   "posted": "Yesterday",
    "job_type": "Temporary",
    "url": "https://www.conservationjobboard.com/job-listing-maintenance-worker-mammoth-lakes-california/9787538364",
    "first_seen": "2026-10-21T18:28:04Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "f82aadb3f923b648": {
    "id": "f82aadb3f923b648",
@@ -13720,11 +13675,11 @@
    "state": "CA",
    "salary": "$20.31 - $33.68 per hour",
    "deadline": "",
-   "posted": "Today",
+   "posted": "Yesterday",
    "job_type": "Temporary",
    "url": "https://www.conservationjobboard.com/job-listing-maintenance-mechanic-facilities-mammoth-lakes-california/1931175180",
    "first_seen": "2026-10-21T18:28:04Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "c3d543728116e708": {
    "id": "c3d543728116e708",
@@ -13735,11 +13690,11 @@
    "state": "CA",
    "salary": "$20 per hour",
    "deadline": "",
-   "posted": "Today",
+   "posted": "Yesterday",
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-facilities-and-security-associate-san-diego-california/5657665393",
    "first_seen": "2026-10-21T18:28:04Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "6e539c761b4b5808": {
    "id": "6e539c761b4b5808",
@@ -13750,11 +13705,11 @@
    "state": "CA",
    "salary": "$21.71 - $34.96 per hour",
    "deadline": "",
-   "posted": "Today",
+   "posted": "Yesterday",
    "job_type": "Temporary",
    "url": "https://www.conservationjobboard.com/job-listing-fishery-biologist-1--american-river-rst-crew-lead-sacramento-california/6555276245",
    "first_seen": "2026-10-21T18:28:04Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "faddac34e90bbcab": {
    "id": "faddac34e90bbcab",
@@ -13765,11 +13720,11 @@
    "state": "CA",
    "salary": "$69,825 - $97,020 per year",
    "deadline": "",
-   "posted": "Today",
+   "posted": "Yesterday",
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-climate-smart-agriculture-technical-assistance-coordinator-bakersfield-california/2506852163",
    "first_seen": "2026-10-21T18:28:04Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "91bfa60ab86f2834": {
    "id": "91bfa60ab86f2834",
@@ -13784,7 +13739,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119624",
    "first_seen": "2026-10-21T18:28:04Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "1a16f98cbc697841": {
    "id": "1a16f98cbc697841",
@@ -13799,7 +13754,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119545",
    "first_seen": "2026-10-21T18:28:04Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "653ea99b7dad5496": {
    "id": "653ea99b7dad5496",
@@ -13814,7 +13769,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119544",
    "first_seen": "2026-10-21T18:28:04Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "f1a6a513efcb1bd8": {
    "id": "f1a6a513efcb1bd8",
@@ -13829,7 +13784,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119620",
    "first_seen": "2026-10-21T18:28:04Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "96d478234d29d287": {
    "id": "96d478234d29d287",
@@ -13839,12 +13794,12 @@
    "location": "King County - Shoreline, WA",
    "state": "WA",
    "salary": "$108,486.00 - $132,829.00 Annually",
-   "deadline": "Closes in 3 weeks",
-   "posted": "Posted today",
+   "deadline": "Closes in 2 weeks",
+   "posted": "Posted 1 day ago",
    "job_type": "Remote: Flexible/Hybrid",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5524037/assistant-project-engineer-wms2-multiple",
    "first_seen": "2026-10-21T18:28:04Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "87c6b5277fc7f426": {
    "id": "87c6b5277fc7f426",
@@ -13855,11 +13810,11 @@
    "state": "WA",
    "salary": "$51,600.00 - $69,348.00 Annually",
    "deadline": "Continuous",
-   "posted": "Posted today",
+   "posted": "Posted 1 day ago",
    "job_type": "Remote: Flexible/Hybrid",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5505988/paris-and-portal-permit-support-environmental-specialist-2",
    "first_seen": "2026-10-21T18:28:04Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "3edaaed46e9a2cc8": {
    "id": "3edaaed46e9a2cc8",
@@ -13870,11 +13825,11 @@
    "state": "WA",
    "salary": "$5,779.00 - $7,774.00 Monthly",
    "deadline": "Closes in 1 week",
-   "posted": "Posted today",
+   "posted": "Posted 1 day ago",
    "job_type": "Remote: Flexible/Hybrid",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5523364/wetland-permitting-specialist-environmental-planner-3-permanent-2026-08839",
    "first_seen": "2026-10-21T18:28:04Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "fa7e6488202b604f": {
    "id": "fa7e6488202b604f",
@@ -13884,12 +13839,12 @@
    "location": "King County - Seattle – Belltown, WA",
    "state": "WA",
    "salary": "$141,750.00 - $173,376.00 Annually",
-   "deadline": "Closes in 1 week",
-   "posted": "Posted today",
+   "deadline": "Closes in 6 days",
+   "posted": "Posted 1 day ago",
    "job_type": "Remote: Flexible/Hybrid",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5523747/wsf-deputy-director-of-administration-washington-state-ferries",
    "first_seen": "2026-10-21T18:28:04Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "8db9ca6fc4b7f8e7": {
    "id": "8db9ca6fc4b7f8e7",
@@ -13904,7 +13859,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119645",
    "first_seen": "2026-10-22T02:01:03Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "9d51540d570e66a1": {
    "id": "9d51540d570e66a1",
@@ -13919,7 +13874,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119637",
    "first_seen": "2026-10-22T02:01:03Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "e2877cd4de536776": {
    "id": "e2877cd4de536776",
@@ -13934,7 +13889,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119629",
    "first_seen": "2026-10-22T02:01:03Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "c0103c18c2dc425d": {
    "id": "c0103c18c2dc425d",
@@ -13949,7 +13904,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119631",
    "first_seen": "2026-10-22T02:01:03Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "dbffb23c6dcd4a41": {
    "id": "dbffb23c6dcd4a41",
@@ -13960,11 +13915,11 @@
    "state": "WA",
    "salary": "$102,888.00 - $119,976.00 Annually",
    "deadline": "Closes in 2 weeks",
-   "posted": "Posted today",
+   "posted": "Posted 1 day ago",
    "job_type": "Remote: Flexible/Hybrid",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5524792/assistant-region-manager-state-lands-wms2",
    "first_seen": "2026-10-22T02:01:03Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "00d175f11ed68e9d": {
    "id": "00d175f11ed68e9d",
@@ -13974,12 +13929,12 @@
    "location": "Thurston County – Tumwater, WA",
    "state": "WA",
    "salary": "$85,800.00 - $115,416.00 Annually",
-   "deadline": "Closes in 1 week",
-   "posted": "Posted today",
+   "deadline": "Closes in 6 days",
+   "posted": "Posted 1 day ago",
    "job_type": "Remote: Flexible/Hybrid",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5524575/it-application-developer-journey",
    "first_seen": "2026-10-22T02:01:03Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "263ba1db2a84f8a4": {
    "id": "263ba1db2a84f8a4",
@@ -13989,12 +13944,12 @@
    "location": "King County - Seattle – Other, WA",
    "state": "WA",
    "salary": "$74,928.00 - $108,084.00 Annually",
-   "deadline": "Closes in 1 week",
-   "posted": "Posted today",
+   "deadline": "Closes in 6 days",
+   "posted": "Posted 1 day ago",
    "job_type": "Full Time - Permanent",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5524385/purchasing-agent-washington-state-ferries",
    "first_seen": "2026-10-22T02:01:03Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "4cb6503bf54f3bcb": {
    "id": "4cb6503bf54f3bcb",
@@ -14004,12 +13959,12 @@
    "location": "Thurston County – Olympia, WA",
    "state": "WA",
    "salary": "$80,496.00 - $108,228.00 Annually",
-   "deadline": "Closes in 2 weeks",
-   "posted": "Posted today",
+   "deadline": "Closes in 1 week",
+   "posted": "Posted 1 day ago",
    "job_type": "Remote: Flexible/Hybrid",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5524671/state-roadside-asset-program-coordinator-tps4",
    "first_seen": "2026-10-22T02:01:03Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
   },
   "d5e3991ba153cb86": {
    "id": "d5e3991ba153cb86",
@@ -14020,11 +13975,221 @@
    "state": "WA",
    "salary": "$3,738.00 - $4,980.00 Monthly",
    "deadline": "Closes in 1 week",
-   "posted": "Posted today",
+   "posted": "Posted 1 day ago",
    "job_type": "Full Time - Permanent",
    "url": "https://www.governmentjobs.com/careers/washington/jobs/5523973/water-access-area-technician-natural-resource-technician-3-permanent-2026-0",
    "first_seen": "2026-10-22T02:01:03Z",
-   "last_seen": "2026-10-22T02:01:03Z"
+   "last_seen": "2026-10-22T18:22:52Z"
+  },
+  "e6b799911d812c6a": {
+   "id": "e6b799911d812c6a",
+   "source": "Conservation Job Board",
+   "title": "Forester",
+   "org": "American Forest Management, Inc.",
+   "location": "Underwood, WA",
+   "state": "WA",
+   "salary": "$50,000 - $95,000 per year",
+   "deadline": "",
+   "posted": "Today",
+   "job_type": "Permanent",
+   "url": "https://www.conservationjobboard.com/job-listing-forester-underwood-washington/4153061803",
+   "first_seen": "2026-10-22T18:22:52Z",
+   "last_seen": "2026-10-22T18:22:52Z"
+  },
+  "91e4027088b7b631": {
+   "id": "91e4027088b7b631",
+   "source": "Conservation Job Board",
+   "title": "Wetland Permitting Specialist - Environmental Planner 3 - Permanent - 2026-08839",
+   "org": "Washington Department of Fish and Wildlife",
+   "location": "Olympia, WA",
+   "state": "WA",
+   "salary": "$5,779 - $7,774 per month",
+   "deadline": "",
+   "posted": "Today",
+   "job_type": "Permanent",
+   "url": "https://www.conservationjobboard.com/job-listing-wetland-permitting-specialist---environmental-planner-3---permanent---2026-08839-olympia-washington/5688507472",
+   "first_seen": "2026-10-22T18:22:52Z",
+   "last_seen": "2026-10-22T18:22:52Z"
+  },
+  "6f351e6e80e4bfd4": {
+   "id": "6f351e6e80e4bfd4",
+   "source": "Conservation Job Board",
+   "title": "Director of Fisheries",
+   "org": "Northwest Indian Fisheries Commission",
+   "location": "Olympia, WA",
+   "state": "WA",
+   "salary": "Starting annual salary is $148,690 - 176,206 DOQ",
+   "deadline": "",
+   "posted": "Today",
+   "job_type": "Permanent",
+   "url": "https://www.conservationjobboard.com/job-listing-director-of-fisheries-olympia-washington/4281201087",
+   "first_seen": "2026-10-22T18:22:52Z",
+   "last_seen": "2026-10-22T18:22:52Z"
+  },
+  "576cef4b5c904c0b": {
+   "id": "576cef4b5c904c0b",
+   "source": "Conservation Job Board",
+   "title": "Whale Watching Captain",
+   "org": "San Juan Safaris",
+   "location": "Friday Harbor, WA",
+   "state": "WA",
+   "salary": "$35 per hour",
+   "deadline": "",
+   "posted": "Today",
+   "job_type": "Temporary",
+   "url": "https://www.conservationjobboard.com/job-listing-whale-watching-captain-friday-harbor-washington/4880987425",
+   "first_seen": "2026-10-22T18:22:52Z",
+   "last_seen": "2026-10-22T18:22:52Z"
+  },
+  "6b5e87202509aaef": {
+   "id": "6b5e87202509aaef",
+   "source": "Conservation Job Board",
+   "title": "Fishery Biologist 2- Food Web Ecology",
+   "org": "Pacific States Marine Fisheries Commission",
+   "location": "Seattle, WA",
+   "state": "WA",
+   "salary": "$69,373 - $109,122 per year",
+   "deadline": "",
+   "posted": "Today",
+   "job_type": "Permanent",
+   "url": "https://www.conservationjobboard.com/job-listing-fishery-biologist-2--food-web-ecology-seattle-washington/9485841642",
+   "first_seen": "2026-10-22T18:22:52Z",
+   "last_seen": "2026-10-22T18:22:52Z"
+  },
+  "cc3b50312b36f6a3": {
+   "id": "cc3b50312b36f6a3",
+   "source": "Conservation Job Board",
+   "title": "Trails Program Volunteer Coordinator",
+   "org": "Central Oregon Trail Alliance",
+   "location": "Bend, OR",
+   "state": "OR",
+   "salary": "$52,000 - $57,000 per year",
+   "deadline": "",
+   "posted": "Today",
+   "job_type": "Permanent",
+   "url": "https://www.conservationjobboard.com/job-listing-trails-program-volunteer-coordinator-bend-oregon/3596234621",
+   "first_seen": "2026-10-22T18:22:52Z",
+   "last_seen": "2026-10-22T18:22:52Z"
+  },
+  "597a84892c1e380e": {
+   "id": "597a84892c1e380e",
+   "source": "Conservation Job Board",
+   "title": "Botany Project Manager",
+   "org": "San Diego State University Research Foundation Soil Ecology and Restoration Group (SERG)",
+   "location": "San Diego, CA",
+   "state": "CA",
+   "salary": "$27.73 per hour",
+   "deadline": "",
+   "posted": "Today",
+   "job_type": "Permanent",
+   "url": "https://www.conservationjobboard.com/job-listing-botany-project-manager-san-diego-california/1253713083",
+   "first_seen": "2026-10-22T18:22:52Z",
+   "last_seen": "2026-10-22T18:22:52Z"
+  },
+  "4b420f9919aa38d1": {
+   "id": "4b420f9919aa38d1",
+   "source": "Conservation Job Board",
+   "title": "SCI Seasonal Restoration Technician",
+   "org": "San Diego State University Research Foundation Soil Ecology and Restoration Group (SERG)",
+   "location": "San Diego, CA",
+   "state": "CA",
+   "salary": "$23.31 per hour",
+   "deadline": "",
+   "posted": "Today",
+   "job_type": "Temporary",
+   "url": "https://www.conservationjobboard.com/job-listing-sci-seasonal-restoration-technician-san-diego-california/8005473945",
+   "first_seen": "2026-10-22T18:22:52Z",
+   "last_seen": "2026-10-22T18:22:52Z"
+  },
+  "9baf9131a0152b03": {
+   "id": "9baf9131a0152b03",
+   "source": "Conservation Job Board",
+   "title": "SCI Seasonal Invasive Technician",
+   "org": "San Diego State University Research Foundation Soil Ecology and Restoration Group (SERG)",
+   "location": "San Diego, CA",
+   "state": "CA",
+   "salary": "$24.65 per hour",
+   "deadline": "",
+   "posted": "Today",
+   "job_type": "Temporary",
+   "url": "https://www.conservationjobboard.com/job-listing-sci-seasonal-invasive-technician-san-diego-california/3439464800",
+   "first_seen": "2026-10-22T18:22:52Z",
+   "last_seen": "2026-10-22T18:22:52Z"
+  },
+  "1a77a6c058a1767a": {
+   "id": "1a77a6c058a1767a",
+   "source": "Conservation Job Board",
+   "title": "Executive Director",
+   "org": "Laguna Canyon Foundation",
+   "location": "Laguna Beach, CA",
+   "state": "CA",
+   "salary": "$140,000 - $160,000 per year",
+   "deadline": "",
+   "posted": "Today",
+   "job_type": "Permanent",
+   "url": "https://www.conservationjobboard.com/job-listing-executive-director-laguna-beach-california/3599704726",
+   "first_seen": "2026-10-22T18:22:52Z",
+   "last_seen": "2026-10-22T18:22:52Z"
+  },
+  "ff2388622e2b7771": {
+   "id": "ff2388622e2b7771",
+   "source": "Conservation Job Board",
+   "title": "Deputy Director of CEQA, Licensing, and Enforcement",
+   "org": "California Energy Commission",
+   "location": "Sacramento, CA",
+   "state": "CA",
+   "salary": "$10,349 - $17,769 per month",
+   "deadline": "",
+   "posted": "Today",
+   "job_type": "Permanent",
+   "url": "https://www.conservationjobboard.com/job-listing-deputy-director-of-ceqa-licensing-and-enforcement-sacramento-ca-usa-california/8208404665",
+   "first_seen": "2026-10-22T18:22:52Z",
+   "last_seen": "2026-10-22T18:22:52Z"
+  },
+  "119aaf91c6c4dc99": {
+   "id": "119aaf91c6c4dc99",
+   "source": "WA State Gov Jobs",
+   "title": "Chemist 3",
+   "org": "Dept. of Ecology",
+   "location": "Kitsap County – Manchester, WA",
+   "state": "WA",
+   "salary": "$74,748.00 - $100,488.00 Annually",
+   "deadline": "Continuous",
+   "posted": "Posted today",
+   "job_type": "Remote: Flexible/Hybrid",
+   "url": "https://www.governmentjobs.com/careers/washington/jobs/5525771/chemist-3",
+   "first_seen": "2026-10-22T18:22:52Z",
+   "last_seen": "2026-10-22T18:22:52Z"
+  },
+  "6f0a576b5310c2b2": {
+   "id": "6f0a576b5310c2b2",
+   "source": "WA State Gov Jobs",
+   "title": "Highway Maintenance Worker 2 In-Training",
+   "org": "Dept. of Transportation",
+   "location": "King County – Other, WA",
+   "state": "WA",
+   "salary": "$55,515.00 - $74,692.00 Annually",
+   "deadline": "Closes in 2 weeks",
+   "posted": "Posted today",
+   "job_type": "Full Time - Permanent",
+   "url": "https://www.governmentjobs.com/careers/washington/jobs/5525477/highway-maintenance-worker-2-in-training",
+   "first_seen": "2026-10-22T18:22:52Z",
+   "last_seen": "2026-10-22T18:22:52Z"
+  },
+  "e899347b1df2be92": {
+   "id": "e899347b1df2be92",
+   "source": "WA State Gov Jobs",
+   "title": "Transportation Engineer 2 | Utilities",
+   "org": "Dept. of Transportation",
+   "location": "Yakima County - Union Gap, WA",
+   "state": "WA",
+   "salary": "$72,900.00 - $98,064.00 Annually",
+   "deadline": "Closes in 2 weeks",
+   "posted": "Posted today",
+   "job_type": "Remote: Flexible/Hybrid",
+   "url": "https://www.governmentjobs.com/careers/washington/jobs/5524525/transportation-engineer-2-utilities",
+   "first_seen": "2026-10-22T18:22:52Z",
+   "last_seen": "2026-10-22T18:22:52Z"
   }
  }
 }
