@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T19:36:53Z",
+ "updated": "2026-11-16T03:18:47Z",
  "jobs": {
   "6739d3ac62d82ba8": {
    "id": "6739d3ac62d82ba8",
@@ -14,7 +14,7 @@
    "job_type": "",
    "url": "https://www.worldcampus.psu.edu/penn-state-online-geospatial-programs",
    "first_seen": "2026-08-24T21:07:17Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "574f3d66c128a7c7": {
    "id": "574f3d66c128a7c7",
@@ -29,7 +29,7 @@
    "job_type": "",
    "url": "https://meem.uconn.edu/",
    "first_seen": "2026-08-24T21:07:17Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "1e80132c54a367f9": {
    "id": "1e80132c54a367f9",
@@ -44,7 +44,7 @@
    "job_type": "",
    "url": "https://www.worldcampus.psu.edu/penn-state-online-renewable-energy-graduate-programs",
    "first_seen": "2026-08-24T21:07:17Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "8c1043d34dfecccc": {
    "id": "8c1043d34dfecccc",
@@ -59,7 +59,7 @@
    "job_type": "",
    "url": "https://cligs.vt.edu/virginia-tech-master-of-natural-resources.html",
    "first_seen": "2026-08-24T21:07:17Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "4c705901407f007c": {
    "id": "4c705901407f007c",
@@ -89,7 +89,7 @@
    "job_type": "",
    "url": "https://at.antioch.edu/cjb-cbmp",
    "first_seen": "2026-08-24T21:07:17Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "15bba23edef3e1ed": {
    "id": "15bba23edef3e1ed",
@@ -134,7 +134,7 @@
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-district-forester-burney-forestry-district-burney-california/6120204936",
    "first_seen": "2026-08-24T21:07:17Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "3facdc15308662b7": {
    "id": "3facdc15308662b7",
@@ -149,7 +149,7 @@
    "job_type": "Temporary",
    "url": "https://www.conservationjobboard.com/job-listing-outdoor-education-instructor-running-springs-california/3776022738",
    "first_seen": "2026-08-24T21:07:17Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "9229a48dc8002d95": {
    "id": "9229a48dc8002d95",
@@ -164,7 +164,7 @@
    "job_type": "",
    "url": "https://www.worldcampus.psu.edu/penn-state-online-energy-and-sustainability-studies-portfolio",
    "first_seen": "2026-08-24T21:07:17Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "015d418ca42d7ca4": {
    "id": "015d418ca42d7ca4",
@@ -179,7 +179,7 @@
    "job_type": "",
    "url": "https://at.antioch.edu/cjb-msescb",
    "first_seen": "2026-08-24T21:07:17Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "fb7a2c0984b819cc": {
    "id": "fb7a2c0984b819cc",
@@ -194,7 +194,7 @@
    "job_type": "",
    "url": "https://www.pdx.edu/earth-environment-society/certificates-environmental-professional-program",
    "first_seen": "2026-08-24T21:07:17Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "c0abc0cbfd49e2ac": {
    "id": "c0abc0cbfd49e2ac",
@@ -209,22 +209,7 @@
    "job_type": "",
    "url": "https://www.centerforwildlifestudies.org/courses/applied-quantitative-ecology",
    "first_seen": "2026-08-24T21:07:17Z",
-   "last_seen": "2026-11-15T19:36:53Z"
-  },
-  "317976e05c7d36b4": {
-   "id": "317976e05c7d36b4",
-   "source": "TAMU Job Board",
-   "title": "Regional Biologist - Western Washington",
-   "org": "Ducks Unlimited, Inc. (Private)",
-   "location": "84VX98VQ+62 (Washington)",
-   "state": "WA",
-   "salary": "Commensurate / Negotiable",
-   "deadline": "10/16/2026",
-   "posted": "08/13/2026",
-   "job_type": "",
-   "url": "https://jobs.rwfm.tamu.edu/view-job/?id=118239",
-   "first_seen": "2026-08-24T21:07:17Z",
-   "last_seen": "2026-10-17T01:41:33Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "ed7af7c3a3ef8ec9": {
    "id": "ed7af7c3a3ef8ec9",
@@ -239,7 +224,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=97282",
    "first_seen": "2026-08-24T21:07:17Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "afbfccf8fa5be1b3": {
    "id": "afbfccf8fa5be1b3",
@@ -254,7 +239,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=117620",
    "first_seen": "2026-08-24T21:07:17Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "abf1145bd773bb9c": {
    "id": "abf1145bd773bb9c",
@@ -299,7 +284,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=118052",
    "first_seen": "2026-08-24T21:07:17Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "91122ebc5f97eea9": {
    "id": "91122ebc5f97eea9",
@@ -359,7 +344,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=115598",
    "first_seen": "2026-08-24T21:07:17Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "a30167c9ff528d1c": {
    "id": "a30167c9ff528d1c",
@@ -374,7 +359,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=115890",
    "first_seen": "2026-08-24T21:07:17Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "ecab0719de1daa6d": {
    "id": "ecab0719de1daa6d",
@@ -389,7 +374,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=115795",
    "first_seen": "2026-08-24T21:07:17Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "2412f12e8c16f10d": {
    "id": "2412f12e8c16f10d",
@@ -404,7 +389,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=115515",
    "first_seen": "2026-08-24T21:07:17Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "8bcb3505c2622514": {
    "id": "8bcb3505c2622514",
@@ -419,7 +404,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=103099",
    "first_seen": "2026-08-24T21:07:17Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "21cad295cd12d3b4": {
    "id": "21cad295cd12d3b4",
@@ -464,7 +449,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=112891",
    "first_seen": "2026-08-24T21:07:17Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "aea0ff9720a76592": {
    "id": "aea0ff9720a76592",
@@ -494,7 +479,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=113281",
    "first_seen": "2026-08-24T21:07:17Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "832703e876aac032": {
    "id": "832703e876aac032",
@@ -914,7 +899,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=117941",
    "first_seen": "2026-08-27T23:39:10Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "10f2bef88d7b9886": {
    "id": "10f2bef88d7b9886",
@@ -1154,7 +1139,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=118703",
    "first_seen": "2026-09-10T01:34:53Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "889a74676b825c6a": {
    "id": "889a74676b825c6a",
@@ -1169,7 +1154,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=114037",
    "first_seen": "2026-09-10T01:34:53Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "7cbd780f4d61ccbe": {
    "id": "7cbd780f4d61ccbe",
@@ -1334,7 +1319,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=118854",
    "first_seen": "2026-09-17T01:53:01Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "7bafd40461c43694": {
    "id": "7bafd40461c43694",
@@ -1349,7 +1334,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=118850",
    "first_seen": "2026-09-17T01:53:01Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "182984846febd020": {
    "id": "182984846febd020",
@@ -1409,7 +1394,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=118881",
    "first_seen": "2026-09-18T17:34:18Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "64a74ad84c28dd5a": {
    "id": "64a74ad84c28dd5a",
@@ -1424,7 +1409,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=118905",
    "first_seen": "2026-09-19T01:44:58Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "546c23a607c591fd": {
    "id": "546c23a607c591fd",
@@ -1440,21 +1425,6 @@
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=114505",
    "first_seen": "2026-09-19T01:44:58Z",
    "last_seen": "2026-10-19T01:55:34Z"
-  },
-  "530a7db8152479f7": {
-   "id": "530a7db8152479f7",
-   "source": "Conservation Job Board",
-   "title": "Campaign Associate",
-   "org": "PIRG",
-   "location": "Portland, OR",
-   "state": "OR",
-   "salary": "The target annual compensation for this position is $40,000 in the first year.",
-   "deadline": "",
-   "posted": "25 days ago",
-   "job_type": "Permanent",
-   "url": "https://www.conservationjobboard.com/job-listing-waste-is-out-of-fashion-campaigner-portland-oregon/1144399013",
-   "first_seen": "2026-09-21T19:07:08Z",
-   "last_seen": "2026-10-17T01:41:33Z"
   },
   "ef7c973dc8f872d2": {
    "id": "ef7c973dc8f872d2",
@@ -1499,7 +1469,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=118902",
    "first_seen": "2026-09-22T01:58:11Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "93a47a592efb74bf": {
    "id": "93a47a592efb74bf",
@@ -1531,66 +1501,6 @@
    "first_seen": "2026-09-22T17:59:26Z",
    "last_seen": "2026-10-23T02:05:05Z"
   },
-  "dc80dfcedd0a804d": {
-   "id": "dc80dfcedd0a804d",
-   "source": "Conservation Job Board",
-   "title": "Canvass Office Director",
-   "org": "Fund for the Public Interest",
-   "location": "Seattle, WA",
-   "state": "WA",
-   "salary": "The target annual compensation for this position is $40,000-$53,750, depending on position and location.",
-   "deadline": "",
-   "posted": "24 days ago",
-   "job_type": "Permanent",
-   "url": "https://www.conservationjobboard.com/job-listing-canvass-office-director-seattle-washington/7500014067",
-   "first_seen": "2026-09-22T17:59:26Z",
-   "last_seen": "2026-10-17T01:41:33Z"
-  },
-  "0b340d5b692b785d": {
-   "id": "0b340d5b692b785d",
-   "source": "Conservation Job Board",
-   "title": "Canvass Office Director",
-   "org": "Fund for the Public Interest",
-   "location": "Portland, OR",
-   "state": "OR",
-   "salary": "The target annual compensation for this position is $40,000-$53,750, depending on position and location.",
-   "deadline": "",
-   "posted": "24 days ago",
-   "job_type": "Permanent",
-   "url": "https://www.conservationjobboard.com/job-listing-canvass-office-director-portland-oregon/3178853966",
-   "first_seen": "2026-09-22T17:59:26Z",
-   "last_seen": "2026-10-17T01:41:33Z"
-  },
-  "6f46308fc19ad01f": {
-   "id": "6f46308fc19ad01f",
-   "source": "Conservation Job Board",
-   "title": "Forestry Director",
-   "org": "Placer Resource Conservation District",
-   "location": "Auburn, CA",
-   "state": "CA",
-   "salary": "$97,356 - $151,032 per year",
-   "deadline": "",
-   "posted": "24 days ago",
-   "job_type": "Permanent",
-   "url": "https://www.conservationjobboard.com/job-listing-forestry-director-auburn-california/1679668282",
-   "first_seen": "2026-09-22T17:59:26Z",
-   "last_seen": "2026-10-17T01:41:33Z"
-  },
-  "fdce74ad15b7aed5": {
-   "id": "fdce74ad15b7aed5",
-   "source": "Conservation Job Board",
-   "title": "Canvass Office Director",
-   "org": "Fund for the Public Interest",
-   "location": "Oakland, CA",
-   "state": "CA",
-   "salary": "The target annual compensation for this position is $40,000-$53,750, depending on position and location.",
-   "deadline": "",
-   "posted": "24 days ago",
-   "job_type": "Permanent",
-   "url": "https://www.conservationjobboard.com/job-listing-canvass-office-director-oakland-california/5620820377",
-   "first_seen": "2026-09-22T17:59:26Z",
-   "last_seen": "2026-10-17T01:41:33Z"
-  },
   "c32cceb6e4ad1420": {
    "id": "c32cceb6e4ad1420",
    "source": "Conservation Job Board",
@@ -1604,22 +1514,7 @@
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-district-forester-lassen-forestry-district-anderson-california/8500404001",
    "first_seen": "2026-09-22T17:59:26Z",
-   "last_seen": "2026-11-15T19:36:53Z"
-  },
-  "fa9d6f146bc9001c": {
-   "id": "fa9d6f146bc9001c",
-   "source": "Conservation Job Board",
-   "title": "Canvass Office Director",
-   "org": "Fund for the Public Interest",
-   "location": "Santa Cruz, CA",
-   "state": "CA",
-   "salary": "The target annual compensation for this position is $40,000-$53,750, depending on position and location.",
-   "deadline": "",
-   "posted": "24 days ago",
-   "job_type": "Permanent",
-   "url": "https://www.conservationjobboard.com/job-listing-canvass-office-director-santa-cruz-california/8241406165",
-   "first_seen": "2026-09-22T17:59:26Z",
-   "last_seen": "2026-10-17T01:41:33Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "b7d1abd1bed63810": {
    "id": "b7d1abd1bed63810",
@@ -1756,21 +1651,6 @@
    "first_seen": "2026-09-23T18:17:52Z",
    "last_seen": "2026-11-06T03:46:17Z"
   },
-  "ae5f7fdb13e5ea32": {
-   "id": "ae5f7fdb13e5ea32",
-   "source": "TAMU Job Board",
-   "title": "Forest Wildlife Specialist - Tennessee Private Lands",
-   "org": "Ruffed Grouse Society & American Woodcock Society (Private)",
-   "location": "Home office within northeastern Tennessee (Cumberland Plateau region) (Knoxville, Tennessee) | remote work allowed",
-   "state": "CA",
-   "salary": "$44,000 to $68,000 per year",
-   "deadline": "10/16/2026",
-   "posted": "09/23/2026",
-   "job_type": "",
-   "url": "https://jobs.rwfm.tamu.edu/view-job/?id=118995",
-   "first_seen": "2026-09-23T18:17:52Z",
-   "last_seen": "2026-10-17T01:41:33Z"
-  },
   "bc0b32cc08f2cafc": {
    "id": "bc0b32cc08f2cafc",
    "source": "TAMU Job Board",
@@ -1799,7 +1679,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=118986",
    "first_seen": "2026-09-23T18:17:52Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "7f8301c73212f28d": {
    "id": "7f8301c73212f28d",
@@ -1951,36 +1831,6 @@
    "first_seen": "2026-09-25T18:17:52Z",
    "last_seen": "2026-10-26T01:52:52Z"
   },
-  "a01b7793d1c07558": {
-   "id": "a01b7793d1c07558",
-   "source": "TAMU Job Board",
-   "title": "Bycatch Analyst (supporting NOAA Fisheries)",
-   "org": "Azura Consulting LLC (Private)",
-   "location": "166 Water St (Woods Hole, Massachusetts) | remote work allowed",
-   "state": "CA",
-   "salary": "$37.13 per hour",
-   "deadline": "10/16/2026",
-   "posted": "09/25/2026",
-   "job_type": "",
-   "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119042",
-   "first_seen": "2026-09-25T18:17:52Z",
-   "last_seen": "2026-10-17T01:41:33Z"
-  },
-  "5bb22378844c0524": {
-   "id": "5bb22378844c0524",
-   "source": "TAMU Job Board",
-   "title": "Government Relations & Civic Engagement Manager",
-   "org": "American Bird Conservancy (Private)",
-   "location": "remote work allowed",
-   "state": "CA",
-   "salary": "$48 per hour",
-   "deadline": "10/16/2026",
-   "posted": "09/25/2026",
-   "job_type": "",
-   "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119076",
-   "first_seen": "2026-09-26T02:06:39Z",
-   "last_seen": "2026-10-17T01:41:33Z"
-  },
   "ea32eabef0afa165": {
    "id": "ea32eabef0afa165",
    "source": "TAMU Job Board",
@@ -1994,7 +1844,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119061",
    "first_seen": "2026-09-26T02:06:39Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "99e6b9f88a99a8a1": {
    "id": "99e6b9f88a99a8a1",
@@ -2009,7 +1859,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119072",
    "first_seen": "2026-09-26T02:06:39Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "abe3e7b3dd0e362e": {
    "id": "abe3e7b3dd0e362e",
@@ -2024,7 +1874,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119064",
    "first_seen": "2026-09-26T02:06:39Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "1ef6b5f2fe23401e": {
    "id": "1ef6b5f2fe23401e",
@@ -2234,7 +2084,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119089",
    "first_seen": "2026-09-29T19:10:46Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "2dea27402dfd1bda": {
    "id": "2dea27402dfd1bda",
@@ -2249,7 +2099,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119094",
    "first_seen": "2026-09-29T19:10:46Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "616032807f0f6712": {
    "id": "616032807f0f6712",
@@ -2279,7 +2129,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119097",
    "first_seen": "2026-09-29T19:10:46Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "4cbecb42584268d8": {
    "id": "4cbecb42584268d8",
@@ -2294,7 +2144,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119095",
    "first_seen": "2026-09-29T19:10:46Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "5f7b3ea252251a23": {
    "id": "5f7b3ea252251a23",
@@ -2339,7 +2189,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119122",
    "first_seen": "2026-09-29T19:10:46Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "9aa5de7bd8d66f9e": {
    "id": "9aa5de7bd8d66f9e",
@@ -2489,7 +2339,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119152",
    "first_seen": "2026-09-30T18:52:11Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "47ffdb791bbf7935": {
    "id": "47ffdb791bbf7935",
@@ -2536,51 +2386,6 @@
    "first_seen": "2026-10-01T02:33:49Z",
    "last_seen": "2026-10-26T01:52:52Z"
   },
-  "e5f208b1125a7da9": {
-   "id": "e5f208b1125a7da9",
-   "source": "Conservation Job Board",
-   "title": "SEPA and Environmental Regulation Specialist (Environmental Specialist 3)",
-   "org": "WA State Department of Ecology",
-   "location": "Richland, WA",
-   "state": "WA",
-   "salary": "$59,760 - $80,496 per year",
-   "deadline": "",
-   "posted": "15 days ago",
-   "job_type": "Permanent",
-   "url": "https://www.conservationjobboard.com/job-listing-sepa-and-environmental-regulation-specialist-environmental-specialist-3-richland-washington/3004147398",
-   "first_seen": "2026-10-01T19:19:09Z",
-   "last_seen": "2026-10-17T01:41:33Z"
-  },
-  "307a996ab9993e5d": {
-   "id": "307a996ab9993e5d",
-   "source": "Conservation Job Board",
-   "title": "English as a Second Language Engagement Coordinator, Forestry Planner",
-   "org": "Washington State Department of Natural Resources",
-   "location": "Olympia, WA",
-   "state": "WA",
-   "salary": "$5,779 - $7,774 per month",
-   "deadline": "",
-   "posted": "15 days ago",
-   "job_type": "Permanent",
-   "url": "https://www.conservationjobboard.com/job-listing-english-as-a-second-language-engagement-coordinator-forestry-planner-olympia-washington/3567682457",
-   "first_seen": "2026-10-01T19:19:09Z",
-   "last_seen": "2026-10-17T01:41:33Z"
-  },
-  "4e0de3e76f9ded48": {
-   "id": "4e0de3e76f9ded48",
-   "source": "Conservation Job Board",
-   "title": "Assistant Wildland Fire Management Officer",
-   "org": "Washington State Department of Natural Resources",
-   "location": "Chehalis or Menlo, WA",
-   "state": "WA",
-   "salary": "$54,204 - $72,900 per year",
-   "deadline": "",
-   "posted": "15 days ago",
-   "job_type": "Permanent",
-   "url": "https://www.conservationjobboard.com/job-listing-assistant-wildland-fire-management-officer-chehalis-or-menlo-washington/8963108315",
-   "first_seen": "2026-10-01T19:19:09Z",
-   "last_seen": "2026-10-17T01:41:33Z"
-  },
   "0dba82900b199377": {
    "id": "0dba82900b199377",
    "source": "Conservation Job Board",
@@ -2595,141 +2400,6 @@
    "url": "https://www.conservationjobboard.com/job-listing-southern-california-project-coordinator-los-angeles-california/8898703238",
    "first_seen": "2026-10-01T19:19:09Z",
    "last_seen": "2026-11-01T02:43:28Z"
-  },
-  "af609550e0e46101": {
-   "id": "af609550e0e46101",
-   "source": "Conservation Job Board",
-   "title": "Wildlife Biologist II/III",
-   "org": "Axon Environmental Management",
-   "location": "Santa Barbara, CA",
-   "state": "CA",
-   "salary": "$28 - $38 per hour",
-   "deadline": "",
-   "posted": "15 days ago",
-   "job_type": "Permanent",
-   "url": "https://www.conservationjobboard.com/job-listing-wildlife-biologist-iiiii-santa-barbara-california/8643057439",
-   "first_seen": "2026-10-01T19:19:09Z",
-   "last_seen": "2026-10-17T01:41:33Z"
-  },
-  "3d133072cfba3e2b": {
-   "id": "3d133072cfba3e2b",
-   "source": "Conservation Job Board",
-   "title": "Wildlife Biologist II/III",
-   "org": "Axon Environmental Management",
-   "location": "Ventura, CA",
-   "state": "CA",
-   "salary": "$28 - $38 per hour",
-   "deadline": "",
-   "posted": "15 days ago",
-   "job_type": "Permanent",
-   "url": "https://www.conservationjobboard.com/job-listing-wildlife-biologist-iiiii-ventura-california/9999221061",
-   "first_seen": "2026-10-01T19:19:09Z",
-   "last_seen": "2026-10-17T01:41:33Z"
-  },
-  "ac72b1cd1913c2f8": {
-   "id": "ac72b1cd1913c2f8",
-   "source": "Conservation Job Board",
-   "title": "Wildlife Biologist II/III",
-   "org": "Axon Environmental Management",
-   "location": "Riverside, CA",
-   "state": "CA",
-   "salary": "$28 - $38 per hour",
-   "deadline": "",
-   "posted": "15 days ago",
-   "job_type": "Permanent",
-   "url": "https://www.conservationjobboard.com/job-listing-wildlife-biologist-iiiii-riverside-california/7422704208",
-   "first_seen": "2026-10-01T19:19:09Z",
-   "last_seen": "2026-10-17T01:41:33Z"
-  },
-  "41d7bcd264d0df64": {
-   "id": "41d7bcd264d0df64",
-   "source": "Conservation Job Board",
-   "title": "Wildlife Biologist II/III",
-   "org": "Axon Environmental Management",
-   "location": "San Bernardino, CA",
-   "state": "CA",
-   "salary": "$28 - $38 per hour",
-   "deadline": "",
-   "posted": "15 days ago",
-   "job_type": "Permanent",
-   "url": "https://www.conservationjobboard.com/job-listing-wildlife-biologist-iiiii-san-bernardino-california/7182231511",
-   "first_seen": "2026-10-01T19:19:09Z",
-   "last_seen": "2026-10-17T01:41:33Z"
-  },
-  "30df3171d363edde": {
-   "id": "30df3171d363edde",
-   "source": "Conservation Job Board",
-   "title": "Predator Biologist",
-   "org": "Wildlife Innovations",
-   "location": "Coastal San Diego, Orange, and/or Los Angeles Counties, CA",
-   "state": "CA",
-   "salary": "$70,000 - $110,000 per year",
-   "deadline": "",
-   "posted": "15 days ago",
-   "job_type": "Permanent",
-   "url": "https://www.conservationjobboard.com/job-listing-predator-biologist-coastal-san-diego-orange-andor-los-angeles-counties-california/9625872236",
-   "first_seen": "2026-10-01T19:19:09Z",
-   "last_seen": "2026-10-17T01:41:33Z"
-  },
-  "44ec6486e3e9de98": {
-   "id": "44ec6486e3e9de98",
-   "source": "Conservation Job Board",
-   "title": "On-Call Avian Biologist",
-   "org": "Wildlife Innovations",
-   "location": "Coastal Southern California · San Diego, Orange & Los Angeles Counties, CA",
-   "state": "CA",
-   "salary": "$32 - $75 per hour",
-   "deadline": "",
-   "posted": "15 days ago",
-   "job_type": "Permanent",
-   "url": "https://www.conservationjobboard.com/job-listing-on-call-avian-biologist-coastal-southern-california--san-diego-orange--los-angeles-counties-california/7669887645",
-   "first_seen": "2026-10-01T19:19:09Z",
-   "last_seen": "2026-10-17T01:41:33Z"
-  },
-  "8e39e8e0464bc99a": {
-   "id": "8e39e8e0464bc99a",
-   "source": "Conservation Job Board",
-   "title": "Canada Goose Hazing Dog Team Handler",
-   "org": "Wildlife Innovations",
-   "location": "City and state parks across the San Francisco Bay Area, CA",
-   "state": "CA",
-   "salary": "$65,000 - $85,000 per year",
-   "deadline": "",
-   "posted": "15 days ago",
-   "job_type": "Permanent",
-   "url": "https://www.conservationjobboard.com/job-listing-canada-goose-hazing-dog-team-handler-city-and-state-parks-across-the-san-francisco-bay-area-california/2358515819",
-   "first_seen": "2026-10-01T19:19:09Z",
-   "last_seen": "2026-10-17T01:41:33Z"
-  },
-  "a67acf9266154ca8": {
-   "id": "a67acf9266154ca8",
-   "source": "Conservation Job Board",
-   "title": "Donor Engagement Senior Manager",
-   "org": "The Marine Mammal Center",
-   "location": "Sausalito, CA",
-   "state": "CA",
-   "salary": "$81,112 - $88,275 per year",
-   "deadline": "",
-   "posted": "15 days ago",
-   "job_type": "Permanent",
-   "url": "https://www.conservationjobboard.com/job-listing-donor-engagement-senior-manager-sausalito-california/1841459797",
-   "first_seen": "2026-10-01T19:19:09Z",
-   "last_seen": "2026-10-17T01:41:33Z"
-  },
-  "f902e3d4dfcfc0f0": {
-   "id": "f902e3d4dfcfc0f0",
-   "source": "Conservation Job Board",
-   "title": "Wildlife Biologist / Management Specialist",
-   "org": "Wildlife Innovations",
-   "location": "San Francisco Bay Area (based in San Mateo County), CA",
-   "state": "CA",
-   "salary": "$65,000 - $85,000 per year",
-   "deadline": "",
-   "posted": "15 days ago",
-   "job_type": "Permanent",
-   "url": "https://www.conservationjobboard.com/job-listing-wildlife-biologist--management-specialist-san-francisco-bay-area-based-in-san-mateo-county-california/1826782424",
-   "first_seen": "2026-10-01T19:19:09Z",
-   "last_seen": "2026-10-17T01:41:33Z"
   },
   "be66becb3e63b0aa": {
    "id": "be66becb3e63b0aa",
@@ -2819,7 +2489,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119188",
    "first_seen": "2026-10-02T02:39:41Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "de47e5c522048c4e": {
    "id": "de47e5c522048c4e",
@@ -3209,7 +2879,7 @@
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-associate-or-senior-biologistregulatory-specialist-folsom-california/3844177446",
    "first_seen": "2026-10-05T21:23:46Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "095f8b55a0b17d17": {
    "id": "095f8b55a0b17d17",
@@ -3434,7 +3104,7 @@
    "job_type": "Temporary",
    "url": "https://www.conservationjobboard.com/job-listing-outdoor-program-instructor-portola-california/6651825507",
    "first_seen": "2026-10-06T19:20:06Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "100772de196e4034": {
    "id": "100772de196e4034",
@@ -3571,21 +3241,6 @@
    "first_seen": "2026-10-06T19:20:06Z",
    "last_seen": "2026-10-27T02:31:14Z"
   },
-  "e8436018146e4c99": {
-   "id": "e8436018146e4c99",
-   "source": "WA State Gov Jobs",
-   "title": "Watercraft Inspector - Natural Resource Technician 3 - Permanent - 2026-08353",
-   "org": "Dept. of Fish and Wildlife",
-   "location": "Clark County – Ridgefield, WA",
-   "state": "WA",
-   "salary": "$3,738.00 - $4,980.00 Monthly",
-   "deadline": "Closes in 5 hours",
-   "posted": "Posted 1 week ago",
-   "job_type": "Full Time - Permanent",
-   "url": "https://www.governmentjobs.com/careers/washington/jobs/5507157/watercraft-inspector-natural-resource-technician-3-permanent-2026-08353",
-   "first_seen": "2026-10-06T19:20:06Z",
-   "last_seen": "2026-10-17T01:41:33Z"
-  },
   "e8097b604c17ea04": {
    "id": "e8097b604c17ea04",
    "source": "TAMU Job Board",
@@ -3660,21 +3315,6 @@
    "url": "https://www.conservationjobboard.com/job-listing-executive-director-bend-oregon/6911990021",
    "first_seen": "2026-10-07T19:46:57Z",
    "last_seen": "2026-10-23T02:05:05Z"
-  },
-  "cb812b6cfc07eae4": {
-   "id": "cb812b6cfc07eae4",
-   "source": "Conservation Job Board",
-   "title": "Boardman Restoration Technician",
-   "org": "Ecostudies Institute",
-   "location": "Boardman, OR",
-   "state": "OR",
-   "salary": "$21.57 - $23.40 per hour",
-   "deadline": "",
-   "posted": "9 days ago",
-   "job_type": "Temporary",
-   "url": "https://www.conservationjobboard.com/job-listing-boardman-restoration-technician-boardman-oregon/1207064513",
-   "first_seen": "2026-10-07T19:46:57Z",
-   "last_seen": "2026-10-17T01:41:33Z"
   },
   "4f73bcbb64e913f6": {
    "id": "4f73bcbb64e913f6",
@@ -3809,7 +3449,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119353",
    "first_seen": "2026-10-08T03:05:38Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "102f174d4f2a8cdc": {
    "id": "102f174d4f2a8cdc",
@@ -3825,21 +3465,6 @@
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119339",
    "first_seen": "2026-10-08T03:05:38Z",
    "last_seen": "2026-11-03T04:08:22Z"
-  },
-  "f1f693efd7f440a8": {
-   "id": "f1f693efd7f440a8",
-   "source": "TAMU Job Board",
-   "title": "Boardman Restoration Technician",
-   "org": "Ecostudies Institute (Private)",
-   "location": "Boardman, Oregon",
-   "state": "OR",
-   "salary": "$21.57 to $23.40 per hour",
-   "deadline": "10/16/2026",
-   "posted": "10/07/2026",
-   "job_type": "",
-   "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119332",
-   "first_seen": "2026-10-08T03:05:38Z",
-   "last_seen": "2026-10-17T01:41:33Z"
   },
   "78124dad42c1b37d": {
    "id": "78124dad42c1b37d",
@@ -4096,21 +3721,6 @@
    "first_seen": "2026-10-08T19:42:22Z",
    "last_seen": "2026-10-23T02:05:05Z"
   },
-  "56d0ac2d07e3c1f3": {
-   "id": "56d0ac2d07e3c1f3",
-   "source": "TAMU Job Board",
-   "title": "Fishery Biologist 2- Snake River Monitoring",
-   "org": "Pacific States Marine Fisheries Commission (Federal)",
-   "location": "Cook , Washington",
-   "state": "WA",
-   "salary": "$66,505 to $104,610 per year",
-   "deadline": "10/16/2026",
-   "posted": "10/08/2026",
-   "job_type": "",
-   "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119375",
-   "first_seen": "2026-10-09T03:11:54Z",
-   "last_seen": "2026-10-17T01:41:33Z"
-  },
   "6ef001ab893b3f84": {
    "id": "6ef001ab893b3f84",
    "source": "TAMU Job Board",
@@ -4351,21 +3961,6 @@
    "first_seen": "2026-10-09T19:19:00Z",
    "last_seen": "2026-10-23T02:05:05Z"
   },
-  "8bc1d4e2e958c7fe": {
-   "id": "8bc1d4e2e958c7fe",
-   "source": "Conservation Job Board",
-   "title": "Fishery Biologist 2- Snake River Monitoring",
-   "org": "Pacific States Marine Fisheries Commission",
-   "location": "Cook, WA",
-   "state": "WA",
-   "salary": "$66,505 - $104,610 per year",
-   "deadline": "",
-   "posted": "7 days ago",
-   "job_type": "Permanent",
-   "url": "https://www.conservationjobboard.com/job-listing-fishery-biologist-2--snake-river-monitoring-cook-washington/7878693714",
-   "first_seen": "2026-10-09T19:19:00Z",
-   "last_seen": "2026-10-17T01:41:33Z"
-  },
   "477ddbc1e224dac3": {
    "id": "477ddbc1e224dac3",
    "source": "Conservation Job Board",
@@ -4409,7 +4004,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119386",
    "first_seen": "2026-10-10T02:51:12Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "06ed56ba77585345": {
    "id": "06ed56ba77585345",
@@ -4424,7 +4019,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119404",
    "first_seen": "2026-10-10T02:51:12Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "21ab5b17295d06b5": {
    "id": "21ab5b17295d06b5",
@@ -4439,7 +4034,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=118098",
    "first_seen": "2026-10-10T02:51:12Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "e7382ae9f8d6e518": {
    "id": "e7382ae9f8d6e518",
@@ -4469,7 +4064,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119394",
    "first_seen": "2026-10-10T02:51:12Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "57370fd55165e713": {
    "id": "57370fd55165e713",
@@ -4649,7 +4244,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119411",
    "first_seen": "2026-10-12T21:59:39Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "1a46995c7b00bfb1": {
    "id": "1a46995c7b00bfb1",
@@ -4664,7 +4259,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119415",
    "first_seen": "2026-10-12T21:59:39Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "91ffd5ae13a8bbc4": {
    "id": "91ffd5ae13a8bbc4",
@@ -4679,7 +4274,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119408",
    "first_seen": "2026-10-12T21:59:39Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "2d0d37112fe96d24": {
    "id": "2d0d37112fe96d24",
@@ -4709,7 +4304,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=86878",
    "first_seen": "2026-10-12T21:59:39Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "72d03f473947692c": {
    "id": "72d03f473947692c",
@@ -4919,7 +4514,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119448",
    "first_seen": "2026-10-13T20:07:24Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "84c75e04a922ad2c": {
    "id": "84c75e04a922ad2c",
@@ -4934,7 +4529,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119444",
    "first_seen": "2026-10-13T20:07:24Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "b8c0e5b0ab545f8b": {
    "id": "b8c0e5b0ab545f8b",
@@ -5294,7 +4889,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119486",
    "first_seen": "2026-10-15T01:57:12Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "94ac39cf99a8c65c": {
    "id": "94ac39cf99a8c65c",
@@ -5324,7 +4919,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119494",
    "first_seen": "2026-10-15T01:57:12Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "1420450ab12c9194": {
    "id": "1420450ab12c9194",
@@ -5339,7 +4934,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119470",
    "first_seen": "2026-10-15T01:57:12Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "3c0b5d10c9909628": {
    "id": "3c0b5d10c9909628",
@@ -5354,7 +4949,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119493",
    "first_seen": "2026-10-15T01:57:12Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "542a1f66dd1a6635": {
    "id": "542a1f66dd1a6635",
@@ -5714,7 +5309,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119504",
    "first_seen": "2026-10-16T01:46:55Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "ac67a095a04f6b2c": {
    "id": "ac67a095a04f6b2c",
@@ -5804,7 +5399,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119522",
    "first_seen": "2026-10-16T01:46:55Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "797ca20882c43dd8": {
    "id": "797ca20882c43dd8",
@@ -5879,7 +5474,7 @@
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-recovery-coordinator-yakima-washington/6962897060",
    "first_seen": "2026-10-16T17:50:40Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "917cac44d1abda52": {
    "id": "917cac44d1abda52",
@@ -6074,7 +5669,7 @@
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-water-resource-field-specialist-iii-groveland-california/1853417950",
    "first_seen": "2026-10-16T17:50:40Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "eeb8e27374c47d03": {
    "id": "eeb8e27374c47d03",
@@ -6584,7 +6179,7 @@
    "job_type": "Temporary",
    "url": "https://www.conservationjobboard.com/job-listing-environmental-program-educator-dixon-california/3501777555",
    "first_seen": "2026-10-20T18:22:45Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "b8ffa765480c8e09": {
    "id": "b8ffa765480c8e09",
@@ -6629,7 +6224,7 @@
    "job_type": "Faculty / Postdoc",
    "url": "https://www.conservationjobboard.com/job-listing-postdoctoral-researcher-in-wildlife-ecology-at-the-wildland-urban-interface-santa-barbara-california/8428936013",
    "first_seen": "2026-10-20T18:22:45Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "20cdd8eddcd0be2d": {
    "id": "20cdd8eddcd0be2d",
@@ -6734,7 +6329,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119552",
    "first_seen": "2026-10-21T02:07:03Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "c6d8357b3c68062b": {
    "id": "c6d8357b3c68062b",
@@ -6749,7 +6344,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119548",
    "first_seen": "2026-10-21T02:07:03Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "5dfb9dda597ff2d4": {
    "id": "5dfb9dda597ff2d4",
@@ -6764,7 +6359,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119603",
    "first_seen": "2026-10-21T02:07:03Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "67982cbfc48ef6ff": {
    "id": "67982cbfc48ef6ff",
@@ -6824,7 +6419,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119590",
    "first_seen": "2026-10-21T02:07:03Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "66cf51a54b3219af": {
    "id": "66cf51a54b3219af",
@@ -6869,7 +6464,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119553",
    "first_seen": "2026-10-21T02:07:03Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "8854a3aacadff5ce": {
    "id": "8854a3aacadff5ce",
@@ -6944,7 +6539,7 @@
    "job_type": "Temporary",
    "url": "https://www.conservationjobboard.com/job-listing-naturalist-sea-kayak-guide-friday-harbor-washington/8966042021",
    "first_seen": "2026-10-21T18:28:04Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "db7cfdc60542407a": {
    "id": "db7cfdc60542407a",
@@ -7019,7 +6614,7 @@
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-technical-services-manager-remote-california/7746166476",
    "first_seen": "2026-10-21T18:28:04Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "4857777cfc269d4c": {
    "id": "4857777cfc269d4c",
@@ -7064,7 +6659,7 @@
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-field-organizer-truckee-california/6006382743",
    "first_seen": "2026-10-21T18:28:04Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "f3ca1a5b7f5cdd7e": {
    "id": "f3ca1a5b7f5cdd7e",
@@ -7349,7 +6944,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119637",
    "first_seen": "2026-10-22T02:01:03Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "e2877cd4de536776": {
    "id": "e2877cd4de536776",
@@ -7364,7 +6959,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119629",
    "first_seen": "2026-10-22T02:01:03Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "c0103c18c2dc425d": {
    "id": "c0103c18c2dc425d",
@@ -7379,7 +6974,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119631",
    "first_seen": "2026-10-22T02:01:03Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "dbffb23c6dcd4a41": {
    "id": "dbffb23c6dcd4a41",
@@ -7889,7 +7484,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119691",
    "first_seen": "2026-10-24T02:04:14Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "f70cb7d6d3c00626": {
    "id": "f70cb7d6d3c00626",
@@ -7904,7 +7499,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119696",
    "first_seen": "2026-10-24T02:04:14Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "91a26c1412620971": {
    "id": "91a26c1412620971",
@@ -7919,7 +7514,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119622",
    "first_seen": "2026-10-24T02:04:14Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "76ef345ec19c5acc": {
    "id": "76ef345ec19c5acc",
@@ -7934,7 +7529,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119682",
    "first_seen": "2026-10-24T02:04:14Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "86dc2f2aa28bba0d": {
    "id": "86dc2f2aa28bba0d",
@@ -7994,7 +7589,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119680",
    "first_seen": "2026-10-24T02:04:14Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "c613745b0e42473f": {
    "id": "c613745b0e42473f",
@@ -8099,7 +7694,7 @@
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-wildlife-biologist-kingston-washington/8083172533",
    "first_seen": "2026-10-26T19:46:28Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "ed9e9a81f224fbad": {
    "id": "ed9e9a81f224fbad",
@@ -8114,7 +7709,7 @@
    "job_type": "Temporary",
    "url": "https://www.conservationjobboard.com/job-listing-environmental-field-organizer-seattle-washington/6327839985",
    "first_seen": "2026-10-26T19:46:28Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "bb88e9d270f2d4e9": {
    "id": "bb88e9d270f2d4e9",
@@ -8129,7 +7724,7 @@
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-clean-water-associate-portland-oregon/6989597973",
    "first_seen": "2026-10-26T19:46:28Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "dc3e3d04e31c502f": {
    "id": "dc3e3d04e31c502f",
@@ -8174,7 +7769,7 @@
    "job_type": "Temporary",
    "url": "https://www.conservationjobboard.com/job-listing-environmental-field-organizer-oakland-california/1195956283",
    "first_seen": "2026-10-26T19:46:28Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "7d137ecbaa45376f": {
    "id": "7d137ecbaa45376f",
@@ -8309,7 +7904,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119755",
    "first_seen": "2026-10-27T19:15:45Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "429261f47582a7cf": {
    "id": "429261f47582a7cf",
@@ -8369,7 +7964,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119777",
    "first_seen": "2026-10-28T02:39:45Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "9933a9a7f2289d86": {
    "id": "9933a9a7f2289d86",
@@ -8384,7 +7979,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119776",
    "first_seen": "2026-10-28T02:39:45Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "599536b873b03ddb": {
    "id": "599536b873b03ddb",
@@ -8399,7 +7994,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119769",
    "first_seen": "2026-10-28T02:39:45Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "5b5dfb853e81c8c1": {
    "id": "5b5dfb853e81c8c1",
@@ -8414,7 +8009,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119767",
    "first_seen": "2026-10-28T02:39:45Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "86506bb93d56c668": {
    "id": "86506bb93d56c668",
@@ -8429,7 +8024,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119773",
    "first_seen": "2026-10-28T02:39:45Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "8ed81b949136d795": {
    "id": "8ed81b949136d795",
@@ -8849,7 +8444,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119795",
    "first_seen": "2026-10-29T02:58:46Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "964fd0f3bfe390b0": {
    "id": "964fd0f3bfe390b0",
@@ -8909,7 +8504,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119794",
    "first_seen": "2026-10-29T02:58:46Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "7d1377d9bd4c8388": {
    "id": "7d1377d9bd4c8388",
@@ -8924,7 +8519,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119792",
    "first_seen": "2026-10-29T02:58:46Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "d74cfb4a3a666b00": {
    "id": "d74cfb4a3a666b00",
@@ -9029,7 +8624,7 @@
    "job_type": "Paid Internship",
    "url": "https://www.conservationjobboard.com/job-listing-fishing-line-recycling-program-intern-lompoc-california/7854004805",
    "first_seen": "2026-10-29T19:26:15Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "07ef94964528ecdc": {
    "id": "07ef94964528ecdc",
@@ -9179,7 +8774,7 @@
    "job_type": "AmeriCorps",
    "url": "https://www.conservationjobboard.com/job-listing-education-and-visitor-services-technician-blm-carrizo-plains-national-monument-bakersfield-california/9503889012",
    "first_seen": "2026-10-29T19:26:15Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "7fa752ed97776b89": {
    "id": "7fa752ed97776b89",
@@ -9194,7 +8789,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119835",
    "first_seen": "2026-10-29T19:26:15Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "b4bcf46689ca48b7": {
    "id": "b4bcf46689ca48b7",
@@ -9239,7 +8834,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119843",
    "first_seen": "2026-10-30T03:03:22Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "bc321819162d5366": {
    "id": "bc321819162d5366",
@@ -9254,7 +8849,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119822",
    "first_seen": "2026-10-30T03:03:22Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "6a322c67bbb3382b": {
    "id": "6a322c67bbb3382b",
@@ -9269,7 +8864,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119806",
    "first_seen": "2026-10-30T03:03:22Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "46ef0662cca09af4": {
    "id": "46ef0662cca09af4",
@@ -9284,7 +8879,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119807",
    "first_seen": "2026-10-30T03:03:22Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "47c18f36d429cb12": {
    "id": "47c18f36d429cb12",
@@ -9524,7 +9119,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119854",
    "first_seen": "2026-10-30T19:01:20Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "21ce31ef8bccc7bb": {
    "id": "21ce31ef8bccc7bb",
@@ -9554,7 +9149,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119868",
    "first_seen": "2026-10-31T02:50:26Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "d12a5c390c637b2a": {
    "id": "d12a5c390c637b2a",
@@ -9584,7 +9179,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119867",
    "first_seen": "2026-10-31T02:50:26Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "7d2ee6ec2a971d89": {
    "id": "7d2ee6ec2a971d89",
@@ -9599,7 +9194,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=110041",
    "first_seen": "2026-10-31T02:50:26Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "96e91d6ecc400df7": {
    "id": "96e91d6ecc400df7",
@@ -9659,7 +9254,7 @@
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-operations-coordinator-port-angeles-washington/7725525693",
    "first_seen": "2026-11-02T22:38:05Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "bf7c6f6106e9d88b": {
    "id": "bf7c6f6106e9d88b",
@@ -9704,7 +9299,7 @@
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-seed-coordinator-olympia-washington/7498064035",
    "first_seen": "2026-11-02T22:38:05Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "3e22ec63a35b97ec": {
    "id": "3e22ec63a35b97ec",
@@ -9719,7 +9314,7 @@
    "job_type": "Temporary",
    "url": "https://www.conservationjobboard.com/job-listing-stream-surveyor-corvallis-oregon/3485857139",
    "first_seen": "2026-11-02T22:38:05Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "0a0560b694c44aa8": {
    "id": "0a0560b694c44aa8",
@@ -9734,7 +9329,7 @@
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-education-manager-selma-oregon/6847390803",
    "first_seen": "2026-11-02T22:38:05Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "13a55628c689679b": {
    "id": "13a55628c689679b",
@@ -9749,7 +9344,7 @@
    "job_type": "Temporary",
    "url": "https://www.conservationjobboard.com/job-listing-campaigner-for-environmental-non-profit-portland-oregon/3631874033",
    "first_seen": "2026-11-02T22:38:05Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "c98e7aec7879ad06": {
    "id": "c98e7aec7879ad06",
@@ -9764,7 +9359,7 @@
    "job_type": "Temporary",
    "url": "https://www.conservationjobboard.com/job-listing-campaigner-for-environmental-non-profit-los-angeles-california/5419524451",
    "first_seen": "2026-11-02T22:38:05Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "5d1d1460dc8c17ae": {
    "id": "5d1d1460dc8c17ae",
@@ -9779,7 +9374,7 @@
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-industrial-engine-and-equipment-technician-wastewater-mechanic-iii---environment-services-san-jose-california/6929001271",
    "first_seen": "2026-11-02T22:38:05Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "e0d494340fd1c70b": {
    "id": "e0d494340fd1c70b",
@@ -9794,7 +9389,7 @@
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-community-engagement-manager-auburn-california/9230639685",
    "first_seen": "2026-11-02T22:38:05Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "111814d06f3025c8": {
    "id": "111814d06f3025c8",
@@ -9959,7 +9554,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=86586",
    "first_seen": "2026-11-03T04:08:22Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "76e317a0eb8b4c72": {
    "id": "76e317a0eb8b4c72",
@@ -9974,7 +9569,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119895",
    "first_seen": "2026-11-03T04:08:22Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "0d2defafc9b9aec2": {
    "id": "0d2defafc9b9aec2",
@@ -9989,7 +9584,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119757",
    "first_seen": "2026-11-03T04:08:22Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "71811cc2ad1e2d75": {
    "id": "71811cc2ad1e2d75",
@@ -10004,7 +9599,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119173",
    "first_seen": "2026-11-03T04:08:22Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "bfee2db4a2fe213d": {
    "id": "bfee2db4a2fe213d",
@@ -10019,7 +9614,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119888",
    "first_seen": "2026-11-03T04:08:22Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "38698993a8e1d892": {
    "id": "38698993a8e1d892",
@@ -10034,7 +9629,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119890",
    "first_seen": "2026-11-03T04:08:22Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "7bbb943306562d94": {
    "id": "7bbb943306562d94",
@@ -10049,7 +9644,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119891",
    "first_seen": "2026-11-03T04:08:22Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "7f954e9c99a8c73b": {
    "id": "7f954e9c99a8c73b",
@@ -10079,7 +9674,7 @@
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-forest-school-teaching-team-member-eastsound-washington/4934288611",
    "first_seen": "2026-11-03T20:26:26Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "270eecf8a81ca4d4": {
    "id": "270eecf8a81ca4d4",
@@ -10124,7 +9719,7 @@
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-habitat-gis-and-data-specialist-portland-oregon/4299933201",
    "first_seen": "2026-11-03T20:26:26Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "43ac2bf89d54802a": {
    "id": "43ac2bf89d54802a",
@@ -10139,7 +9734,7 @@
    "job_type": "Temporary",
    "url": "https://www.conservationjobboard.com/job-listing-outdoor-education-program-supervisor-fossil-oregon/3789458251",
    "first_seen": "2026-11-03T20:26:26Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "cd1ab30ff1f8ab7d": {
    "id": "cd1ab30ff1f8ab7d",
@@ -10154,7 +9749,7 @@
    "job_type": "Temporary",
    "url": "https://www.conservationjobboard.com/job-listing-outdoor-education-program-supervisor-newport-oregon/4703784674",
    "first_seen": "2026-11-03T20:26:26Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "954460d2c6108cba": {
    "id": "954460d2c6108cba",
@@ -10169,7 +9764,7 @@
    "job_type": "Temporary",
    "url": "https://www.conservationjobboard.com/job-listing-outdoor-science-instructor-fossil-oregon/7230327202",
    "first_seen": "2026-11-03T20:26:26Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "ade8597facd06a4d": {
    "id": "ade8597facd06a4d",
@@ -10184,7 +9779,7 @@
    "job_type": "Temporary",
    "url": "https://www.conservationjobboard.com/job-listing-outdoor-science-instructor-newport-oregon/9581027150",
    "first_seen": "2026-11-03T20:26:26Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "b85f54f5f076bc0d": {
    "id": "b85f54f5f076bc0d",
@@ -10199,7 +9794,7 @@
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-fishery-biologist-2--chinook-monitoring-plan-la-grange-california/1332003935",
    "first_seen": "2026-11-03T20:26:26Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "90d7656384a80427": {
    "id": "90d7656384a80427",
@@ -10214,7 +9809,7 @@
    "job_type": "Temporary",
    "url": "https://www.conservationjobboard.com/job-listing-fisheries-technician-1---jpe-spring-run-chinook-monitoring-red-bluff-california/4708383628",
    "first_seen": "2026-11-03T20:26:26Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "c6eae3427f05c605": {
    "id": "c6eae3427f05c605",
@@ -10229,7 +9824,7 @@
    "job_type": "Temporary",
    "url": "https://www.conservationjobboard.com/job-listing-seasonal-ranger-aid-la-honda-california/9495305943",
    "first_seen": "2026-11-03T20:26:26Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "bbc3a105077bcd4b": {
    "id": "bbc3a105077bcd4b",
@@ -10244,7 +9839,7 @@
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-fisheries-technician-1--ocean-salmon-lab-santa-rosa-california/7841886024",
    "first_seen": "2026-11-03T20:26:26Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "ea108bc83b7347b6": {
    "id": "ea108bc83b7347b6",
@@ -10259,7 +9854,7 @@
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-water-resources-control-engineer-santa-rosa-california/2025992776",
    "first_seen": "2026-11-03T20:26:26Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "c49ceb50cc23ce43": {
    "id": "c49ceb50cc23ce43",
@@ -10274,7 +9869,7 @@
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-staff-accountant-sacramento-california/9370514651",
    "first_seen": "2026-11-03T20:26:26Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "a9c311520e2401fa": {
    "id": "a9c311520e2401fa",
@@ -10289,7 +9884,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119912",
    "first_seen": "2026-11-03T20:26:26Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "882c88891e73e768": {
    "id": "882c88891e73e768",
@@ -10304,7 +9899,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119883",
    "first_seen": "2026-11-03T20:26:26Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "6874af1b787db388": {
    "id": "6874af1b787db388",
@@ -10319,7 +9914,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119908",
    "first_seen": "2026-11-03T20:26:26Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "d003e3959dcc6555": {
    "id": "d003e3959dcc6555",
@@ -10334,7 +9929,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119909",
    "first_seen": "2026-11-03T20:26:26Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "de3100396071af4a": {
    "id": "de3100396071af4a",
@@ -10349,7 +9944,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119910",
    "first_seen": "2026-11-03T20:26:26Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "28571d75da0eb575": {
    "id": "28571d75da0eb575",
@@ -10364,7 +9959,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119911",
    "first_seen": "2026-11-03T20:26:26Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "25ba0babf71cc8b6": {
    "id": "25ba0babf71cc8b6",
@@ -10439,7 +10034,7 @@
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-managing-director-of-advancement-friday-harbor-washington/3925946335",
    "first_seen": "2026-11-04T20:41:21Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "098a849538429724": {
    "id": "098a849538429724",
@@ -10469,7 +10064,7 @@
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-career-seasonal-dispatcher-wildland-fire-dispatcher-enumclaw-washington/8949691541",
    "first_seen": "2026-11-04T20:41:21Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "5a2c0c586d535abc": {
    "id": "5a2c0c586d535abc",
@@ -10484,7 +10079,7 @@
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-wildland-fire-crew-foreman-spokane-washington/9377989065",
    "first_seen": "2026-11-04T20:41:21Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "5598c8ba144025d0": {
    "id": "5598c8ba144025d0",
@@ -10499,7 +10094,7 @@
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-staff-attorney-bend-preferred-or-portland-possible-oregon/4334692218",
    "first_seen": "2026-11-04T20:41:21Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "837f43ba471e6d9e": {
    "id": "837f43ba471e6d9e",
@@ -10514,7 +10109,7 @@
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-restoration-projects-manager-morro-bay-california/5475312990",
    "first_seen": "2026-11-04T20:41:21Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "e17cfc50f12d1ef2": {
    "id": "e17cfc50f12d1ef2",
@@ -10544,7 +10139,7 @@
    "job_type": "Temporary",
    "url": "https://www.conservationjobboard.com/job-listing-watershed-aide-fairfax-california/3153637387",
    "first_seen": "2026-11-04T20:41:21Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "a4f176a7042c1669": {
    "id": "a4f176a7042c1669",
@@ -10589,7 +10184,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119941",
    "first_seen": "2026-11-05T03:49:06Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "e1eb5d0ced27e7b2": {
    "id": "e1eb5d0ced27e7b2",
@@ -10604,7 +10199,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119964",
    "first_seen": "2026-11-05T03:49:06Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "eb184fb58b87cb2c": {
    "id": "eb184fb58b87cb2c",
@@ -10619,7 +10214,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119959",
    "first_seen": "2026-11-05T03:49:06Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "6fac4bdd8b512f2c": {
    "id": "6fac4bdd8b512f2c",
@@ -10634,7 +10229,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119944",
    "first_seen": "2026-11-05T03:49:06Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "1a66768e8be4f23c": {
    "id": "1a66768e8be4f23c",
@@ -10709,7 +10304,7 @@
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-accounting-manager-corvallis-oregon/1346710731",
    "first_seen": "2026-11-05T20:57:00Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "62e5081be5179294": {
    "id": "62e5081be5179294",
@@ -10724,7 +10319,7 @@
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-stewardship-coordinator-bend-oregon/9756200608",
    "first_seen": "2026-11-05T20:57:00Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "117f89b2241bb5a0": {
    "id": "117f89b2241bb5a0",
@@ -10739,7 +10334,7 @@
    "job_type": "Temporary",
    "url": "https://www.conservationjobboard.com/job-listing-seasonal-wildlife-educator-bend-oregon/6936984711",
    "first_seen": "2026-11-05T20:57:00Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "15874f9f88302659": {
    "id": "15874f9f88302659",
@@ -10754,7 +10349,7 @@
    "job_type": "Unpaid",
    "url": "https://www.conservationjobboard.com/job-listing-catalogue-wildlife-images-data-entry-for-research-mill-valley-california/2233765732",
    "first_seen": "2026-11-05T20:57:00Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "d6efff5a26393f08": {
    "id": "d6efff5a26393f08",
@@ -10769,7 +10364,7 @@
    "job_type": "Unpaid",
    "url": "https://www.conservationjobboard.com/job-listing-experienced-fundraiser-with-knowledge-of-crms-mill-valley-california/9687473292",
    "first_seen": "2026-11-05T20:57:00Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "2c73a20e5eef6319": {
    "id": "2c73a20e5eef6319",
@@ -10784,7 +10379,7 @@
    "job_type": "Unpaid",
    "url": "https://www.conservationjobboard.com/job-listing-volunteer-social-media-manager-volunteer-for-conservation-non-profit-mill-valley-california/4870625406",
    "first_seen": "2026-11-05T20:57:00Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "df6ef8773483fb35": {
    "id": "df6ef8773483fb35",
@@ -10799,7 +10394,7 @@
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-senior-management-analyst-mshcp-compliance-riverside-california/7614998423",
    "first_seen": "2026-11-05T20:57:00Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "333e76ec56be8293": {
    "id": "333e76ec56be8293",
@@ -10814,7 +10409,7 @@
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-environmental-scientist-jc-482161-san-luis-obispo-california/3327365428",
    "first_seen": "2026-11-05T20:57:00Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "993919dd41a8d9f7": {
    "id": "993919dd41a8d9f7",
@@ -10829,7 +10424,7 @@
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-cea-jc-537491-sacramento-california/1706204819",
    "first_seen": "2026-11-05T20:57:00Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "d47ee2e8e794437d": {
    "id": "d47ee2e8e794437d",
@@ -10844,7 +10439,7 @@
    "job_type": "Temporary",
    "url": "https://www.conservationjobboard.com/job-listing-community-volunteer-ambassador-cva---volunteer--community-engagement-intern-at-cabrillo-national-monument-san-diego-california/5128098062",
    "first_seen": "2026-11-05T20:57:00Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "45a3d3abeab036ea": {
    "id": "45a3d3abeab036ea",
@@ -10859,7 +10454,7 @@
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-director-of-programs-and-partnerships-part-time-richmond-california/6154143209",
    "first_seen": "2026-11-05T20:57:00Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "4a49f4b6f3f82669": {
    "id": "4a49f4b6f3f82669",
@@ -10874,7 +10469,7 @@
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-program-manager-capital-improvement-program---environmental-services-department-san-jose-california/4168405796",
    "first_seen": "2026-11-05T20:57:00Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "62d95c4cc7b1c237": {
    "id": "62d95c4cc7b1c237",
@@ -10889,7 +10484,7 @@
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-water-resource-control-engineer-jc-537765-glendale-california/6079891665",
    "first_seen": "2026-11-05T20:57:00Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "e6cb4e25c8e909e8": {
    "id": "e6cb4e25c8e909e8",
@@ -10904,7 +10499,7 @@
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-environmental-education-and-communications-coordinator-richmond-california/6561354193",
    "first_seen": "2026-11-05T20:57:00Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "49ac75bb95878bfc": {
    "id": "49ac75bb95878bfc",
@@ -10919,7 +10514,7 @@
    "job_type": "Temporary",
    "url": "https://www.conservationjobboard.com/job-listing-usfs-wildland-fire-academy-fuels-team-leader-multiple-california/9914091487",
    "first_seen": "2026-11-05T20:57:00Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "71b248f0e0374a1c": {
    "id": "71b248f0e0374a1c",
@@ -10949,7 +10544,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119972",
    "first_seen": "2026-11-06T03:46:17Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "3a151fd6d89dfdd7": {
    "id": "3a151fd6d89dfdd7",
@@ -10964,7 +10559,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119971",
    "first_seen": "2026-11-06T03:46:17Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "0f2eb1bc5eb514da": {
    "id": "0f2eb1bc5eb514da",
@@ -10994,7 +10589,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119988",
    "first_seen": "2026-11-06T03:46:17Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "60eb490d8fb53d59": {
    "id": "60eb490d8fb53d59",
@@ -11084,7 +10679,7 @@
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-natural-resource-police-officer-deer-park-washington/5494231553",
    "first_seen": "2026-11-06T20:16:02Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "d706fd136e0e29a3": {
    "id": "d706fd136e0e29a3",
@@ -11099,7 +10694,7 @@
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-mitigation-specialist-natural-resource-specialist-4-salem-oregon/1208922901",
    "first_seen": "2026-11-06T20:16:02Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "64a0ceb617d7a05a": {
    "id": "64a0ceb617d7a05a",
@@ -11114,7 +10709,7 @@
    "job_type": "Paid Internship",
    "url": "https://www.conservationjobboard.com/job-listing-conifer-nursery-intern-conifer-nursery--seed-center-grenada-california/3601434251",
    "first_seen": "2026-11-06T20:16:02Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "a73a1a612da638b3": {
    "id": "a73a1a612da638b3",
@@ -11129,7 +10724,7 @@
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-part-time-park-keeper-petaluma-california/7948501854",
    "first_seen": "2026-11-06T20:16:02Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "06458acebfd3fb1f": {
    "id": "06458acebfd3fb1f",
@@ -11144,7 +10739,7 @@
    "job_type": "Paid Internship",
    "url": "https://www.conservationjobboard.com/job-listing-forestry-intern-multiple-districts-anderson-california/3462781607",
    "first_seen": "2026-11-06T20:16:02Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "a593fbbce1e8d049": {
    "id": "a593fbbce1e8d049",
@@ -11159,7 +10754,7 @@
    "job_type": "Paid Internship",
    "url": "https://www.conservationjobboard.com/job-listing-forestry-procurement-intern-quincy-california/5349919776",
    "first_seen": "2026-11-06T20:16:02Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "5a55890776fe6206": {
    "id": "5a55890776fe6206",
@@ -11174,7 +10769,7 @@
    "job_type": "Paid Internship",
    "url": "https://www.conservationjobboard.com/job-listing-reforestation-intern-weaverville-district-weaverville-california/7172890860",
    "first_seen": "2026-11-06T20:16:02Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "88f8138b95d4982d": {
    "id": "88f8138b95d4982d",
@@ -11189,7 +10784,7 @@
    "job_type": "Paid Internship",
    "url": "https://www.conservationjobboard.com/job-listing-research-intern-forestry-anderson-california/4548425817",
    "first_seen": "2026-11-06T20:16:02Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "8e0733c0f8583c8f": {
    "id": "8e0733c0f8583c8f",
@@ -11204,7 +10799,7 @@
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-aquatic-ecologist-fairfax-california/6858796955",
    "first_seen": "2026-11-06T20:16:02Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "5e28b6d72a58cfb4": {
    "id": "5e28b6d72a58cfb4",
@@ -11219,7 +10814,7 @@
    "job_type": "Unpaid",
    "url": "https://www.conservationjobboard.com/job-listing-park-host-santa-cruz-california/7724129461",
    "first_seen": "2026-11-06T20:16:02Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "f04c3143f0c4d780": {
    "id": "f04c3143f0c4d780",
@@ -11234,7 +10829,7 @@
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-wildlife-biologist-aide-martell-tahoe-sonora-districts-sonora-california/4780932776",
    "first_seen": "2026-11-06T20:16:02Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "257ed6c28c3fef40": {
    "id": "257ed6c28c3fef40",
@@ -11249,7 +10844,7 @@
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-sierra-nevada-yellow-legged-frog-project-manager-quincy-california/9459707764",
    "first_seen": "2026-11-06T20:16:02Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "49d359235dae81ac": {
    "id": "49d359235dae81ac",
@@ -11264,7 +10859,7 @@
    "job_type": "Paid Internship",
    "url": "https://www.conservationjobboard.com/job-listing-wildlife-intern-anderson-weaverville-or-westwood-anderson-california/7044586480",
    "first_seen": "2026-11-06T20:16:02Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "1b05f22081074b58": {
    "id": "1b05f22081074b58",
@@ -11369,7 +10964,7 @@
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-utilities-lead-chelan-washington/2134812724",
    "first_seen": "2026-11-09T23:18:13Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "fe78b1fc4c87ca69": {
    "id": "fe78b1fc4c87ca69",
@@ -11384,7 +10979,7 @@
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-principal-biologist-sacramento-california/6410925182",
    "first_seen": "2026-11-09T23:18:13Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "76f0ac25cee888a5": {
    "id": "76f0ac25cee888a5",
@@ -11399,7 +10994,7 @@
    "job_type": "Temporary",
    "url": "https://www.conservationjobboard.com/job-listing-southern-sierra-project-coordinator-fresno-california/8635192447",
    "first_seen": "2026-11-09T23:18:13Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "aed2db2d8267ed8c": {
    "id": "aed2db2d8267ed8c",
@@ -11414,7 +11009,7 @@
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-klamath-project-manager-etna-california/4890420054",
    "first_seen": "2026-11-09T23:18:13Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "70c71998186d7f38": {
    "id": "70c71998186d7f38",
@@ -11429,7 +11024,7 @@
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-environmental-scientist-jc-538016-rancho-cordova-california/5466964914",
    "first_seen": "2026-11-09T23:18:13Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "82a9a8c55cca4af4": {
    "id": "82a9a8c55cca4af4",
@@ -11444,7 +11039,7 @@
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-field-organizer-san-francisco-california/1269112712",
    "first_seen": "2026-11-09T23:18:13Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "95be47394c0e162a": {
    "id": "95be47394c0e162a",
@@ -11474,7 +11069,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=120060",
    "first_seen": "2026-11-09T23:18:13Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "7870f5addf078a51": {
    "id": "7870f5addf078a51",
@@ -11729,7 +11324,7 @@
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-staff-attorney---wild-places-program-portland-oregon/6304964088",
    "first_seen": "2026-11-10T20:43:30Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "a6b1a25952601475": {
    "id": "a6b1a25952601475",
@@ -11744,7 +11339,7 @@
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-engineering-geologist-jc-538092-palm-desert-california/5447267507",
    "first_seen": "2026-11-10T20:43:30Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "95ae9d2a3f94643b": {
    "id": "95ae9d2a3f94643b",
@@ -11759,7 +11354,7 @@
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-predator-biologist-san-diego-orange--los-angeles-counties-ca-california/1650227049",
    "first_seen": "2026-11-10T20:43:30Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "f6737e5761ba6240": {
    "id": "f6737e5761ba6240",
@@ -11774,7 +11369,7 @@
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-on-call-avian-biologist-san-diego-orange--los-angeles-counties-california/7401614644",
    "first_seen": "2026-11-10T20:43:30Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "5519b98956c4b142": {
    "id": "5519b98956c4b142",
@@ -11789,7 +11384,7 @@
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-environment-california-campaign-associate-oakland-california/2123295258",
    "first_seen": "2026-11-10T20:43:30Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "b91119ba62910ea0": {
    "id": "b91119ba62910ea0",
@@ -11804,7 +11399,7 @@
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-environmental-scientist-jc-538346-sacramento-california/4089466880",
    "first_seen": "2026-11-10T20:43:30Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "f4554c3f117f8353": {
    "id": "f4554c3f117f8353",
@@ -11819,7 +11414,7 @@
    "job_type": "Temporary",
    "url": "https://www.conservationjobboard.com/job-listing-physical-science-technician-mammoth-lakes-california/7746685298",
    "first_seen": "2026-11-10T20:43:30Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "ceb6a0a211639336": {
    "id": "ceb6a0a211639336",
@@ -11834,7 +11429,7 @@
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-environmental-scientist-jc-538427-sacramento-california/4508054323",
    "first_seen": "2026-11-10T20:43:30Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "39a5338a14ada2ef": {
    "id": "39a5338a14ada2ef",
@@ -11849,7 +11444,7 @@
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-field-organizer-los-angeles-california/1372572972",
    "first_seen": "2026-11-10T20:43:30Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "bf3a8185fde321ad": {
    "id": "bf3a8185fde321ad",
@@ -11864,7 +11459,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=120016",
    "first_seen": "2026-11-10T20:43:30Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "39d7f817dad461cf": {
    "id": "39d7f817dad461cf",
@@ -11954,7 +11549,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=120084",
    "first_seen": "2026-11-11T03:15:24Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "22498d9dc1687d50": {
    "id": "22498d9dc1687d50",
@@ -12029,7 +11624,7 @@
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-flood-risk-reduction-coordinator-environmental-planner-4-lacey-washington/9014539751",
    "first_seen": "2026-11-11T21:05:44Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "fb257bc49ea81082": {
    "id": "fb257bc49ea81082",
@@ -12044,7 +11639,7 @@
    "job_type": "Temporary",
    "url": "https://www.conservationjobboard.com/job-listing-estuary-avian-field-technician-mt-vernon-washington/2320588616",
    "first_seen": "2026-11-11T21:05:44Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "bf750dfa569fe899": {
    "id": "bf750dfa569fe899",
@@ -12059,7 +11654,7 @@
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-oregon-conservation-campaign-associate-portland-oregon/5005533827",
    "first_seen": "2026-11-11T21:05:44Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "c19f853d3c0c6c3d": {
    "id": "c19f853d3c0c6c3d",
@@ -12074,7 +11669,7 @@
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-restoration-ecologist-corvallis-oregon/5526286758",
    "first_seen": "2026-11-11T21:05:44Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "4dc9badd9ac76695": {
    "id": "4dc9badd9ac76695",
@@ -12089,7 +11684,7 @@
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-biological-permitting-specialist-san-juan-capistrano-california/7838638740",
    "first_seen": "2026-11-11T21:05:44Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "93a062cf10a54a2d": {
    "id": "93a062cf10a54a2d",
@@ -12104,7 +11699,7 @@
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-watershed-specialist-oakland-california/1715471980",
    "first_seen": "2026-11-11T21:05:44Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "33167f142ebe5318": {
    "id": "33167f142ebe5318",
@@ -12119,7 +11714,7 @@
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-high-sierra-associate-program-director-midpines-california/3556811330",
    "first_seen": "2026-11-11T21:05:44Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "60f9b2d24776295e": {
    "id": "60f9b2d24776295e",
@@ -12134,7 +11729,7 @@
    "job_type": "Temporary",
    "url": "https://www.conservationjobboard.com/job-listing-herpetologist-san-diego-california/1213265637",
    "first_seen": "2026-11-11T21:05:44Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "e6c4db49d04245eb": {
    "id": "e6c4db49d04245eb",
@@ -12149,7 +11744,7 @@
    "job_type": "Temporary",
    "url": "https://www.conservationjobboard.com/job-listing-high-sierra-program-manager-midpines-california/8133111515",
    "first_seen": "2026-11-11T21:05:44Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "e12e5c156f3affd8": {
    "id": "e12e5c156f3affd8",
@@ -12164,7 +11759,7 @@
    "job_type": "Temporary",
    "url": "https://www.conservationjobboard.com/job-listing-high-sierra-backpacking-instructor-midpines-california/7584240102",
    "first_seen": "2026-11-11T21:05:44Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "821161b2b96b0854": {
    "id": "821161b2b96b0854",
@@ -12179,7 +11774,7 @@
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-natural-resources-manager-klamath-california/1245619030",
    "first_seen": "2026-11-11T21:05:44Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "7336942c1a81c552": {
    "id": "7336942c1a81c552",
@@ -12194,7 +11789,7 @@
    "job_type": "Temporary",
    "url": "https://www.conservationjobboard.com/job-listing-high-sierra-logistics-coordinator-midpines-california/9826235648",
    "first_seen": "2026-11-11T21:05:44Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "79d96d8d3a77f337": {
    "id": "79d96d8d3a77f337",
@@ -12209,7 +11804,7 @@
    "job_type": "Temporary",
    "url": "https://www.conservationjobboard.com/job-listing-environmental-restoration-team-member-cedarville-california/5519463580",
    "first_seen": "2026-11-11T21:05:44Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "3980ab109c70348a": {
    "id": "3980ab109c70348a",
@@ -12224,7 +11819,7 @@
    "job_type": "Paid Internship",
    "url": "https://www.conservationjobboard.com/job-listing-high-sierra-program-intern-midpines-california/5854840349",
    "first_seen": "2026-11-11T21:05:44Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "6c5d4f57c86c0329": {
    "id": "6c5d4f57c86c0329",
@@ -12239,7 +11834,7 @@
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-senior-program-director-la-honda-california/3627413553",
    "first_seen": "2026-11-11T21:05:44Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "e5bb38510f8ef720": {
    "id": "e5bb38510f8ef720",
@@ -12254,7 +11849,7 @@
    "job_type": "Temporary",
    "url": "https://www.conservationjobboard.com/job-listing-environmental-restoration-team-lead-member-cedarville-california/9048730269",
    "first_seen": "2026-11-11T21:05:44Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "3093e208ec092bba": {
    "id": "3093e208ec092bba",
@@ -12284,7 +11879,7 @@
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-district-forester-roseburg-forestry-district-roseburg-oregon/9419594774",
    "first_seen": "2026-11-12T21:20:31Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "a5656234832fdf20": {
    "id": "a5656234832fdf20",
@@ -12299,7 +11894,7 @@
    "job_type": "Temporary",
    "url": "https://www.conservationjobboard.com/job-listing-environmental-education-instructor-catalina-island-california/8843787020",
    "first_seen": "2026-11-12T21:20:31Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "7e7184686c16e6d8": {
    "id": "7e7184686c16e6d8",
@@ -12314,7 +11909,7 @@
    "job_type": "Temporary",
    "url": "https://www.conservationjobboard.com/job-listing-full-time-northern-spotted-owl-monitoring-technicians-marin-california/9538194285",
    "first_seen": "2026-11-12T21:20:31Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "b9e78881d67a2b15": {
    "id": "b9e78881d67a2b15",
@@ -12329,7 +11924,7 @@
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-garden-manager-oakland-california/2769199267",
    "first_seen": "2026-11-12T21:20:31Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "6e68b26fa3094a74": {
    "id": "6e68b26fa3094a74",
@@ -12344,7 +11939,7 @@
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-people-and-culture-manager-oakland-california/3636225852",
    "first_seen": "2026-11-12T21:20:31Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "9a5af94d03cd4957": {
    "id": "9a5af94d03cd4957",
@@ -12359,7 +11954,7 @@
    "job_type": "Paid Internship",
    "url": "https://www.conservationjobboard.com/job-listing-habitat-restoration-nursery-fellow-oakland-california/5378938975",
    "first_seen": "2026-11-12T21:20:31Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "52fb9ec195634a40": {
    "id": "52fb9ec195634a40",
@@ -12374,7 +11969,7 @@
    "job_type": "Paid Internship",
    "url": "https://www.conservationjobboard.com/job-listing-habitat-restoration-and-outdoor-education-fellow-oakland-california/8682818126",
    "first_seen": "2026-11-12T21:20:31Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "45687939452efad2": {
    "id": "45687939452efad2",
@@ -12389,7 +11984,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=120081",
    "first_seen": "2026-11-12T21:20:31Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "987e2c7e31ea438d": {
    "id": "987e2c7e31ea438d",
@@ -12404,7 +11999,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=120116",
    "first_seen": "2026-11-12T21:20:31Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "aacf281822d04187": {
    "id": "aacf281822d04187",
@@ -12419,7 +12014,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=120063",
    "first_seen": "2026-11-12T21:20:31Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "a681ce932cc75ea0": {
    "id": "a681ce932cc75ea0",
@@ -12434,7 +12029,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=120067",
    "first_seen": "2026-11-12T21:20:31Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "45993187b6a869af": {
    "id": "45993187b6a869af",
@@ -12449,7 +12044,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=120068",
    "first_seen": "2026-11-12T21:20:31Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "31276b709a6b4660": {
    "id": "31276b709a6b4660",
@@ -12464,7 +12059,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=120082",
    "first_seen": "2026-11-12T21:20:31Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "4641822f97d7cf22": {
    "id": "4641822f97d7cf22",
@@ -12479,7 +12074,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=120064",
    "first_seen": "2026-11-12T21:20:31Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "e293816b7c5e362b": {
    "id": "e293816b7c5e362b",
@@ -12494,7 +12089,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=120065",
    "first_seen": "2026-11-12T21:20:31Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "8884051468b72915": {
    "id": "8884051468b72915",
@@ -12509,7 +12104,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=120069",
    "first_seen": "2026-11-12T21:20:31Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "754de48138f45de3": {
    "id": "754de48138f45de3",
@@ -12524,7 +12119,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=120108",
    "first_seen": "2026-11-12T21:20:31Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "de84126f240b6c54": {
    "id": "de84126f240b6c54",
@@ -12599,7 +12194,7 @@
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-air-operations-support-coordinator---wildland-fire-tumwater-washington/2040621991",
    "first_seen": "2026-11-13T20:47:20Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "bbb769188525bf96": {
    "id": "bbb769188525bf96",
@@ -12614,7 +12209,7 @@
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-natural-resources-region-manager-colville-washington/9282374128",
    "first_seen": "2026-11-13T20:47:20Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "7cce24a2ef8ceb3a": {
    "id": "7cce24a2ef8ceb3a",
@@ -12629,7 +12224,7 @@
    "job_type": "Temporary",
    "url": "https://www.conservationjobboard.com/job-listing-spring-and-summer-young-adult-conservation-camping-crew-lead-eugene-oregon/8046950066",
    "first_seen": "2026-11-13T20:47:20Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "09d231ef7180edfb": {
    "id": "09d231ef7180edfb",
@@ -12644,7 +12239,7 @@
    "job_type": "Temporary",
    "url": "https://www.conservationjobboard.com/job-listing-spring-young-adult-conservation-camping-crew-leader-eugene-oregon/6846278328",
    "first_seen": "2026-11-13T20:47:20Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "f8fde1b020651c16": {
    "id": "f8fde1b020651c16",
@@ -12659,7 +12254,7 @@
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-climate-advocate-arcata-california/9062592090",
    "first_seen": "2026-11-13T20:47:20Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "fb9d071ef4be67f8": {
    "id": "fb9d071ef4be67f8",
@@ -12674,7 +12269,7 @@
    "job_type": "Temporary",
    "url": "https://www.conservationjobboard.com/job-listing-communications-advocacy-and-events-project-coordinator-weaverville-california/3432394149",
    "first_seen": "2026-11-13T20:47:20Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "bcff40341bf5a88d": {
    "id": "bcff40341bf5a88d",
@@ -12689,7 +12284,7 @@
    "job_type": "Permanent",
    "url": "https://www.conservationjobboard.com/job-listing-transmission-unit-supervisor-sacramento-ca-usa-california/2210687108",
    "first_seen": "2026-11-13T20:47:20Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "7f4274b7aef8b776": {
    "id": "7f4274b7aef8b776",
@@ -12704,7 +12299,7 @@
    "job_type": "AmeriCorps",
    "url": "https://www.conservationjobboard.com/job-listing-california-condor-monitoring-technician-yurok-tribe-orick-ca-orick-california/2428966213",
    "first_seen": "2026-11-13T20:47:20Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "fe02ca0fe5d84f16": {
    "id": "fe02ca0fe5d84f16",
@@ -12719,7 +12314,7 @@
    "job_type": "Temporary",
    "url": "https://www.conservationjobboard.com/job-listing-botanist-aide-anderson-california/1962948582",
    "first_seen": "2026-11-13T20:47:20Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "b1c36ac880a65fc0": {
    "id": "b1c36ac880a65fc0",
@@ -12734,7 +12329,7 @@
    "job_type": "AmeriCorps",
    "url": "https://www.conservationjobboard.com/job-listing-education-and-visitor-services-technician-blm-carrizo-plains-national-monument-bakersfield-california/3943325310",
    "first_seen": "2026-11-13T20:47:20Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "c7cffc4bea9bd047": {
    "id": "c7cffc4bea9bd047",
@@ -12749,7 +12344,7 @@
    "job_type": "Temporary",
    "url": "https://www.conservationjobboard.com/job-listing-wildlife-aide---seasonal-anderson-california/6663211324",
    "first_seen": "2026-11-13T20:47:20Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "6d565601bc5aabe2": {
    "id": "6d565601bc5aabe2",
@@ -12764,7 +12359,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=120141",
    "first_seen": "2026-11-13T20:47:20Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "5502ece40f28d952": {
    "id": "5502ece40f28d952",
@@ -12779,7 +12374,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=120129",
    "first_seen": "2026-11-13T20:47:20Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "4472c4a441ccf635": {
    "id": "4472c4a441ccf635",
@@ -12794,7 +12389,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=120131",
    "first_seen": "2026-11-13T20:47:20Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "30511e06a75861fb": {
    "id": "30511e06a75861fb",
@@ -12809,7 +12404,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=120011",
    "first_seen": "2026-11-14T03:40:40Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "af128e7231dfd309": {
    "id": "af128e7231dfd309",
@@ -12824,7 +12419,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=120032",
    "first_seen": "2026-11-14T03:40:40Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "c845a18dabe68eb0": {
    "id": "c845a18dabe68eb0",
@@ -12839,7 +12434,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=120033",
    "first_seen": "2026-11-14T03:40:40Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "ea0b6a84eb570b1c": {
    "id": "ea0b6a84eb570b1c",
@@ -12854,7 +12449,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=120034",
    "first_seen": "2026-11-14T03:40:40Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "2783ef1ce4b07455": {
    "id": "2783ef1ce4b07455",
@@ -12869,7 +12464,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=120035",
    "first_seen": "2026-11-14T03:40:40Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "c93c3b4c6b405dcd": {
    "id": "c93c3b4c6b405dcd",
@@ -12884,7 +12479,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=120037",
    "first_seen": "2026-11-14T03:40:40Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "05b783bb65849f49": {
    "id": "05b783bb65849f49",
@@ -12899,7 +12494,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=120036",
    "first_seen": "2026-11-14T03:40:40Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "94d0f7b14ae173e2": {
    "id": "94d0f7b14ae173e2",
@@ -12914,7 +12509,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=120012",
    "first_seen": "2026-11-14T03:40:40Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "d42d1d028abe0ae1": {
    "id": "d42d1d028abe0ae1",
@@ -12929,7 +12524,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=120153",
    "first_seen": "2026-11-14T03:40:40Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "6625fe17c2fedf1c": {
    "id": "6625fe17c2fedf1c",
@@ -12944,7 +12539,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=120154",
    "first_seen": "2026-11-14T03:40:40Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "f585c0516dec219d": {
    "id": "f585c0516dec219d",
@@ -12959,7 +12554,7 @@
    "job_type": "",
    "url": "https://jobs.rwfm.tamu.edu/view-job/?id=120157",
    "first_seen": "2026-11-14T03:40:40Z",
-   "last_seen": "2026-11-15T19:36:53Z"
+   "last_seen": "2026-11-16T03:18:47Z"
   },
   "180249ff1aaabe0b": {
    "id": "180249ff1aaabe0b",
